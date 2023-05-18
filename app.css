@@ -14,6 +14,7 @@ body {
     max-width: 20vw;
     height: 100%;
     max-height: calc(100vh - 4em);
+    overflow-x: hidden;
     overflow-y: scroll;
     padding: 2em;
     background: #2e2e2e;
