@@ -10,6 +10,7 @@ window.addEventListener('load', (event) => {
     });
 
     let groups = [];
+    let activeType = '';
     let leftBottom = map.unproject([-6000, 5000], 0);
     let topRight = map.unproject([6000, -5000], 0);
     let bounds = new L.LatLngBounds(leftBottom, topRight);
@@ -17,27 +18,56 @@ window.addEventListener('load', (event) => {
 
     let skyOverlay = L.imageOverlay('images/maps/sky.jpg', bounds);
     let mainOverlay = L.imageOverlay('images/maps/main.jpg', bounds);
+    let caveOverlay = L.imageOverlay('images/maps/main.jpg', bounds);
     let chasmOverlay = L.imageOverlay('images/maps/chasm.jpg', bounds);
 
     jQuery('#showSky').click(function () {
+        if (activeType === 'sky') {
+            return;
+        }
+
         skyOverlay.addTo(map);
         map.removeLayer(mainOverlay);
+        map.removeLayer(caveOverlay);
         map.removeLayer(chasmOverlay);
 
         activateType('sky');
     });
 
     jQuery('#showMain').click(function () {
+        if (activeType === 'main') {
+            return;
+        }
+
         map.removeLayer(skyOverlay);
         mainOverlay.addTo(map);
+        map.removeLayer(caveOverlay);
         map.removeLayer(chasmOverlay);
 
         activateType('main');
     }).trigger('click');
 
-    jQuery('#showChasm').click(function () {
+    jQuery('#showCave').click(function () {
+        if (activeType === 'cave') {
+            return;
+        }
+
         map.removeLayer(skyOverlay);
         map.removeLayer(mainOverlay);
+        caveOverlay.addTo(map);
+        map.removeLayer(chasmOverlay);
+
+        activateType('cave');
+    });
+
+    jQuery('#showChasm').click(function () {
+        if (activeType === 'chasm') {
+            return;
+        }
+
+        map.removeLayer(skyOverlay);
+        map.removeLayer(mainOverlay);
+        map.removeLayer(caveOverlay);
         chasmOverlay.addTo(map);
 
         activateType('chasm');
