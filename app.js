@@ -38,7 +38,7 @@ window.addEventListener('load', (event) => {
 
     map.setMaxBounds(bounds);
 
-    jQuery.getJSON("data.json", function (groups) {
+    jQuery.getJSON("data/main.json", function (groups) {
         window.groups = groups;
         var groups2 = groups;
 
