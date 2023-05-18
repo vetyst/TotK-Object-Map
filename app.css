@@ -32,9 +32,18 @@ body {
     border-bottom: 2px solid #3e3e3e;
 }
 
-#itemFilterSearch {
+#filter-search input[type=search] {
     width: 100%;
     font-size: 18px;
     padding: .2em;
     margin-bottom: .5em;
+}
+
+.totk-marker > h2 {
+    font-size: 16px;
+    margin-bottom: 0.5em;
+}
+
+.totk-marker-meta > span {
+    display: block;
 }

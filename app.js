@@ -58,7 +58,15 @@ window.addEventListener('load', (event) => {
                         radius: 3
                     });
 
-                    marker.bindPopup(groups2[val].name);
+                    marker.bindPopup("<div class='totk-marker'>" +
+                        "<h2>"+groups2[val].name+"<`/h2>" +
+                        "<div class='totk-marker-meta'>" +
+                        "<span><strong>X: </strong>"+point.x+"</span>" +
+                        "<span><strong>Y: </strong>"+point.y+"</span>" +
+                        "<span><strong>Z: </strong>"+point.z+"</span>" +
+                        "</div>"+
+                        "</div>"
+                    );
 
                     groups2[val].markers.addLayer(marker);
                 });
@@ -68,7 +76,7 @@ window.addEventListener('load', (event) => {
         });
     });
 
-    jQuery('#itemFilterSearch').on('keyup', function () {
+    jQuery('#filter-search input[type=search]').on('keyup', function () {
         if (this.value.length === 0) {
             jQuery('#itemFilters label').show();
             return;
@@ -78,7 +86,15 @@ window.addEventListener('load', (event) => {
         jQuery('#itemFilters input:not([value*=' + this.value + '])').parent().hide();
     });
 
-    jQuery('#clearSelections').click(function () {
+    jQuery('#resetAll').click(function () {
         jQuery('#itemFilters input:checked').trigger('click');
-    })
+    });
+
+    jQuery('#showAll').click(function () {
+        jQuery('#itemFilters input:not(:checked):visible').trigger('click');
+    });
+
+    jQuery('#hideAll').click(function () {
+        jQuery('#itemFilters input:checked:visible').trigger('click');
+    });
 });
