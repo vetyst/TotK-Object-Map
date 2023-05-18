@@ -47,3 +47,11 @@ body {
 .totk-marker-meta > span {
     display: block;
 }
+
+.big-marker {
+    background: #ff000080;
+    border-radius: 50%;
+    color: white;
+    padding: 3px;
+    text-align: center;
+}

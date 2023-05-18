@@ -13,7 +13,28 @@ window.addEventListener('load', (event) => {
     let topRight = map.unproject([6000, -5000], 0);
     let bounds = new L.LatLngBounds(leftBottom, topRight);
 
-    L.imageOverlay('images/maps/01.jpg', bounds).addTo(map);
+    let skyOverlay = L.imageOverlay('images/maps/sky.jpg', bounds);
+    let mainOverlay = L.imageOverlay('images/maps/main.jpg', bounds);
+    let chasmOverlay = L.imageOverlay('images/maps/chasm.jpg', bounds);
+    mainOverlay.addTo(map);
+
+    jQuery('#showSky').click(function() {
+        skyOverlay.addTo(map);
+        map.removeLayer(mainOverlay);
+        map.removeLayer(chasmOverlay);
+    });
+
+    jQuery('#showMain').click(function() {
+        map.removeLayer(skyOverlay);
+        mainOverlay.addTo(map);
+        map.removeLayer(chasmOverlay);
+    });
+
+    jQuery('#showChasm').click(function() {
+        map.removeLayer(skyOverlay);
+        map.removeLayer(mainOverlay);
+        chasmOverlay.addTo(map);
+    });
 
     map.setMaxBounds(bounds);
 
@@ -58,13 +79,14 @@ window.addEventListener('load', (event) => {
                         radius: 3
                     });
 
-                    marker.bindPopup("<div class='totk-marker'>" +
-                        "<h2>"+groups2[val].name+"<`/h2>" +
-                        "<div class='totk-marker-meta'>" +
-                        "<span><strong>X: </strong>"+point.x+"</span>" +
-                        "<span><strong>Y: </strong>"+point.y+"</span>" +
-                        "<span><strong>Z: </strong>"+point.z+"</span>" +
-                        "</div>"+
+                    marker.bindPopup(
+                        "<div class='totk-marker'>" +
+                        "   <h2>"+groups2[val].name+"</h2>" +
+                        "   <div class='totk-marker-meta'>" +
+                        "      <span><strong>X: </strong>"+point.x+"</span>" +
+                        "      <span><strong>Y: </strong>"+point.y+"</span>" +
+                        "      <span><strong>Z: </strong>"+point.z+"</span>" +
+                        "   </div>"+
                         "</div>"
                     );
 
