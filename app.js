@@ -9,56 +9,75 @@ window.addEventListener('load', (event) => {
         crs: L.CRS.Simple,
     });
 
+    let groups = [];
     let leftBottom = map.unproject([-6000, 5000], 0);
     let topRight = map.unproject([6000, -5000], 0);
     let bounds = new L.LatLngBounds(leftBottom, topRight);
+    map.setMaxBounds(bounds);
 
     let skyOverlay = L.imageOverlay('images/maps/sky.jpg', bounds);
     let mainOverlay = L.imageOverlay('images/maps/main.jpg', bounds);
     let chasmOverlay = L.imageOverlay('images/maps/chasm.jpg', bounds);
-    mainOverlay.addTo(map);
 
-    jQuery('#showSky').click(function() {
+    jQuery('#showSky').click(function () {
         skyOverlay.addTo(map);
         map.removeLayer(mainOverlay);
         map.removeLayer(chasmOverlay);
+
+        activateType('sky');
     });
 
-    jQuery('#showMain').click(function() {
+    jQuery('#showMain').click(function () {
         map.removeLayer(skyOverlay);
         mainOverlay.addTo(map);
         map.removeLayer(chasmOverlay);
-    });
 
-    jQuery('#showChasm').click(function() {
+        activateType('main');
+    }).trigger('click');
+
+    jQuery('#showChasm').click(function () {
         map.removeLayer(skyOverlay);
         map.removeLayer(mainOverlay);
         chasmOverlay.addTo(map);
+
+        activateType('chasm');
     });
 
-    map.setMaxBounds(bounds);
+    function activateType(type) {
+        activeType = type;
 
-    jQuery.getJSON("data/main.json", function (groups) {
-        window.groups = groups;
-        var groups2 = groups;
+        resetAll();
 
-        groups = Object.entries(groups);
+        jQuery('#itemFilters div:not(.' + activeType + ')').hide();
+        jQuery('#itemFilters div.' + activeType).show();
 
-        groups.forEach(function (group, index) {
-            jQuery('#itemFilters').append('<label><input type="checkbox" name="groupFilters[' + group[0] + ']" value="' + group[0] + '">' + group[1].name + ' (' + group[1].locations.length + ')</label>');
+        if (groups[type]) {
+            return;
+        }
+
+        jQuery.getJSON('data/' + activeType + '.json', function (data) {
+            parseData(type, data);
+        });
+    }
+
+    function parseData(type, data) {
+        groups[type] = data;
+
+        Object.entries(data).forEach(function (group, index) {
+            jQuery('#itemFilters .' + type).append('<label><input type="checkbox" value="' + group[0] + '">' + group[1].name + ' (' + group[1].locations.length + ')</label>');
         });
 
-        jQuery(document).on('change', 'input[name^="groupFilters"]', function (e) {
+        jQuery(document).on('change', '#itemFilters .' + type + ' input', function (e) {
             let val = jQuery(this).val();
 
-            if (groups2[val].markers) {
+            if (groups[type][val].markers) {
                 if (this.checked === false) {
-                    map.removeLayer(groups2[val].markers);
+                    map.removeLayer(groups[type][val].markers);
                 } else {
-                    map.addLayer(groups2[val].markers);
+                    map.addLayer(groups[type][val].markers);
                 }
             } else {
-                groups2[val].markers = L.markerClusterGroup({
+                groups[type][val].markers = L.markerClusterGroup({
                     removeOutsideVisibleBounds: true,
                     spiderfyOnMaxZoom: false,
                     disableClusteringAtZoom: 0,
@@ -73,7 +92,7 @@ window.addEventListener('load', (event) => {
                     }
                 });
 
-                groups2[val].locations.forEach(function (point, index) {
+                groups[type][val].locations.forEach(function (point, index) {
                     let marker = L.circleMarker([0 - point.x, point.y], {
                         title: point.z + ' - ' + val,
                         radius: 3
@@ -81,36 +100,39 @@ window.addEventListener('load', (event) => {
 
                     marker.bindPopup(
                         "<div class='totk-marker'>" +
-                        "   <h2>"+groups2[val].name+"</h2>" +
+                        "   <h2>" + groups[type][val].name + "</h2>" +
                         "   <div class='totk-marker-meta'>" +
-                        "      <span><strong>X: </strong>"+point.x+"</span>" +
-                        "      <span><strong>Y: </strong>"+point.y+"</span>" +
-                        "      <span><strong>Z: </strong>"+point.z+"</span>" +
-                        "   </div>"+
+                        "      <span><strong>X: </strong>" + point.x + "</span>" +
+                        "      <span><strong>Y: </strong>" + point.y + "</span>" +
+                        "      <span><strong>Z: </strong>" + point.z + "</span>" +
+                        "   </div>" +
                         "</div>"
                     );
 
-                    groups2[val].markers.addLayer(marker);
+                    groups[type][val].markers.addLayer(marker);
                 });
 
-                groups2[val].markers.addTo(map);
+                groups[type][val].markers.addTo(map);
             }
         });
-    });
+    }
 
-    jQuery('#filter-search input[type=search]').on('keyup', function () {
+
+    jQuery('#filter-search input[type=search]').on('keyup,change', function () {
         if (this.value.length === 0) {
-            jQuery('#itemFilters label').show();
+            jQuery('#itemFilters div:visible label').show();
             return;
         }
 
-        jQuery('#itemFilters input[value*=' + this.value + ']').parent().show();
-        jQuery('#itemFilters input:not([value*=' + this.value + '])').parent().hide();
+        jQuery('#itemFilters .' + activeType + ' input[value*=' + this.value + ']').parent().show();
+        jQuery('#itemFilters .' + activeType + ' input:not([value*=' + this.value + '])').parent().hide();
     });
 
-    jQuery('#resetAll').click(function () {
+    function resetAll() {
         jQuery('#itemFilters input:checked').trigger('click');
-    });
+    }
+
+    jQuery('#resetAll').click(resetAll);
 
     jQuery('#showAll').click(function () {
         jQuery('#itemFilters input:not(:checked):visible').trigger('click');

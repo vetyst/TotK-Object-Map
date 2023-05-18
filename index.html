@@ -17,14 +17,11 @@
 <body>
 <div id="totk-map"></div>
 <div id="sidebar">
-    <p>Still in developement. Only main markers are show atm.</p>
+    <p>Still in developement.</p>
     <div class="map-switcher">
         <button id="showSky" type="button">Sky</button>
         <button id="showMain" type="button">Main</button>
         <button id="showChasm" type="button">Chasm</button>
-        <p>
-            Switching to different maps will not load the correct markers yet.
-        </p>
     </div>
 
     <div id="filter-search">
@@ -34,7 +31,19 @@
         <button id="resetAll" type="button">Reset</button>
     </div>
 
-    <div id="itemFilters"></div>
+    <div id="itemFilters">
+        <div class="sky" style="display: none">
+            <p>
+                Our koroks are working hard to gather all the objects which are located high up in the Hyrulian skies. Please be patient.
+            </p>
+
+            <p>
+                Some of our koroks tend to overload their backpacks, will you help them find their friends?
+            </p>
+        </div>
+        <div class="main"></div>
+        <div class="chasm" style="display: none"></div>
+    </div>
 </div>
 </body>
 </html>
