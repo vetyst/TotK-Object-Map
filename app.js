@@ -118,9 +118,9 @@ window.addEventListener('load', (event) => {
     }
 
 
-    jQuery('#filter-search input[type=search]').on('keyup,change', function () {
+    jQuery('#filter-search input[type=search]').on('keyup', function () {
         if (this.value.length === 0) {
-            jQuery('#itemFilters div:visible label').show();
+            jQuery('#itemFilters .' + activeType + ' label').show();
             return;
         }
 
