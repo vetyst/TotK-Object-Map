@@ -3,7 +3,7 @@ body {
     display: flex;
 }
 
-#map {
+#totk-map {
     width: 80vw;
     height: 100vh;
     background: #000000;
@@ -23,4 +23,18 @@ body {
 
 #itemFilters > label {
     display: block;
+}
+
+#filter-search {
+    padding: .5em;
+    margin-top: .5em;
+    margin-bottom: .5em;
+    border-bottom: 2px solid #3e3e3e;
+}
+
+#itemFilterSearch {
+    width: 100%;
+    font-size: 18px;
+    padding: .2em;
+    margin-bottom: .5em;
 }

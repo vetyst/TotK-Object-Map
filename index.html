@@ -6,15 +6,22 @@
     <link rel="stylesheet" href="lib/leaflet/leaflet.min.css">
     <script src="lib/leaflet/leaflet.min.js"></script>
 
+    <link rel="stylesheet" href="lib/leaflet.markercluster/MarkerCluster.css">
+    <script src="lib/leaflet.markercluster/leaflet.markercluster.min.js"></script>
+
     <script src="lib/jquery/jquery.min.js"></script>
 
     <link rel="stylesheet" href="app.css">
     <script src="app.js"></script>
 </head>
 <body>
-<div id="map"></div>
+<div id="totk-map"></div>
 <div id="sidebar">
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto consequatur dignissimos dolorum esse et id in ipsum necessitatibus saepe soluta.</p>
+    <div id="filter-search">
+        <input type="search" id="itemFilterSearch" placeholder="Search for a group..">
+        <button id="clearSelections" type="button">Clear Selections</button>
+    </div>
+
     <div id="itemFilters">
 
     </div>
