@@ -17,9 +17,9 @@ window.addEventListener('load', (event) => {
     map.setMaxBounds(bounds);
 
     let skyOverlay = L.imageOverlay('images/maps/sky.jpg', bounds);
-    let mainOverlay = L.imageOverlay('images/maps/main.jpg', bounds);
-    let caveOverlay = L.imageOverlay('images/maps/main.jpg', bounds);
-    let chasmOverlay = L.imageOverlay('images/maps/chasm.jpg', bounds);
+    let surfaceOverlay = L.imageOverlay('images/maps/surface.jpg', bounds);
+    let caveOverlay = L.imageOverlay('images/maps/surface.jpg', bounds);
+    let depthsOverlay = L.imageOverlay('images/maps/depths.jpg', bounds);
 
     jQuery('#showSky').click(function () {
         if (activeType === 'sky') {
@@ -27,24 +27,24 @@ window.addEventListener('load', (event) => {
         }
 
         skyOverlay.addTo(map);
-        map.removeLayer(mainOverlay);
+        map.removeLayer(surfaceOverlay);
         map.removeLayer(caveOverlay);
-        map.removeLayer(chasmOverlay);
+        map.removeLayer(depthsOverlay);
 
         activateType('sky');
     });
 
-    jQuery('#showMain').click(function () {
-        if (activeType === 'main') {
+    jQuery('#showSurface').click(function () {
+        if (activeType === 'surface') {
             return;
         }
 
         map.removeLayer(skyOverlay);
-        mainOverlay.addTo(map);
+        surfaceOverlay.addTo(map);
         map.removeLayer(caveOverlay);
-        map.removeLayer(chasmOverlay);
+        map.removeLayer(depthsOverlay);
 
-        activateType('main');
+        activateType('surface');
     }).trigger('click');
 
     jQuery('#showCave').click(function () {
@@ -53,24 +53,24 @@ window.addEventListener('load', (event) => {
         }
 
         map.removeLayer(skyOverlay);
-        map.removeLayer(mainOverlay);
+        map.removeLayer(surfaceOverlay);
         caveOverlay.addTo(map);
-        map.removeLayer(chasmOverlay);
+        map.removeLayer(depthsOverlay);
 
         activateType('cave');
     });
 
-    jQuery('#showChasm').click(function () {
-        if (activeType === 'chasm') {
+    jQuery('#showDepths').click(function () {
+        if (activeType === 'depths') {
             return;
         }
 
         map.removeLayer(skyOverlay);
-        map.removeLayer(mainOverlay);
+        map.removeLayer(surfaceOverlay);
         map.removeLayer(caveOverlay);
-        chasmOverlay.addTo(map);
+        depthsOverlay.addTo(map);
 
-        activateType('chasm');
+        activateType('depths');
     });
 
     function activateType(type) {
