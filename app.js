@@ -123,7 +123,7 @@ window.addEventListener('load', (event) => {
                 });
 
                 groups[type][val].locations.forEach(function (point, index) {
-                    let marker = L.circleMarker([0 - point.x, point.y], {
+                    let marker = L.circleMarker([point.x, point.y], {
                         title: point.z + ' - ' + val,
                         radius: 3
                     });
@@ -132,8 +132,8 @@ window.addEventListener('load', (event) => {
                         "<div class='totk-marker'>" +
                         "   <h2>" + groups[type][val].name + "</h2>" +
                         "   <div class='totk-marker-meta'>" +
-                        "      <span><strong>X: </strong>" + point.x + "</span>" +
-                        "      <span><strong>Y: </strong>" + point.y + "</span>" +
+                        "      <span><strong>X: </strong>" + point.y + "</span>" +
+                        "      <span><strong>Y: </strong>" + point.x + "</span>" +
                         "      <span><strong>Z: </strong>" + point.z + "</span>" +
                         "   </div>" +
                         "</div>"
