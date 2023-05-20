@@ -52,8 +52,25 @@ body {
     margin-bottom: 0.5em;
 }
 
+.totk-marker > h2 .smaller-name {
+    display: block;
+}
+
 .totk-marker-meta > span {
     display: block;
+}
+
+.totk-marker-icons {
+    display: flex;
+    margin-top: .5em;
+    gap: .5em;
+}
+
+.totk-marker-icons > img {
+    width: 64px;
+    height: auto;
+    border: 1px solid #c4c4c4;
+    border-radius: 3px;
 }
 
 .big-marker {

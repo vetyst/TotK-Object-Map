@@ -96,9 +96,8 @@ window.addEventListener('load', (event) => {
         Object.entries(data).forEach(function (group, index) {
             let displayName = group[1].name;
 
-
             if (displayName && displayName.length > 0) {
-                displayName += '<span class=\"smaller-name\">';
+                displayName += '<span class="smaller-name">';
                 displayName += ' - ';
             }
 
@@ -135,21 +134,52 @@ window.addEventListener('load', (event) => {
                     }
                 });
 
+                let displayName = groups[type][val].name
+
+                if (displayName && displayName.length > 0) {
+                    displayName += '<span class="smaller-name">';
+                }
+
+                displayName += val;
+                displayName += '</span>';
+
+                let iconsHtml = '';
+                if (groups[type][val].icons.length > 0) {
+                    iconsHtml += "<div class='totk-marker-icons'>";
+
+                    groups[type][val].icons.forEach(function (icon, index) {
+                        let fileEnd = 'png';
+                        if (icon.includes('_Icon')) {
+                            fileEnd = 'jpg';
+                        }
+
+                        iconsHtml += "<img src='images/icons/" + icon + "." + fileEnd + "' alt='" + icon + "'>"
+                    });
+
+                    iconsHtml += "</div>";
+                }
+
                 groups[type][val].locations.forEach(function (point, index) {
                     let marker = L.circleMarker([point.x, point.y], {
                         title: point.z + ' - ' + val,
                         radius: 3
                     });
 
-                    marker.bindPopup(
+                    let popup =
                         "<div class='totk-marker'>" +
-                        "   <h2>" + groups[type][val].name + "</h2>" +
-                        "   <div class='totk-marker-meta'>" +
-                        "      <span><strong>X: </strong>" + point.y + "</span>" +
-                        "      <span><strong>Y: </strong>" + point.x + "</span>" +
-                        "      <span><strong>Z: </strong>" + point.z + "</span>" +
+                        "   <h2>" + displayName + "</h2>" +
+                        "   <div class='content'>" +
+                        "       <div class='totk-marker-meta'>" +
+                        "          <span><strong>X: </strong>" + point.y + "</span>" +
+                        "          <span><strong>Y: </strong>" + point.x + "</span>" +
+                        "          <span><strong>Z: </strong>" + point.z + "</span>" +
+                        "       </div>" +
+                        iconsHtml +
                         "   </div>" +
-                        "</div>"
+                        "</div>";
+
+                    marker.bindPopup(
+                        popup
                     );
 
                     groups[type][val].markers.addLayer(marker);
@@ -159,7 +189,6 @@ window.addEventListener('load', (event) => {
             }
         });
     }
-
 
     jQuery('#filter-search input[type=search]').on('keyup', function () {
         if (this.value.length === 0) {
