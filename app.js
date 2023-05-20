@@ -94,7 +94,20 @@ window.addEventListener('load', (event) => {
         groups[type] = data;
 
         Object.entries(data).forEach(function (group, index) {
-            jQuery('#itemFilters .' + type).append('<label><input type="checkbox" value="' + group[0] + '" data-search-value="' + group[1].name + '">' + group[1].name + ' (' + group[1].locations.length + ')</label>');
+            let displayName = group[1].name;
+
+
+            if (displayName && displayName.length > 0) {
+                displayName += '<span class=\"smaller-name\">';
+                displayName += ' - ';
+            }
+
+            let searchName = group[1].name + " " + group[0];
+
+            displayName += group[0];
+            displayName += '</span>';
+
+            jQuery('#itemFilters .' + type).append('<label><input type="checkbox" value="' + group[0] + '" data-search-value="' + searchName + '">' + displayName + '</label>');
         });
 
         jQuery(document).on('change', '#itemFilters .' + type + ' input', function (e) {
@@ -154,8 +167,8 @@ window.addEventListener('load', (event) => {
             return;
         }
 
-        jQuery('#itemFilters .' + activeType + ' input[data-search-value*=' + this.value + ']').parent().show();
-        jQuery('#itemFilters .' + activeType + ' input:not([data-search-value*=' + this.value + '])').parent().hide();
+        jQuery('#itemFilters .' + activeType + ' input[data-search-value*="' + this.value + '" i]').parent().show();
+        jQuery('#itemFilters .' + activeType + ' input:not([data-search-value*="' + this.value + '" i])').parent().hide();
     });
 
     function resetAll() {
