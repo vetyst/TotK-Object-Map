@@ -94,7 +94,7 @@ window.addEventListener('load', (event) => {
         groups[type] = data;
 
         Object.entries(data).forEach(function (group, index) {
-            jQuery('#itemFilters .' + type).append('<label><input type="checkbox" value="' + group[0] + '">' + group[1].name + ' (' + group[1].locations.length + ')</label>');
+            jQuery('#itemFilters .' + type).append('<label><input type="checkbox" value="' + group[0] + '" data-search-value="' + group[1].name + '">' + group[1].name + ' (' + group[1].locations.length + ')</label>');
         });
 
         jQuery(document).on('change', '#itemFilters .' + type + ' input', function (e) {
@@ -154,8 +154,8 @@ window.addEventListener('load', (event) => {
             return;
         }
 
-        jQuery('#itemFilters .' + activeType + ' input[value*=' + this.value + ']').parent().show();
-        jQuery('#itemFilters .' + activeType + ' input:not([value*=' + this.value + '])').parent().hide();
+        jQuery('#itemFilters .' + activeType + ' input[data-search-value*=' + this.value + ']').parent().show();
+        jQuery('#itemFilters .' + activeType + ' input:not([data-search-value*=' + this.value + '])').parent().hide();
     });
 
     function resetAll() {
