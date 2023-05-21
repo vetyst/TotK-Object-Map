@@ -62,6 +62,7 @@ body {
 
 .totk-marker-icons {
     display: flex;
+    flex-wrap: wrap;
     margin-top: .5em;
     gap: .5em;
 }
