@@ -9,6 +9,8 @@ window.addEventListener('load', () => {
         crs: L.CRS.Simple,
     });
 
+    window.lastIconClass = -1;
+
     let layers = [];
     let activeLayer = '';
     let leftBottom = map.unproject([-6000, 5000], 0);
@@ -119,6 +121,8 @@ window.addEventListener('load', () => {
                     map.addLayer(layers[layer][val].markers);
                 }
             } else {
+                let iconClass = getIconClass();
+
                 layers[layer][val].markers = L.markerClusterGroup({
                     removeOutsideVisibleBounds: true,
                     spiderfyOnMaxZoom: false,
@@ -128,13 +132,13 @@ window.addEventListener('load', () => {
                     iconCreateFunction: function (cluster) {
                         return L.divIcon({
                             html: cluster.getChildCount(),
-                            className: 'big-marker',
+                            className: iconClass,
                             iconSize: [18, 18],
                         });
                     }
                 });
 
-                let displayName = layers[layer][val].name
+                let displayName = layers[layer][val].name;
 
                 if (displayName && displayName.length > 0) {
                     displayName += '<span class="smaller-name">';
@@ -160,9 +164,12 @@ window.addEventListener('load', () => {
                 }
 
                 layers[layer][val].locations.forEach(function (point, index) {
-                    let marker = L.circleMarker([point.x, point.y], {
+                    let marker = L.marker([point.x, point.y], {
+                        icon: L.divIcon({className: iconClass}),
+                        keyboard: false,
+                        iconSize: [3, 3],
+                        radius: 3,
                         title: point.z + ' - ' + val,
-                        radius: 3
                     });
 
                     let popup =
@@ -199,6 +206,15 @@ window.addEventListener('load', () => {
         jQuery('#item-filters .' + activeLayer + ' input[data-search-value*="' + this.value + '" i]').parent().show();
         jQuery('#item-filters .' + activeLayer + ' input:not([data-search-value*="' + this.value + '" i])').parent().hide();
     });
+
+    function getIconClass() {
+        window.lastIconClass++;
+        if (window.lastIconClass > 12) {
+            window.lastIconClass = 0;
+        }
+
+        return 'big-marker' + window.lastIconClass;
+    }
 
     function resetFilters() {
         jQuery('#item-filters input:checked').trigger('click');

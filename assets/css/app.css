@@ -102,12 +102,79 @@ body {
 /*
  * Map Markers
  */
-.big-marker {
-    background: #ff000080;
+.leaflet-marker-icon[class*='big-marker'] {
     border-radius: 50%;
-    color: white;
+    color: #ffffff;
     padding: 3px;
     text-align: center;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.big-marker0 {
+    border-color: #00FFFF;
+    background-color: #00FFFF40;
+}
+
+.big-marker1 {
+    border-color: #FFFF00;
+    background-color: #FFFF0040;
+}
+
+.big-marker2 {
+    border-color: #FF00FF;
+    background-color: #FF00FF40;
+}
+
+.big-marker3 {
+    border-color: #FF6060;
+    background-color: #FF606040;
+}
+
+.big-marker4 {
+    border-color: #60FF60;
+    background-color: #60FF6040;
+}
+
+.big-marker5 {
+    border-color: #6030FF;
+    background-color: #6030FF40;
+}
+
+.big-marker6 {
+    border-color: #40C0FF;
+    background-color: #40C0FF40;
+}
+
+.big-marker7 {
+    border-color: #C0FF40;
+    background-color: #C0FF4040;
+}
+
+.big-marker8 {
+    border-color: #FF40C0;
+    background-color: #FF40C040;
+}
+
+.big-marker9 {
+    border-color: #FFC040;
+    background-color: #FFC04040;
+}
+
+.big-marker10 {
+    border-color: #40FFC0;
+    background-color: #40FFC040;
+}
+
+.big-marker11 {
+    border-color: #C040FF;
+    background-color: #C040FF40;
+}
+
+.big-marker12 {
+    border-color: #FFFFFF;
+    background-color: #FFFFFF40;
 }
 
 /*
