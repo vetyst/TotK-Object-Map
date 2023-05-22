@@ -11,7 +11,30 @@ window.addEventListener('load', () => {
 
     var cursorMarker = L.marker();
 
-    map.on('click', function(e) {
+    function updateLocations(){
+        if (activeLayer !== 'surface') {
+            map.removeLayer(zoomLayer1);
+            map.removeLayer(zoomLayer2);
+            return;
+        }
+
+        switch(map.getZoom()) {
+            case -4:
+            case -3:
+                map.addLayer(zoomLayer1);
+                map.removeLayer(zoomLayer2);
+                break;
+            case -2:
+            case -1:
+                map.removeLayer(zoomLayer1);
+                map.addLayer(zoomLayer2);
+                break;
+        }
+    }
+
+    map.on('zoom', updateLocations)
+
+    map.on('click', function (e) {
         cursorMarker
             .setLatLng(e.latlng)
             .bindPopup(
@@ -43,6 +66,9 @@ window.addEventListener('load', () => {
     let caveLayerBackgroundImage = L.imageOverlay('assets/images/maps/surface.jpg', bounds);
     let depthsLayerBackgroundImage = L.imageOverlay('assets/images/maps/depths.jpg', bounds);
 
+    let zoomLayer1 = L.layerGroup();
+    let zoomLayer2 = L.layerGroup();
+
     jQuery('#show-layer-sky').click(function () {
         if (activeLayer === 'sky') {
             return;
@@ -54,6 +80,33 @@ window.addEventListener('load', () => {
         map.removeLayer(depthsLayerBackgroundImage);
 
         activateLayer('sky');
+    });
+
+    jQuery.getJSON('data/locations.json', function (data) {
+        jQuery(data.surface).each(function (idx, location) {
+            if (location.name.length < 1 || location.locations.length < 1) {
+                return;
+            }
+
+            jQuery(location.locations).each(function(idx, pos) {
+                var tempToolTip = L.tooltip([pos.x, pos.y], {
+                    className: 'locationArea',
+                    content: location.name,
+                    direction: 'center',
+                    permanent: true,
+                    sticky: true
+                })
+                    .openTooltip(map);
+
+                if (location.raw.includes('MapRegion') === true) {
+                    zoomLayer1.addLayer(tempToolTip);
+                } else if (location.raw.includes('MapArea') === true) {
+                    zoomLayer2.addLayer(tempToolTip);
+                }
+            });
+        });
+
+        zoomLayer1.addTo(map);
     });
 
     jQuery('#show-layer-surface').click(function () {
@@ -106,6 +159,8 @@ window.addEventListener('load', () => {
         if (layers[layer]) {
             return;
         }
+
+        updateLocations();
 
         jQuery.getJSON('data/layers/' + activeLayer + '.json', function (data) {
             parseLayers(layer, data);

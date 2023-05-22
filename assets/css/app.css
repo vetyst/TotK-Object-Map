@@ -8,6 +8,26 @@
     --border-radius: 3px;
 }
 
+@font-face {
+    font-family: ZeldaAncient;
+    src: url('../fonts/Nin-ZeldaBotW-Ancient.bfotf.otf');
+}
+
+@font-face {
+    font-family: ZeldaGlyphs;
+    src: url('../fonts/Nin-ZeldaGlyphs-v2-Deco.bfotf.otf');
+}
+
+@font-face {
+    font-family: ZeldaMain;
+    src: url('../fonts/nintendo_NTLG-DB_DH_002.bfotf.otf');
+}
+
+@font-face {
+    font-family: ZeldaMainSub;
+    src: url('../fonts/ninP_RodinNTLG-B_DH_003_subset.bfotf.otf');
+}
+
 body {
     margin: 0;
     background: var(--bg-colour);
@@ -96,6 +116,26 @@ body {
     height: auto;
     border: var(--divider-thickness) solid var(--divider-colour);
     border-radius: var(--border-radius);
+}
+
+.locationArea {
+    font-family: ZeldaMainSub;
+    background: transparent;
+    border: none;
+    color: #9c8c52;
+    box-shadow: unset !important;
+    text-shadow: 2px 0 3px #50400a, 0 -2px 3px #50400a, 0 2px 3px #50400a, -2px 0 3px #50400a;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.locationArea .main-text {
+    display: block!important;
+}
+
+.locationArea .ancient-text {
+    font-family: ZeldaAncient;
+    display: block!important;
 }
 
 /*
