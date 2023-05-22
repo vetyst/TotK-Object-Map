@@ -1,12 +1,35 @@
+:root {
+    --bg-colour: #2e2e2e;
+    --map-bg-colour: #000000;
+    --text-colour: #efefef;
+    --gray-text-colour: #afafaf;
+    --divider-colour: #3e3e3e;
+    --divider-thickness: 2px;
+    --border-radius: 3px;
+}
+
 body {
     margin: 0;
+    background: var(--bg-colour);
+    color: var(--text-colour);
+}
+
+.wip {
+    color: #ff4f70;
+}
+
+.wip > a {
+    color: #ffb9c6;
+}
+
+.fw-container {
     display: flex;
 }
 
 #totk-map {
     width: 80vw;
     height: 100vh;
-    background: #000000;
+    background: var(--map-bg-colour);
 }
 
 #sidebar {
@@ -15,20 +38,18 @@ body {
     height: 100%;
     max-height: calc(100vh - 4em);
     padding: 2em;
-    background: #2e2e2e;
-    color: #efefef;
 }
 
-#itemFilters {
+#item-filters {
     overflow: scroll;
     max-height: 75vh;
 }
 
-#itemFilters > div {
+#item-filters > div {
     width: 300%
 }
 
-#itemFilters > div > label {
+#item-filters > div > label {
     display: block;
     margin-bottom: 2px;
 }
@@ -37,7 +58,7 @@ body {
     padding: .5em;
     margin-top: .5em;
     margin-bottom: .5em;
-    border-bottom: 2px solid #3e3e3e;
+    border-bottom: var(--divider-thickness) solid var(--divider-colour);
 }
 
 #filter-search input[type=search] {
@@ -47,6 +68,9 @@ body {
     margin-bottom: .5em;
 }
 
+/**
+ * Marker Popup
+ */
 .totk-marker > h2 {
     font-size: 16px;
     margin-bottom: 0.5em;
@@ -70,10 +94,14 @@ body {
 .totk-marker-icons > img {
     width: 64px;
     height: auto;
-    border: 1px solid #c4c4c4;
-    border-radius: 3px;
+    border: var(--divider-thickness) solid var(--divider-colour);
+    border-radius: var(--border-radius);
 }
 
+
+/*
+ * Map Markers
+ */
 .big-marker {
     background: #ff000080;
     border-radius: 50%;
@@ -82,7 +110,11 @@ body {
     text-align: center;
 }
 
+/*
+ * Misc
+ */
+
 .smaller-name {
     font-size: 12px;
-    color: #afafaf;
+    color: var(--gray-text-colour);
 }

@@ -3,40 +3,43 @@
     <meta charset="utf-8">
     <title>Tears of the Kingdom | Object Map | The Legend of Zelda</title>
 
-    <link rel="stylesheet" href="lib/leaflet/leaflet.min.css">
-    <script src="lib/leaflet/leaflet.min.js"></script>
+    <link rel="stylesheet" href="assets/3rdparty/leaflet/leaflet.min.css">
+    <script src="assets/3rdparty/leaflet/leaflet.min.js"></script>
 
-    <link rel="stylesheet" href="lib/leaflet.markercluster/MarkerCluster.css">
-    <script src="lib/leaflet.markercluster/leaflet.markercluster.min.js"></script>
+    <link rel="stylesheet" href="assets/3rdparty/leaflet.markercluster/MarkerCluster.css">
+    <script src="assets/3rdparty/leaflet.markercluster/leaflet.markercluster.min.js"></script>
 
-    <script src="lib/jquery/jquery.min.js"></script>
+    <script src="assets/3rdparty/jquery/jquery.min.js"></script>
 
-    <link rel="stylesheet" href="app.css">
-    <script src="app.js"></script>
+    <link rel="stylesheet" href="assets/css/app.css">
+    <script src="assets/js/app.js"></script>
 </head>
 <body>
-<div id="totk-map"></div>
-<div id="sidebar">
-    <p>Still in developement.</p>
-    <div class="map-switcher">
-        <button id="showSky" type="button">Sky</button>
-        <button id="showSurface" type="button">Surface</button>
-        <button id="showCave" type="button">Cave</button>
-        <button id="showDepths" type="button">Depths</button>
-    </div>
+<div class="fw-container">
+    <div id="totk-map"></div>
+    <div id="sidebar">
+        <p class="wip"><span title="Work In Progress">WIP</span> | Please leave any issues, requests or suggestions on at <a href="https://github.com/vetyst/TotK-Object-Map" target="_blank">vetyst/TotK-Object-Map</a></p>
 
-    <div id="filter-search">
-        <input type="search" placeholder="Search for a group...">
-        <button id="showAll" type="button">All</button>
-        <button id="hideAll" type="button">None</button>
-        <button id="resetAll" type="button">Reset</button>
-    </div>
+        <div class="map-switcher">
+            <button id="show-layer-sky" type="button">Sky</button>
+            <button id="show-layer-surface" type="button">Surface</button>
+            <button id="show-layer-cave" type="button">Cave</button>
+            <button id="show-layer-depths" type="button">Depths</button>
+        </div>
 
-    <div id="itemFilters">
-        <div class="sky" style="display: none"></div>
-        <div class="surface"></div>
-        <div class="cave" style="display: none"></div>
-        <div class="depths" style="display: none"></div>
+        <div id="filter-search">
+            <input type="search" placeholder="Search for a group...">
+            <button id="show-filtered-filters" type="button">All</button>
+            <button id="hide-filtered-filters" type="button">None</button>
+            <button id="reset-filters" type="button">Reset</button>
+        </div>
+
+        <div id="item-filters">
+            <div class="sky" style="display: none"></div>
+            <div class="surface"></div>
+            <div class="cave" style="display: none"></div>
+            <div class="depths" style="display: none"></div>
+        </div>
     </div>
 </div>
 </body>
