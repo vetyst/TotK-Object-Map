@@ -9,6 +9,26 @@ window.addEventListener('load', () => {
         crs: L.CRS.Simple,
     });
 
+    var cursorMarker = L.marker();
+
+    map.on('click', function(e) {
+        cursorMarker
+            .setLatLng(e.latlng)
+            .bindPopup(
+                "<div class='totk-marker'>" +
+                "   <h2>Marker Positon</h2>" +
+                "   <div class='content'>" +
+                "       <div class='totk-marker-meta'>" +
+                "          <span><strong>X: </strong>" + e.latlng.lng + "</span>" +
+                "          <span><strong>Y: </strong>" + e.latlng.lat + "</span>" +
+                "       </div>" +
+                "   </div>" +
+                "</div>"
+            )
+            .openPopup()
+            .addTo(map);
+    });
+
     window.lastIconClass = -1;
 
     let layers = [];
