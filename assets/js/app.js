@@ -170,6 +170,7 @@ window.addEventListener('load', () => {
     function parseLayers(layer, data) {
         layers[layer] = data;
 
+        markerHtml = '';
         Object.entries(data).forEach(function (markerGroup, index) {
             let displayName = markerGroup[1].name;
 
@@ -183,8 +184,9 @@ window.addEventListener('load', () => {
             displayName += markerGroup[0];
             displayName += '</span>';
 
-            jQuery('#item-filters .' + layer).append('<label><input type="checkbox" value="' + markerGroup[0] + '" data-search-value="' + searchName + '">' + displayName + '</label>');
+            markerHtml += '<label><input type="checkbox" value="' + markerGroup[0] + '" data-search-value="' + searchName + '">' + displayName + '</label>';
         });
+        jQuery('#item-filters .' + layer).append(markerHtml);
 
         jQuery(document).on('change', '#item-filters .' + layer + ' input', function (e) {
             let val = jQuery(this).val();
