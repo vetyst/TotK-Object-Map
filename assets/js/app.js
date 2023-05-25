@@ -184,7 +184,7 @@ window.addEventListener('load', () => {
             displayName += markerGroup[0];
             displayName += '</span>';
 
-            markerHtml += '<label><input type="checkbox" value="' + markerGroup[0] + '" data-search-value="' + searchName + '">' + displayName + '</label>';
+            markerHtml += '<label><input type="checkbox" value="' + markerGroup[0] + '" data-search-value="' + searchName + '">' + displayName  + ' (' + markerGroup[1].locations.length + ')' + '</label>';
         });
         jQuery('#item-filters .' + layer).append(markerHtml);
 
