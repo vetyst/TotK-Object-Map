@@ -225,7 +225,7 @@ window.addEventListener('load', () => {
                 displayName += '</span>';
 
                 let iconsHtml = '';
-                if (layers[layer][val].icons.length > 0) {
+                if (layers[layer][val].icons && layers[layer][val].icons.length > 0) {
                     iconsHtml += "<div class='totk-marker-icons'>";
 
                     layers[layer][val].icons.forEach(function (icon, index) {
