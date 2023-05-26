@@ -164,6 +164,8 @@ window.addEventListener('load', () => {
 
         jQuery.getJSON('data/layers/' + activeLayer + '.json', function (data) {
             parseLayers(layer, data);
+
+            doSearch();
         });
     }
 
@@ -274,15 +276,21 @@ window.addEventListener('load', () => {
         });
     }
 
-    jQuery('#filter-search input[type=search]').on('keyup', function () {
-        if (this.value.length === 0) {
+    jQuery('#filter-search input[type=search]').on('keyup', doSearch);
+
+    function doSearch()
+    {
+        let searchVal = jQuery('#filter-search input[type=search]').val();
+        console.log(searchVal)
+
+        if (searchVal.length === 0) {
             jQuery('#item-filters .' + activeLayer + ' label').show();
             return;
         }
 
-        jQuery('#item-filters .' + activeLayer + ' input[data-search-value*="' + this.value + '" i]').parent().show();
-        jQuery('#item-filters .' + activeLayer + ' input:not([data-search-value*="' + this.value + '" i])').parent().hide();
-    });
+        jQuery('#item-filters .' + activeLayer + ' input[data-search-value*="' + searchVal + '" i]').parent().show();
+        jQuery('#item-filters .' + activeLayer + ' input:not([data-search-value*="' + searchVal + '" i])').parent().hide();
+    }
 
     function getIconClass() {
         window.lastIconClass++;
