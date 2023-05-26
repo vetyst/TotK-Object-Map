@@ -11,14 +11,14 @@ window.addEventListener('load', () => {
 
     var cursorMarker = L.marker();
 
-    function updateLocations(){
+    function updateLocations() {
         if (activeLayer !== 'surface') {
             map.removeLayer(zoomLayer1);
             map.removeLayer(zoomLayer2);
             return;
         }
 
-        switch(map.getZoom()) {
+        switch (map.getZoom()) {
             case -4:
             case -3:
                 map.addLayer(zoomLayer1);
@@ -88,7 +88,7 @@ window.addEventListener('load', () => {
                 return;
             }
 
-            jQuery(location.locations).each(function(idx, pos) {
+            jQuery(location.locations).each(function (idx, pos) {
                 var tempToolTip = L.tooltip([pos.x, pos.y], {
                     className: 'locationArea',
                     content: location.name,
@@ -172,7 +172,7 @@ window.addEventListener('load', () => {
     function parseLayers(layer, data) {
         layers[layer] = data;
 
-        markerHtml = '';
+        let markerHtml = '';
         Object.entries(data).forEach(function (markerGroup, index) {
             let displayName = markerGroup[1].name;
 
@@ -181,13 +181,20 @@ window.addEventListener('load', () => {
                 displayName += ' - ';
             }
 
-            let searchName = markerGroup[1].name + " " + markerGroup[0];
+            let searchName = (markerGroup[1].name + " " + markerGroup[0]).toLocaleLowerCase();
 
             displayName += markerGroup[0];
             displayName += '</span>';
 
-            markerHtml += '<label><input type="checkbox" value="' + markerGroup[0] + '" data-search-value="' + searchName + '">' + displayName  + ' (' + markerGroup[1].locations.length + ')' + '</label>';
+            markerHtml += '<label data-search-value="' + searchName + '">' +
+                '<input type="checkbox" value="' + markerGroup[0] + '">' +
+                displayName +
+                ' <span class="locations-count">(' +
+                markerGroup[1].locations.length +
+                ')</span>' +
+                '</label>';
         });
+
         jQuery('#item-filters .' + layer).append(markerHtml);
 
         jQuery(document).on('change', '#item-filters .' + layer + ' input', function (e) {
@@ -276,20 +283,19 @@ window.addEventListener('load', () => {
         });
     }
 
-    jQuery('#filter-search input[type=search]').on('keyup', doSearch);
+    jQuery('#filter-search input[type=search]').on('input', doSearch);
 
-    function doSearch()
-    {
+    function doSearch() {
         let searchVal = jQuery('#filter-search input[type=search]').val();
-        console.log(searchVal)
-
         if (searchVal.length === 0) {
             jQuery('#item-filters .' + activeLayer + ' label').show();
             return;
         }
 
-        jQuery('#item-filters .' + activeLayer + ' input[data-search-value*="' + searchVal + '" i]').parent().show();
-        jQuery('#item-filters .' + activeLayer + ' input:not([data-search-value*="' + searchVal + '" i])').parent().hide();
+        searchVal = searchVal.toLocaleLowerCase();
+
+        jQuery('#item-filters .' + activeLayer + ' label[data-search-value*="' + searchVal + '"]').show();
+        jQuery('#item-filters .' + activeLayer + ' label:not([data-search-value*="' + searchVal + '"])').hide();
     }
 
     function getIconClass() {
@@ -308,7 +314,14 @@ window.addEventListener('load', () => {
     jQuery('#reset-filters').click(resetFilters);
 
     jQuery('#show-filtered-filters').click(function () {
-        jQuery('#item-filters input:not(:checked):visible').trigger('click');
+        let visibleInputs = jQuery('#item-filters input:not(:checked):visible');
+
+        if (visibleInputs.length > 100 &&
+            confirm("You're activating " + visibleInputs.length + " different markers at the same time, which might possibly crash your browser. Do you wish to continue?") === false) {
+            return;
+        }
+
+        visibleInputs.trigger('click');
     });
 
     jQuery('#hide-filtered-filters').click(function () {
