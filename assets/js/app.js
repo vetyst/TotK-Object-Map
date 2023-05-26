@@ -66,6 +66,8 @@ window.addEventListener('load', () => {
     let caveLayerBackgroundImage = L.imageOverlay('assets/images/maps/surface.jpg', bounds);
     let depthsLayerBackgroundImage = L.imageOverlay('assets/images/maps/depths.jpg', bounds);
 
+    let allMarkerLayers = [];
+
     let zoomLayer1 = L.layerGroup();
     let zoomLayer2 = L.layerGroup();
 
@@ -149,9 +151,17 @@ window.addEventListener('load', () => {
     });
 
     function activateLayer(layer) {
+        if (activeLayer.length > 0 && allMarkerLayers[activeLayer]) {
+            map.removeLayer(allMarkerLayers[activeLayer]);
+        }
+
         activeLayer = layer;
 
-        resetFilters();
+        if (allMarkerLayers[activeLayer] === undefined) {
+            allMarkerLayers[activeLayer] = L.layerGroup();
+        }
+
+        allMarkerLayers[activeLayer].addTo(map);
 
         jQuery('#item-filters div:not(.' + activeLayer + ')').hide();
         jQuery('#item-filters div.' + activeLayer).show();
@@ -278,7 +288,7 @@ window.addEventListener('load', () => {
                     layers[layer][val].markers.addLayer(marker);
                 });
 
-                layers[layer][val].markers.addTo(map);
+                allMarkerLayers[activeLayer].addLayer(layers[layer][val].markers);
             }
         });
     }
@@ -308,7 +318,7 @@ window.addEventListener('load', () => {
     }
 
     function resetFilters() {
-        jQuery('#item-filters input:checked').trigger('click');
+        jQuery('#item-filters .' + activeLayer + ' input:checked').trigger('click');
     }
 
     jQuery('#reset-filters').click(resetFilters);
