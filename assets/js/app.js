@@ -161,6 +161,8 @@ window.addEventListener('load', () => {
             allMarkerLayers[activeLayer] = L.layerGroup();
         }
 
+        resetFilters();
+
         allMarkerLayers[activeLayer].addTo(map);
 
         jQuery('#item-filters div:not(.' + activeLayer + ')').hide();
@@ -288,7 +290,8 @@ window.addEventListener('load', () => {
                     layers[layer][val].markers.addLayer(marker);
                 });
 
-                allMarkerLayers[activeLayer].addLayer(layers[layer][val].markers);
+                // allMarkerLayers[activeLayer].addLayer(layers[layer][val].markers);
+                layers[layer][val].markers.addTo(map);
             }
         });
     }
@@ -318,7 +321,8 @@ window.addEventListener('load', () => {
     }
 
     function resetFilters() {
-        jQuery('#item-filters .' + activeLayer + ' input:checked').trigger('click');
+        jQuery('#item-filters input:checked').trigger('click');
+        // jQuery('#item-filters .' + activeLayer + ' input:checked').trigger('click');
     }
 
     jQuery('#reset-filters').click(resetFilters);
