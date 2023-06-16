@@ -66,23 +66,8 @@ window.addEventListener('load', () => {
     let caveLayerBackgroundImage = L.imageOverlay('assets/images/maps/surface.jpg', bounds);
     let depthsLayerBackgroundImage = L.imageOverlay('assets/images/maps/depths.jpg', bounds);
 
-    let allMarkerLayers = [];
-
     let zoomLayer1 = L.layerGroup();
     let zoomLayer2 = L.layerGroup();
-
-    jQuery('#show-layer-sky').click(function () {
-        if (activeLayer === 'sky') {
-            return;
-        }
-
-        skyLayerBackgroundImage.addTo(map);
-        map.removeLayer(surfaceLayerBackgroundImage);
-        map.removeLayer(caveLayerBackgroundImage);
-        map.removeLayer(depthsLayerBackgroundImage);
-
-        activateLayer('sky');
-    });
 
     jQuery.getJSON('data/locations.json', function (data) {
         jQuery(data.surface).each(function (idx, location) {
@@ -109,6 +94,19 @@ window.addEventListener('load', () => {
         });
 
         zoomLayer1.addTo(map);
+    });
+
+    jQuery('#show-layer-sky').click(function () {
+        if (activeLayer === 'sky') {
+            return;
+        }
+
+        skyLayerBackgroundImage.addTo(map);
+        map.removeLayer(surfaceLayerBackgroundImage);
+        map.removeLayer(caveLayerBackgroundImage);
+        map.removeLayer(depthsLayerBackgroundImage);
+
+        activateLayer('sky');
     });
 
     jQuery('#show-layer-surface').click(function () {
@@ -151,24 +149,11 @@ window.addEventListener('load', () => {
     });
 
     function activateLayer(layer) {
-        if (activeLayer.length > 0 && allMarkerLayers[activeLayer]) {
-            map.removeLayer(allMarkerLayers[activeLayer]);
-        }
-
+        fakeTriggerActiveFilters(false);
         activeLayer = layer;
 
-        if (allMarkerLayers[activeLayer] === undefined) {
-            allMarkerLayers[activeLayer] = L.layerGroup();
-        }
-
-        resetFilters();
-
-        allMarkerLayers[activeLayer].addTo(map);
-
-        jQuery('#item-filters div:not(.' + activeLayer + ')').hide();
-        jQuery('#item-filters div.' + activeLayer).show();
-
         if (layers[layer]) {
+            fakeTriggerActiveFilters(true);
             return;
         }
 
@@ -176,15 +161,13 @@ window.addEventListener('load', () => {
 
         jQuery.getJSON('data/layers/' + activeLayer + '.json', function (data) {
             parseLayers(layer, data);
-
-            doSearch();
+            fakeTriggerActiveFilters(true);
         });
     }
 
-    function parseLayers(layer, data) {
-        layers[layer] = data;
-
+    jQuery.getJSON('data/item-filters.json', function (data) {
         let markerHtml = '';
+
         Object.entries(data).forEach(function (markerGroup, index) {
             let displayName = markerGroup[1].name;
 
@@ -202,98 +185,108 @@ window.addEventListener('load', () => {
                 '<input type="checkbox" value="' + markerGroup[0] + '">' +
                 displayName +
                 ' <span class="locations-count">(' +
-                markerGroup[1].locations.length +
+                markerGroup[1].count +
                 ')</span>' +
                 '</label>';
         });
 
-        jQuery('#item-filters .' + layer).append(markerHtml);
+        jQuery('#item-filters').append(markerHtml);
 
-        jQuery(document).on('change', '#item-filters .' + layer + ' input', function (e) {
+        jQuery(document).on('change', '#item-filters input', function () {
             let val = jQuery(this).val();
-
-            if (layers[layer][val].markers) {
-                if (this.checked === false) {
-                    map.removeLayer(layers[layer][val].markers);
-                } else {
-                    map.addLayer(layers[layer][val].markers);
-                }
-            } else {
-                let iconClass = getIconClass();
-
-                layers[layer][val].markers = L.markerClusterGroup({
-                    removeOutsideVisibleBounds: true,
-                    spiderfyOnMaxZoom: false,
-                    disableClusteringAtZoom: 0,
-                    animate: false,
-                    maxClusterRadius: 20,
-                    iconCreateFunction: function (cluster) {
-                        return L.divIcon({
-                            html: cluster.getChildCount(),
-                            className: iconClass,
-                            iconSize: [18, 18],
-                        });
-                    }
-                });
-
-                let displayName = layers[layer][val].name;
-
-                if (displayName && displayName.length > 0) {
-                    displayName += '<span class="smaller-name">';
-                }
-
-                displayName += val;
-                displayName += '</span>';
-
-                let iconsHtml = '';
-                if (layers[layer][val].icons && layers[layer][val].icons.length > 0) {
-                    iconsHtml += "<div class='totk-marker-icons'>";
-
-                    layers[layer][val].icons.forEach(function (icon, index) {
-                        let fileEnd = 'png';
-                        if (icon.includes('_Icon')) {
-                            fileEnd = 'jpg';
-                        }
-
-                        iconsHtml += "<img src='assets/images/icons/" + icon + "." + fileEnd + "' alt='" + icon + "'>"
-                    });
-
-                    iconsHtml += "</div>";
-                }
-
-                layers[layer][val].locations.forEach(function (point, index) {
-                    let marker = L.marker([point.x, point.y], {
-                        icon: L.divIcon({className: iconClass}),
-                        keyboard: false,
-                        iconSize: [3, 3],
-                        radius: 3,
-                        title: point.z + ' - ' + val,
-                    });
-
-                    let popup =
-                        "<div class='totk-marker'>" +
-                        "   <h2>" + displayName + "</h2>" +
-                        "   <div class='content'>" +
-                        "       <div class='totk-marker-meta'>" +
-                        "          <span><strong>X: </strong>" + point.y + "</span>" +
-                        "          <span><strong>Y: </strong>" + point.x + "</span>" +
-                        "          <span><strong>Z: </strong>" + point.z + "</span>" +
-                        "       </div>" +
-                        iconsHtml +
-                        "   </div>" +
-                        "</div>";
-
-                    marker.bindPopup(
-                        popup
-                    );
-
-                    layers[layer][val].markers.addLayer(marker);
-                });
-
-                // allMarkerLayers[activeLayer].addLayer(layers[layer][val].markers);
-                layers[layer][val].markers.addTo(map);
-            }
+            placeMarkersForItemFilter(val, this.checked);
         });
+    });
+
+    function placeMarkersForItemFilter(val, checked) {
+        if (layers[activeLayer][val] === undefined) {
+            return;
+        }
+
+        if (layers[activeLayer][val].markers) {
+            if (checked === false) {
+                map.removeLayer(layers[activeLayer][val].markers);
+            } else {
+                map.addLayer(layers[activeLayer][val].markers);
+            }
+        } else {
+            let iconClass = getIconClass();
+
+            layers[activeLayer][val].markers = L.markerClusterGroup({
+                removeOutsideVisibleBounds: true,
+                spiderfyOnMaxZoom: false,
+                disableClusteringAtZoom: 0,
+                animate: false,
+                maxClusterRadius: 20,
+                iconCreateFunction: function (cluster) {
+                    return L.divIcon({
+                        html: cluster.getChildCount(),
+                        className: iconClass,
+                        iconSize: [18, 18],
+                    });
+                }
+            });
+
+            let displayName = layers[activeLayer][val].name;
+
+            if (displayName && displayName.length > 0) {
+                displayName += '<span class="smaller-name">';
+            }
+
+            displayName += val;
+            displayName += '</span>';
+
+            let iconsHtml = '';
+            if (layers[activeLayer][val].icons && layers[activeLayer][val].icons.length > 0) {
+                iconsHtml += "<div class='totk-marker-icons'>";
+
+                layers[activeLayer][val].icons.forEach(function (icon, index) {
+                    let fileEnd = 'png';
+                    if (icon.includes('_Icon')) {
+                        fileEnd = 'jpg';
+                    }
+
+                    iconsHtml += "<img src='assets/images/icons/" + icon + "." + fileEnd + "' alt='" + icon + "'>"
+                });
+
+                iconsHtml += "</div>";
+            }
+
+            layers[activeLayer][val].locations.forEach(function (point, index) {
+                let marker = L.marker([point.x, point.y], {
+                    icon: L.divIcon({className: iconClass}),
+                    keyboard: false,
+                    iconSize: [3, 3],
+                    radius: 3,
+                    title: point.z + ' - ' + val,
+                });
+
+                let popup =
+                    "<div class='totk-marker'>" +
+                    "   <h2>" + displayName + "</h2>" +
+                    "   <div class='content'>" +
+                    "       <div class='totk-marker-meta'>" +
+                    "          <span><strong>X: </strong>" + point.y + "</span>" +
+                    "          <span><strong>Y: </strong>" + point.x + "</span>" +
+                    "          <span><strong>Z: </strong>" + point.z + "</span>" +
+                    "       </div>" +
+                    iconsHtml +
+                    "   </div>" +
+                    "</div>";
+
+                marker.bindPopup(
+                    popup
+                );
+
+                layers[activeLayer][val].markers.addLayer(marker);
+            });
+
+            layers[activeLayer][val].markers.addTo(map);
+        }
+    }
+
+    function parseLayers(layer, data) {
+        layers[layer] = data;
     }
 
     jQuery('#filter-search input[type=search]').on('input', doSearch);
@@ -307,8 +300,8 @@ window.addEventListener('load', () => {
 
         searchVal = searchVal.toLocaleLowerCase();
 
-        jQuery('#item-filters .' + activeLayer + ' label[data-search-value*="' + searchVal + '"]').show();
-        jQuery('#item-filters .' + activeLayer + ' label:not([data-search-value*="' + searchVal + '"])').hide();
+        jQuery('#item-filters label[data-search-value*="' + searchVal + '"]').show();
+        jQuery('#item-filters label:not([data-search-value*="' + searchVal + '"])').hide();
     }
 
     function getIconClass() {
@@ -320,9 +313,15 @@ window.addEventListener('load', () => {
         return 'big-marker' + window.lastIconClass;
     }
 
+    function fakeTriggerActiveFilters(forceCheckedState) {
+        jQuery('#item-filters input:checked').each(function (i, e) {
+            let val = jQuery(e).val();
+            placeMarkersForItemFilter(val, forceCheckedState);
+        });
+    }
+
     function resetFilters() {
         jQuery('#item-filters input:checked').trigger('click');
-        // jQuery('#item-filters .' + activeLayer + ' input:checked').trigger('click');
     }
 
     jQuery('#reset-filters').click(resetFilters);

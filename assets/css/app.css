@@ -65,11 +65,7 @@ body {
     max-height: 75vh;
 }
 
-#item-filters > div {
-    width: 300%
-}
-
-#item-filters > div > label {
+#item-filters > label {
     display: block;
     margin-bottom: 2px;
 }
