@@ -1,0 +1,357 @@
+{
+  "heartyFood": {
+    "name": "Hearty Food",
+    "objects": [
+      "Animal_Fish_B",
+      "Animal_Fish_I",
+      "Animal_Insect_M",
+      "Item_FishGet_I",
+      "Item_Mushroom_F",
+      "Item_Mushroom_N",
+      "Item_Plant_B",
+      "Item_Plant_C"
+    ]
+  },
+  "speedUp": {
+    "name": "Speed Up",
+    "objects": [
+      "Animal_Insect_A",
+      "Animal_Insect_AA",
+      "Animal_Insect_S",
+      "Item_Fruit_E",
+      "Item_MushroomGet_D",
+      "Item_Mushroom_D",
+      "Item_PlantGet_M",
+      "Item_PlantGet_O",
+      "Item_Plant_M",
+      "Item_Plant_O",
+      "Mannequin_003_Head : Armor_012_Head",
+      "Mannequin_003_Lower : Armor_012_Lower",
+      "Mannequin_003_Upper : Armor_012_Upper",
+      "TBox_Field_Iron : Armor_174_Lower",
+      "TBox_Field_Iron : Armor_174_Upper",
+      "TBox_Field_Stone : Armor_174_Head",
+      "Mannequin_025_Lower : Armor_049_Lower",
+      "Mannequin_026_Lower : Armor_141_Lower"
+    ]
+  },
+  "attackUp": {
+    "name": "Attack Up",
+    "objects": [
+      "Animal_Fish_E",
+      "Animal_Fish_F",
+      "Animal_Insect_G",
+      "Item_InsectGet_K",
+      "Item_FishGet_E",
+      "Item_FishGet_F",
+      "Item_Fruit_H",
+      "Item_Fruit_G",
+      "Item_Mushroom_L",
+      "TBox_Field_Iron : Armor_1096_Upper",
+      "TBox_Field_Iron : Armor_1096_Lower",
+      "TBox_Field_Iron : Armor_1096_Head",
+      "TBox_Field_Stone_Zonau : Armor_230_Upper",
+      "TBox_Field_Stone_Zonau : Armor_230_Lower",
+      "TBox_Field_Stone_Zonau : Armor_230_Head",
+      "TBox_Field_Stone_Zonau : Armor_215_Head",
+      "TBox_Field_Stone_Zonau : Armor_215_Lower",
+      "TBox_Field_Stone_Zonau : Armor_215_Upper",
+      "TBox_Field_Stone_Zonau : Armor_200_Head",
+      "TBox_Field_Stone_Zonau : Armor_200_Lower",
+      "TBox_Field_Stone_Zonau : Armor_200_Upper",
+      "TBox_Field_Stone_Zonau : Armor_210_Lower",
+      "TBox_Field_Stone_Zonau : Armor_210_Upper",
+      "TBox_Field_Enemy_Miasma : Armor_210_Head",
+      "TBox_Field_Stone_Zonau : Armor_005_Head",
+      "TBox_Field_Stone_Zonau : Armor_005_Lower",
+      "TBox_Field_Stone_Zonau : Armor_005_Upper",
+      "TBox_Field_Stone_Zonau : Armor_205_Head",
+      "TBox_Field_Stone_Zonau : Armor_205_Lower",
+      "TBox_Field_Stone_Zonau : Armor_205_Upper",
+      "Obj_Head_024 : Armor_024_Head",
+      "TBox_Field_Iron : Armor_048_Head",
+      "TBox_Field_Iron : Armor_048_Lower",
+      "TBox_Field_Iron : Armor_048_Upper",
+      "TBox_Field_Iron : Armor_171_Head",
+      "TBox_Field_Iron : Armor_171_Lower",
+      "TBox_Field_Iron : Armor_171_Upper",
+      "TBox_Field_Iron : Armor_225_Head",
+      "TBox_Field_Iron : Armor_225_Lower",
+      "TBox_Field_Iron : Armor_225_Upper"
+    ]
+  },
+  "hotWeatherAttackUp": {
+    "name": "Hot Weather Attack Up",
+    "objects": [
+      "FireFruit",
+      "Npc_oasis024 : FireFruit",
+      "TBox_Field_Iron : Armor_1061_Head",
+      "TBox_Field_Iron : Armor_1061_Lower",
+      "TBox_Field_Stone : Armor_1061_Upper"
+    ]
+  },
+  "stormyWeatherAttackUp": {
+    "name": "Stormy Weather Attack Up",
+    "objects": [
+      "ElectricalFruit",
+      "TBox_Field_Stone_Zonau_NoDelete : Armor_1066_Head",
+      "TBox_Field_Stone_Zonau_NoDelete : Armor_1066_Lower",
+      "TBox_Field_Stone_Zonau_NoDelete : Armor_1066_Upper"
+    ]
+  },
+  "coldWeatherAttackUp": {
+    "name": "Cold Weather Attack Up",
+    "objects": [
+      "IceFruit",
+      "TBox_Field_Stone : Armor_1071_Head",
+      "TBox_Field_Stone : Armor_1071_Lower",
+      "TBox_Field_Stone : Armor_1071_Upper"
+    ]
+  },
+  "fireproof": {
+    "name": "Fireproof",
+    "objects": [
+      "Animal_Insect_X",
+      "Mannequin_005_Head : Armor_011_Head",
+      "Mannequin_005_Lower : Armor_011_Lower",
+      "Mannequin_005_Upper : Armor_011_Upper"
+    ]
+  },
+  "heatResistance": {
+    "name": "Heat Resistance",
+    "objects": [
+      "Animal_Insect_C",
+      "Animal_Insect_N",
+      "Item_Enemy_17",
+      "Enemy_Chuchu_Ice_Junior",
+      "Enemy_Chuchu_Ice_Middle",
+      "Enemy_Chuchu_Ice_Middle_Army",
+      "Enemy_Chuchu_Ice_Senior",
+      "Enemy_LikeLike_Ice_RagdollShort",
+      "Enemy_Lizalfos_Ice",
+      "Item_Mushroom_B",
+      "Animal_Fish_C",
+      "Item_Fruit_F",
+      "Item_Plant_E",
+      "Mannequin_006_Head : Armor_008_Head",
+      "Mannequin_006_Lower : Armor_008_Lower",
+      "Mannequin_006_Upper : Armor_008_Upper",
+      "Obj_Head_026 : Armor_026_Head",
+      "TBox_Field_Iron : Armor_175_Upper"
+    ]
+  },
+  "coldResistance": {
+    "name": "Cold Resistance",
+    "objects": [
+      "Animal_Insect_Q",
+      "Animal_Insect_T",
+      "Enemy_Keese_Fire",
+      "Enemy_Chuchu_Fire_Junior",
+      "Enemy_Chuchu_Fire_Middle",
+      "Enemy_Chuchu_Fire_Middle_Army",
+      "Enemy_Chuchu_Fire_Senior",
+      "Item_Enemy_15",
+      "Enemy_LikeLike_Fire",
+      "Enemy_LikeLike_Fire_RagdollShort",
+      "Enemy_Lizalfos_Fire",
+      "Animal_Fish_I",
+      "Animal_Fish_J",
+      "Item_Mushroom_C",
+      "Sunshroom - Kibako_Contain_01 : Item_Mushroom_C",
+      "Item_Plant_F",
+      "Mannequin_004_Head : Armor_009_Head",
+      "Mannequin_004_Lower : Armor_009_Lower",
+      "Mannequin_004_Upper : Armor_009_Upper",
+      "Obj_Head_025 : Armor_025_Head",
+      "TBox_Field_Stone_Zonau : Armor_1044_Lower",
+      "TBox_Field_Stone : Armor_182_Head"
+    ]
+  },
+  "shockResistance": {
+    "name": "Shock Resistance",
+    "objects": [
+      "Animal_Insect_I",
+      "Animal_Insect_R",
+      "Enemy_Keese_Electric",
+      "Enemy_Chuchu_Electric_Junior",
+      "Enemy_Chuchu_Electric_Middle",
+      "Enemy_Chuchu_Electric_Middle_Army",
+      "Enemy_Chuchu_Electric_Senior",
+      "Item_Enemy_16",
+      "Enemy_LikeLike_Electric",
+      "Enemy_LikeLike_Electric_RagdollShort",
+      "Enemy_Lizalfos_Electric",
+      "TBox_Field_Stone : Item_Enemy_60",
+      "Animal_Fish_D",
+      "Item_Fruit_C",
+      "Item_Mushroom_H",
+      "Item_PlantGet_L",
+      "Mannequin_006_Head : Armor_008_Head",
+      "Mannequin_006_Lower : Armor_008_Lower",
+      "Mannequin_006_Upper : Armor_008_Upper",
+      "TBox_Field_Iron : Armor_046_Lower",
+      "TBox_Field_Iron : Armor_046_Upper",
+      "TBox_Field_Stone : Armor_046_Head",
+      "Obj_Head_027 : Armor_027_Head",
+      "TBox_Field_Stone : Armor_184_Head"
+    ]
+  },
+  "stealthUp": {
+    "name": "Stealth Up",
+    "objects": [
+      "Animal_Fish_M",
+      "Animal_Fish_X",
+      "Animal_Insect_E",
+      "Item_Mushroom_J",
+      "Item_PlantGet_J",
+      "Item_Plant_I",
+      "Item_Plant_J",
+      "TBox_Field_Stone : Armor_1300_Head",
+      "TBox_Field_Stone : Armor_1300_Lower",
+      "TBox_Field_Stone : Armor_1300_Upper",
+      "TBox_Field_Stone_Zonau : Armor_180_Head",
+      "TBox_Field_Stone_Zonau : Armor_180_Lower",
+      "TBox_Field_Stone_Zonau : Armor_180_Upper",
+      "TBox_Field_Enemy_Miasma : Armor_220_Head",
+      "Mannequin_003_Head : Armor_012_Head",
+      "Mannequin_003_Lower : Armor_012_Lower",
+      "Mannequin_003_Upper : Armor_012_Upper"
+    ]
+  },
+  "slipResistance": {
+    "name": "Slip Resistance",
+    "objects": [
+      "Animal_Insect_AG",
+      "Animal_Insect_AH"
+    ]
+  },
+  "gloomResistance": {
+    "name": "Gloom Resistance",
+    "objects": [
+      "TBox_Field_Enemy_Miasma : Armor_173_Head",
+      "LocationMarker : DemonStatue_00",
+      "LocationMarker : DemonStatue_01",
+      "LocationMarker : DemonStatue_02",
+      "LocationMarker : DemonStatue_03",
+      "LocationMarker : DemonStatue_04",
+      "LocationMarker : DemonStatue_05",
+      "LocationMarker : SmallDemonStatue"
+    ]
+  },
+  "swimSpeed": {
+    "name": "Swim Speed",
+    "objects": [
+      "WaterFruit",
+      "TBox_Field_Stone : Armor_006_Head",
+      "TBox_Field_Stone : Armor_006_Lower",
+      "Obj_Head_028 : Armor_028_Head",
+      "TBox_Field_Stone : Armor_181_Head"
+    ]
+  },
+  "glow": {
+    "name": "Glow",
+    "objects": [
+      "Animal_Insect_AI",
+      "Animal_Fish_AC",
+      "Item_MushroomGet_K",
+      "Item_Mushroom_K",
+      "Kibako_Contain_01 : Item_MushroomGet_K",
+      "TBox_Field_Stone_Zonau : Armor_1051_Head",
+      "TBox_Field_Stone_Zonau : Armor_1051_Lower",
+      "TBox_Field_Stone_Zonau : Armor_1051_Upper"
+    ]
+  },
+  "ores": {
+    "name": "Ores",
+    "objects": [
+      "Obj_MineralBury_A_01",
+      "Obj_MineralGrain_A_01",
+      "Obj_MineralGrain_A_02",
+      "Obj_MineralGrain_A_03",
+      "Obj_MineralGrain_A_04",
+      "Obj_MineralGrain_A_05",
+      "Obj_Mineral_A_01",
+      "Obj_Mineral_A_01 : Drop__DropTable_Flint",
+      "Obj_Mineral_A_01 : Drop__DropTable_Ruby",
+      "Obj_Mineral_B_01",
+      "Obj_Mineral_B_01 : Drop__DropTable_Ruby",
+      "Obj_Mineral_B_02 : Drop__DropTable_Ichigeki",
+      "Obj_Mineral_C_01",
+      "Obj_Mineral_D_01",
+      "Obj_Mineral_D_01 : Drop__DropTable_Zonaniumu_1",
+      "Obj_Mineral_D_01 : Drop__DropTable_Zonaniumu_2",
+      "Obj_Mineral_D_01 : Drop__DropTable_Zonaniumu_4"
+    ]
+  },
+  "breakableBoxes": {
+    "name": "Breakable Boxes",
+    "objects": [
+      "KibakoDesert_Contain_01",
+      "KibakoGerudo_Contain_01",
+      "KibakoJungle_Contain_01",
+      "KibakoSeaside_Contain_01",
+      "KibakoSky_Contain_01",
+      "KibakoSnowMountain_Contain_01",
+      "KibakoVolcano_Contain_01",
+      "KibakoZora_Contain_01",
+      "Kibako_Contain_01",
+      "Kibako_Contain_HorseRace",
+      "Barrel",
+      "Obj_BreakBoxIron"
+    ]
+  },
+  "horses": {
+    "name": "Horses",
+    "objects": [
+      "Animal_Horse_A",
+      "Animal_Horse_A_Gold",
+      "Animal_Horse_B",
+      "GameRomHorse00L",
+      "GameRomHorse01L",
+      "GameRomHorse21",
+      "GameRomHorseBone",
+      "GameRomHorseGold",
+      "GameRomHorseNushi",
+      "GameRomHorseSpPattern",
+      "GameRomHorseZelda",
+      "HorseGod001",
+      "WildHorseCreateTag",
+      "WildHorseCreateTag01",
+      "WildHorseCreateTag02",
+      "WildHorseCreateTag03",
+      "WildHorseCreateTag04",
+      "WildHorseCreateTag05",
+      "WildHorseCreateTag06",
+      "WildHorseCreateTag07",
+      "WildHorseCreateTag08",
+      "WildHorseCreateTag09",
+      "WildHorseCreateTagBone"
+    ]
+  },
+  "koroks": {
+    "name": "Korok Seeds",
+    "objects": [
+      "Npc_HiddenKorokGround",
+      "Npc_HiddenKorokFly",
+      "KorokCarry_Destination_Backpack"
+    ]
+  },
+  "cookingPots": {
+    "name": "Cooking Pots",
+    "objects": [
+      "Item_CookSet",
+      "Item_CookSetOnFire",
+      "Item_CookSetOnFire_C",
+      "Item_CookSetOnFire_PanOnly",
+      "Item_CookSet_C",
+      "Item_CookSet_PanOnly",
+      "SpObj_CookSet_Capsule_A_01"
+    ]
+  },
+  "treasureChests": {
+    "name": "Treasure Chests",
+    "objects": [
+      "TBox_"
+    ]
+  }
+}

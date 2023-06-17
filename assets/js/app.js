@@ -68,6 +68,47 @@ window.addEventListener('load', () => {
 
     let zoomLayer1 = L.layerGroup();
     let zoomLayer2 = L.layerGroup();
+    let presets = [];
+    let presetFiltering = false;
+
+    jQuery.getJSON('data/presets.json', function (data) {
+        presets = data;
+        let presetOptionsHtml = '';
+        Object.entries(data).forEach(function (markerGroup, index) {
+            presetOptionsHtml += '<option value="' + markerGroup[0] + '">' + markerGroup[1].name + '</option>';
+        });
+        jQuery('#presets').append(presetOptionsHtml);
+    });
+
+    jQuery('#presets').change(function () {
+        let selectedPreset = jQuery(this).val();
+
+        jQuery('#item-filters label.preset').removeClass('preset');
+
+        if (selectedPreset === '') {
+            jQuery('body').removeClass('preset-filtering');
+            doSearch();
+            return;
+        }
+
+        jQuery('body').addClass('preset-filtering');
+
+        jQuery(presets[selectedPreset].objects).each(function (idx, object) {
+            let selector = '';
+
+            if (object === 'TBox_' || object.startsWith('Enemy_')) {
+                selector = '^';
+            }
+
+            if (object.startsWith('SpObj_')) {
+                selector = '*';
+            }
+
+            jQuery('#item-filters input[value' + selector + '="' + object + '"]').parent().addClass('preset');
+        });
+
+        doSearch();
+    });
 
     jQuery.getJSON('data/locations.json', function (data) {
         jQuery(data.surface).each(function (idx, location) {
@@ -290,18 +331,29 @@ window.addEventListener('load', () => {
     }
 
     jQuery('#filter-search input[type=search]').on('input', doSearch);
+    jQuery('#filter-search input[type=search]').on('search', doSearch);
 
     function doSearch() {
         let searchVal = jQuery('#filter-search input[type=search]').val();
         if (searchVal.length === 0) {
-            jQuery('#item-filters .' + activeLayer + ' label').show();
+
+            if (jQuery('body').hasClass('preset-filtering')) {
+                jQuery('#item-filters label.preset:not(:visible)').show();
+            } else {
+                jQuery('#item-filters label:not(:visible)').show();
+            }
             return;
         }
 
         searchVal = searchVal.toLocaleLowerCase();
 
-        jQuery('#item-filters label[data-search-value*="' + searchVal + '"]').show();
-        jQuery('#item-filters label:not([data-search-value*="' + searchVal + '"])').hide();
+        if (jQuery('body').hasClass('preset-filtering')) {
+            jQuery('#item-filters label.preset[data-search-value*="' + searchVal + '"]').show();
+            jQuery('#item-filters label.preset:not([data-search-value*="' + searchVal + '"])').hide();
+        } else {
+            jQuery('#item-filters label[data-search-value*="' + searchVal + '"]').show();
+            jQuery('#item-filters label:not([data-search-value*="' + searchVal + '"])').hide();
+        }
     }
 
     function getIconClass() {
