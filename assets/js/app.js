@@ -69,7 +69,6 @@ window.addEventListener('load', () => {
     let zoomLayer1 = L.layerGroup();
     let zoomLayer2 = L.layerGroup();
     let presets = [];
-    let presetFiltering = false;
 
     jQuery.getJSON('data/presets.json', function (data) {
         presets = data;
@@ -191,7 +190,11 @@ window.addEventListener('load', () => {
 
     function activateLayer(layer) {
         fakeTriggerActiveFilters(false);
+
+        jQuery('.map-switcher .active').removeClass('active');
         activeLayer = layer;
+        jQuery('.map-switcher #show-layer-' + activeLayer).addClass('active');
+        console.log(jQuery('.map-switcher #show-layer-' + activeLayer));
 
         if (layers[layer]) {
             fakeTriggerActiveFilters(true);

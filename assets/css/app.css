@@ -213,6 +213,46 @@ body {
 }
 
 /*
+ * Map Switcher
+ */
+.map-switcher {
+    display: flex;
+    gap: .5em;
+}
+
+.map-switcher button {
+    font-size: 18px;
+    font-weight: 600;
+    flex-basis: 25%;
+    padding: .5em;
+    border-style: solid;
+}
+
+.map-switcher #show-layer-sky.active {
+    background-color: #c0e7e4;
+    border-color: #66fff2;
+    color: #0a3288;
+}
+
+.map-switcher #show-layer-surface.active {
+    background-color: #ced9c7;
+    border-color: #7aff66;
+    color: #1d5905;
+}
+
+.map-switcher #show-layer-cave.active {
+    background-color: #d9cfc7;
+    border-color: #b05305;
+    color: #3d3005;
+}
+
+.map-switcher #show-layer-depths.active {
+    background-color: #d6c7d9;
+    border-color: #c266ff;
+    color: #370548;
+}
+
+/*
  * Preset
  */
 
