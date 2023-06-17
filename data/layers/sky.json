@@ -10447,7 +10447,7 @@
         ]
     },
     "Barrel_SkyObj": {
-        "name": "Canteen",
+        "name": "Wooden Barrel",
         "icons": [],
         "locations": [
             {
@@ -10623,7 +10623,7 @@
         ]
     },
     "Barrel_SkyObjOld_A_01": {
-        "name": "Canteen",
+        "name": "Wooden Barrel",
         "icons": [],
         "locations": [
             {
@@ -12369,7 +12369,7 @@
         ]
     },
     "DgnObj_Gerudo_LightSwithOneTime_A_01": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -12390,7 +12390,7 @@
         ]
     },
     "DgnObj_Gerudo_LightSwithOneTime_A_03": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -13071,7 +13071,7 @@
         ]
     },
     "DgnObj_LargeDungeonWaterParts_A_02": {
-        "name": "Water Temple",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -13082,7 +13082,7 @@
         ]
     },
     "DgnObj_LargeDungeonWaterParts_A_02_Far": {
-        "name": "Water Temple",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -13093,7 +13093,7 @@
         ]
     },
     "DgnObj_LargeDungeonWaterParts_A_05": {
-        "name": "Water Temple",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -13214,7 +13214,7 @@
         ]
     },
     "DgnObj_LargeDungeonWaterParts_A_05_Far": {
-        "name": "Water Temple",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -13335,7 +13335,7 @@
         ]
     },
     "DgnObj_LargeDungeonWaterParts_A_06": {
-        "name": "Water Temple",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -13366,7 +13366,7 @@
         ]
     },
     "DgnObj_LargeDungeonWaterParts_A_07": {
-        "name": "Water Temple",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -13377,7 +13377,7 @@
         ]
     },
     "DgnObj_LargeDungeonWaterParts_A_09": {
-        "name": "Water Temple",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -13388,7 +13388,7 @@
         ]
     },
     "DgnObj_LargeDungeonWind_Ice_A_02": {
-        "name": "Wind Temple",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -13404,7 +13404,7 @@
         ]
     },
     "DgnObj_LargeDungeonWind_Ice_A_02_Far": {
-        "name": "Wind Temple",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -20922,7 +20922,7 @@
         ]
     },
     "FldObj_Rito_IceBase_A_01": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -20943,7 +20943,7 @@
         ]
     },
     "FldObj_Rito_IceBase_A_02": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -20964,7 +20964,7 @@
         ]
     },
     "FldObj_Rito_IceBase_A_03": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -20975,7 +20975,7 @@
         ]
     },
     "FldObj_Rito_IceBase_A_05": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -20991,7 +20991,7 @@
         ]
     },
     "FldObj_Rito_Snow_A_01": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -21067,7 +21067,7 @@
         ]
     },
     "FldObj_Rito_Snow_A_02": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -21128,7 +21128,7 @@
         ]
     },
     "FldObj_Rito_Snow_A_03": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -21234,7 +21234,7 @@
         ]
     },
     "FldObj_Rito_Snow_A_04": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -21275,7 +21275,7 @@
         ]
     },
     "FldObj_Rito_Snow_A_05": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -21386,7 +21386,7 @@
         ]
     },
     "FldObj_Rito_Snow_A_07": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -21412,7 +21412,7 @@
         ]
     },
     "FldObj_Rito_Snow_A_08": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -21433,7 +21433,7 @@
         ]
     },
     "FldObj_Rito_Snow_A_09": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -21444,7 +21444,7 @@
         ]
     },
     "FldObj_Rito_Snow_A_09_Far": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -21455,7 +21455,7 @@
         ]
     },
     "FldObj_Rito_Snow_A_10": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -21481,7 +21481,7 @@
         ]
     },
     "FldObj_Rito_Snow_A_11": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -37300,7 +37300,7 @@
         ]
     },
     "KibakoSky_Contain_01": {
-        "name": "",
+        "name": "Wooden Box",
         "icons": [],
         "locations": [
             {
@@ -42044,7 +42044,7 @@
         ]
     },
     "MinusObj_MineruGolem_Background_A_01": {
-        "name": "YunoboCo HQ",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -45745,7 +45745,7 @@
         ]
     },
     "Obj_MineralGrain_A_03": {
-        "name": "YunoboCo HQ",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -45881,7 +45881,7 @@
         ]
     },
     "Obj_MineralGrain_A_04": {
-        "name": "YunoboCo HQ",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -71962,7 +71962,7 @@
         ]
     },
     "SkyObj_MasterSwordAltar_A_01": {
-        "name": "Master Sword Altar",
+        "name": "Master Sword Altar - Sky",
         "icons": [],
         "locations": [
             {
@@ -74468,7 +74468,7 @@
         ]
     },
     "SkyObj_Rito_AreaParts_A_01": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -74924,7 +74924,7 @@
         ]
     },
     "SkyObj_Rito_AreaParts_A_02": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -75010,7 +75010,7 @@
         ]
     },
     "SkyObj_Rito_AreaParts_A_03": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -75066,7 +75066,7 @@
         ]
     },
     "SkyObj_Rito_Area_A_18": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -75147,7 +75147,7 @@
         ]
     },
     "SkyObj_Rito_Area_A_19": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -75173,7 +75173,7 @@
         ]
     },
     "SkyObj_Rito_Block_Fall_A_01": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -75234,7 +75234,7 @@
         ]
     },
     "SkyObj_Rito_IceWall_A_01": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -75245,7 +75245,7 @@
         ]
     },
     "SkyObj_Rito_PlantBase_A_01": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -75336,7 +75336,7 @@
         ]
     },
     "SkyObj_Rito_StoneLantern_A_01": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -75682,7 +75682,7 @@
         ]
     },
     "SkyObj_Rito_ThinFilmBoard_A_01": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -75708,7 +75708,7 @@
         ]
     },
     "SkyObj_Rito_ThinFilmBoard_A_02": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -75719,7 +75719,7 @@
         ]
     },
     "SkyObj_Rito_ThinFilmBoard_A_05": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -105685,7 +105685,7 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_01": {
-        "name": "Treasure Chest",
+        "name": "Treasure Chest : Old Map",
         "icons": [
             "TBox_Field_Iron_Icon"
         ],
@@ -105698,7 +105698,7 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_02": {
-        "name": "Treasure Chest",
+        "name": "Treasure Chest : Old Map",
         "icons": [
             "TBox_Field_Iron_Icon"
         ],
@@ -105711,7 +105711,7 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_04": {
-        "name": "Treasure Chest",
+        "name": "Treasure Chest : Old Map",
         "icons": [
             "TBox_Field_Iron_Icon"
         ],
@@ -105724,7 +105724,7 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_05": {
-        "name": "Treasure Chest",
+        "name": "Treasure Chest : Old Map",
         "icons": [
             "TBox_Field_Iron_Icon"
         ],
@@ -105737,7 +105737,7 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_13": {
-        "name": "Treasure Chest",
+        "name": "Treasure Chest : Old Map",
         "icons": [
             "TBox_Field_Iron_Icon"
         ],
@@ -105750,7 +105750,7 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_15": {
-        "name": "Treasure Chest",
+        "name": "Treasure Chest : Old Map",
         "icons": [
             "TBox_Field_Iron_Icon"
         ],
@@ -105763,7 +105763,7 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_16": {
-        "name": "Treasure Chest",
+        "name": "Treasure Chest : Old Map",
         "icons": [
             "TBox_Field_Iron_Icon"
         ],
@@ -105776,7 +105776,7 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_19": {
-        "name": "Treasure Chest",
+        "name": "Treasure Chest : Old Map",
         "icons": [
             "TBox_Field_Iron_Icon"
         ],
@@ -105789,7 +105789,7 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_21": {
-        "name": "Treasure Chest",
+        "name": "Treasure Chest : Old Map",
         "icons": [
             "TBox_Field_Iron_Icon"
         ],
@@ -105802,7 +105802,7 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_22": {
-        "name": "Treasure Chest",
+        "name": "Treasure Chest : Old Map",
         "icons": [
             "TBox_Field_Iron_Icon"
         ],
@@ -105815,7 +105815,7 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_23": {
-        "name": "Treasure Chest",
+        "name": "Treasure Chest : Old Map",
         "icons": [
             "TBox_Field_Iron_Icon"
         ],
@@ -105828,7 +105828,7 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_25": {
-        "name": "Treasure Chest",
+        "name": "Treasure Chest : Old Map",
         "icons": [
             "TBox_Field_Iron_Icon"
         ],
@@ -105841,7 +105841,7 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_27": {
-        "name": "Treasure Chest",
+        "name": "Treasure Chest : Old Map",
         "icons": [
             "TBox_Field_Iron_Icon"
         ],
@@ -105969,7 +105969,7 @@
         ]
     },
     "TBox_Field_Iron_Zonau_Zonau_BlockMaster : Obj_TreasureMap_09": {
-        "name": "Treasure Chest",
+        "name": "Treasure Chest : Old Map",
         "icons": [],
         "locations": [
             {
@@ -105980,7 +105980,7 @@
         ]
     },
     "TBox_Field_Iron_Zonau_Zonau_BlockMaster : Obj_TreasureMap_10": {
-        "name": "Treasure Chest",
+        "name": "Treasure Chest : Old Map",
         "icons": [],
         "locations": [
             {
@@ -105991,7 +105991,7 @@
         ]
     },
     "TBox_Field_Iron_Zonau_Zonau_BlockMaster : Obj_TreasureMap_12": {
-        "name": "Treasure Chest",
+        "name": "Treasure Chest : Old Map",
         "icons": [],
         "locations": [
             {
@@ -106002,7 +106002,7 @@
         ]
     },
     "TBox_Field_Iron_Zonau_Zonau_BlockMaster : Obj_TreasureMap_28": {
-        "name": "Treasure Chest",
+        "name": "Treasure Chest : Old Map",
         "icons": [],
         "locations": [
             {
@@ -106013,7 +106013,7 @@
         ]
     },
     "TBox_Field_Iron_Zonau_Zonau_BlockMaster : Obj_TreasureMap_30": {
-        "name": "Treasure Chest",
+        "name": "Treasure Chest : Old Map",
         "icons": [],
         "locations": [
             {
@@ -106367,7 +106367,7 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_03": {
-        "name": "Stone Treasure Chest",
+        "name": "Stone Treasure Chest : Old Map",
         "icons": [],
         "locations": [
             {
@@ -106378,7 +106378,7 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_06": {
-        "name": "Stone Treasure Chest",
+        "name": "Stone Treasure Chest : Old Map",
         "icons": [],
         "locations": [
             {
@@ -106389,7 +106389,7 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_07": {
-        "name": "Stone Treasure Chest",
+        "name": "Stone Treasure Chest : Old Map",
         "icons": [],
         "locations": [
             {
@@ -106400,7 +106400,7 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_08": {
-        "name": "Stone Treasure Chest",
+        "name": "Stone Treasure Chest : Old Map",
         "icons": [],
         "locations": [
             {
@@ -106411,7 +106411,7 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_11": {
-        "name": "Stone Treasure Chest",
+        "name": "Stone Treasure Chest : Old Map",
         "icons": [],
         "locations": [
             {
@@ -106422,7 +106422,7 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_14": {
-        "name": "Stone Treasure Chest",
+        "name": "Stone Treasure Chest : Old Map",
         "icons": [],
         "locations": [
             {
@@ -106433,7 +106433,7 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_17": {
-        "name": "Stone Treasure Chest",
+        "name": "Stone Treasure Chest : Old Map",
         "icons": [],
         "locations": [
             {
@@ -106444,7 +106444,7 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_18": {
-        "name": "Stone Treasure Chest",
+        "name": "Stone Treasure Chest : Old Map",
         "icons": [],
         "locations": [
             {
@@ -106455,7 +106455,7 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_20": {
-        "name": "Stone Treasure Chest",
+        "name": "Stone Treasure Chest : Old Map",
         "icons": [],
         "locations": [
             {
@@ -106466,7 +106466,7 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_24": {
-        "name": "Stone Treasure Chest",
+        "name": "Stone Treasure Chest : Old Map",
         "icons": [],
         "locations": [
             {
@@ -106477,7 +106477,7 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_26": {
-        "name": "Stone Treasure Chest",
+        "name": "Stone Treasure Chest : Old Map",
         "icons": [],
         "locations": [
             {
@@ -106488,7 +106488,7 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_29": {
-        "name": "Stone Treasure Chest",
+        "name": "Stone Treasure Chest : Old Map",
         "icons": [],
         "locations": [
             {
@@ -106927,7 +106927,7 @@
         ]
     },
     "TBox_Field_Wood_Zonau : SpObj_BalloonEnvelope_Capsule_A_01": {
-        "name": "WoodenTreasure Chest : Balloon",
+        "name": "Wooden Treasure Chest : Balloon",
         "icons": [
             "TBox_Field_Iron_Icon",
             "SpObj_BalloonEnvelope_Capsule_A_01"
@@ -106941,7 +106941,7 @@
         ]
     },
     "TBox_Field_Wood_Zonau : SpObj_FlameThrower_Capsule_A_01": {
-        "name": "WoodenTreasure Chest : Flame Emitter",
+        "name": "Wooden Treasure Chest : Flame Emitter",
         "icons": [
             "TBox_Field_Iron_Icon",
             "SpObj_FlameThrower_Capsule_A_01"

@@ -13056,7 +13056,7 @@
         ]
     },
     "BGM_AssassinBase": {
-        "name": "Yiga Clan Hideout",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -13218,7 +13218,7 @@
         ]
     },
     "Barrel": {
-        "name": "Canteen",
+        "name": "Wooden Barrel",
         "icons": [],
         "locations": [
             {
@@ -13549,7 +13549,7 @@
         ]
     },
     "BarrelBomb": {
-        "name": "Canteen",
+        "name": "Barrel Bomb",
         "icons": [],
         "locations": [
             {
@@ -13750,7 +13750,7 @@
         ]
     },
     "BarrelBomb2": {
-        "name": "Canteen",
+        "name": "Barrel Bomb",
         "icons": [],
         "locations": [
             {
@@ -13771,7 +13771,7 @@
         ]
     },
     "BarrelBomb3": {
-        "name": "Canteen",
+        "name": "Barrel Bomb",
         "icons": [],
         "locations": [
             {
@@ -17156,7 +17156,7 @@
         ]
     },
     "CaveObj_Rito_WaterFallBottom_A_01": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -17177,7 +17177,7 @@
         ]
     },
     "CaveObj_Rito_WaterFallFlowing_A_01": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -18937,7 +18937,7 @@
         ]
     },
     "Cave_GerudoDesert_0033": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -18948,7 +18948,7 @@
         ]
     },
     "Cave_GerudoDesert_0034": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -19663,7 +19663,7 @@
         ]
     },
     "Cave_LanayruMountain_0008_StoneBall": {
-        "name": "Oakle's Navel Cave",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -22060,7 +22060,7 @@
         ]
     },
     "DgnObj_GerudoFloorCover_A_01": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -22376,7 +22376,7 @@
         ]
     },
     "DgnObj_GerudoFloorCover_A_02": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -22547,7 +22547,7 @@
         ]
     },
     "DgnObj_GerudoFrame_A_01": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -22648,7 +22648,7 @@
         ]
     },
     "DgnObj_GerudoSwitchBlock_A_01": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -22659,7 +22659,7 @@
         ]
     },
     "DgnObj_Gerudo_LightSwithOneTime_A_02": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -24781,7 +24781,7 @@
         ]
     },
     "Enemy_Assassin_Junior_GateKeeper": {
-        "name": "Yiga Clan Hideout",
+        "name": "Yiga Footsoldier",
         "icons": [],
         "locations": [
             {
@@ -24792,7 +24792,7 @@
         ]
     },
     "Enemy_Assassin_Middle_Gatekeeper": {
-        "name": "Yiga Clan Hideout",
+        "name": "Yiga Blademaster",
         "icons": [],
         "locations": [
             {
@@ -24803,7 +24803,7 @@
         ]
     },
     "Enemy_Assassin_Shooter_Junior : Weapon_Bow_040": {
-        "name": "Yiga Clan Hideout : Duplex Bow",
+        "name": "Duplex Bow",
         "icons": [
             "Weapon_Bow_040"
         ],
@@ -25719,7 +25719,7 @@
         ]
     },
     "Enemy_Bokoblin_Middle : Weapon_Sword_108 : Obj_LiftRockGerudo_A_01 : Weapon_Shield_005": {
-        "name": "Blue Bokoblin : Sturdy Wooden Stick : Gerudo Town : Spiked Boko Shield",
+        "name": "Blue Bokoblin : Sturdy Wooden Stick : Spiked Boko Shield",
         "icons": [
             "Enemy_Bokoblin_Middle_Icon",
             "Weapon_Sword_108",
@@ -26439,7 +26439,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Akkala_0000": {
-        "name": "Ulria Grotto South Cave",
+        "name": "Bubbulfrog : Ulria Grotto South Cave",
         "icons": [],
         "locations": [
             {
@@ -26450,7 +26450,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Akkala_0003": {
-        "name": "Ulria Grotto East Cave",
+        "name": "Bubbulfrog : Ulria Grotto East Cave",
         "icons": [],
         "locations": [
             {
@@ -26461,7 +26461,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Akkala_0010": {
-        "name": "Akkala Citadel Ruins Cave",
+        "name": "Bubbulfrog : Akkala Citadel Ruins Cave",
         "icons": [],
         "locations": [
             {
@@ -26472,7 +26472,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Akkala_0014": {
-        "name": "North Akkala Beach Cave",
+        "name": "Bubbulfrog : North Akkala Beach Cave",
         "icons": [],
         "locations": [
             {
@@ -26483,7 +26483,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Akkala_0017": {
-        "name": "Akkala Citadel Ruins Summit Cave",
+        "name": "Bubbulfrog : Akkala Citadel Ruins Summit Cave",
         "icons": [],
         "locations": [
             {
@@ -26494,7 +26494,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_CentralHyrule_0018": {
-        "name": "Royal Hidden Passage",
+        "name": "Bubbulfrog : Royal Hidden Passage",
         "icons": [],
         "locations": [
             {
@@ -26505,7 +26505,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_CentralHyrule_0023": {
-        "name": "Coliseum Ruins Cave",
+        "name": "Bubbulfrog : Coliseum Ruins Cave",
         "icons": [],
         "locations": [
             {
@@ -26516,7 +26516,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Eldin_0020": {
-        "name": "Death Mountain East Tunnel",
+        "name": "Bubbulfrog : Death Mountain East Tunnel",
         "icons": [],
         "locations": [
             {
@@ -26527,7 +26527,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Eldin_0021": {
-        "name": "Death Mountain West Tunnel",
+        "name": "Bubbulfrog : Death Mountain West Tunnel",
         "icons": [],
         "locations": [
             {
@@ -26538,7 +26538,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Eldin_0022": {
-        "name": "Lake Darman Monster Den",
+        "name": "Bubbulfrog : Lake Darman Monster Den",
         "icons": [],
         "locations": [
             {
@@ -26549,7 +26549,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Eldin_0023": {
-        "name": "Isle of Rabac Gallery",
+        "name": "Bubbulfrog : Isle of Rabac Gallery",
         "icons": [],
         "locations": [
             {
@@ -26560,7 +26560,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Eldin_0025": {
-        "name": "Goronbi River Cave",
+        "name": "Bubbulfrog : Goronbi River Cave",
         "icons": [],
         "locations": [
             {
@@ -26571,7 +26571,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Eldin_0027": {
-        "name": "Gorko Tunnel",
+        "name": "Bubbulfrog : Gorko Tunnel",
         "icons": [],
         "locations": [
             {
@@ -26582,7 +26582,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Eldin_0028": {
-        "name": "West Restaurant Cave",
+        "name": "Bubbulfrog : West Restaurant Cave",
         "icons": [],
         "locations": [
             {
@@ -26593,7 +26593,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Eldin_0029": {
-        "name": "East Restaurant Cave",
+        "name": "Bubbulfrog : East Restaurant Cave",
         "icons": [],
         "locations": [
             {
@@ -26604,7 +26604,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Eldin_0030": {
-        "name": "Lizard's Burrow",
+        "name": "Bubbulfrog : Lizard's Burrow",
         "icons": [],
         "locations": [
             {
@@ -26615,7 +26615,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Eldin_0031": {
-        "name": "Lake Intenoch Cave",
+        "name": "Bubbulfrog : Lake Intenoch Cave",
         "icons": [],
         "locations": [
             {
@@ -26626,7 +26626,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Eldin_0033": {
-        "name": "YunoboCo HQ East Cave",
+        "name": "Bubbulfrog : YunoboCo HQ East Cave",
         "icons": [],
         "locations": [
             {
@@ -26637,7 +26637,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Eldin_0034": {
-        "name": "YunoboCo HQ South Cave",
+        "name": "Bubbulfrog : YunoboCo HQ South Cave",
         "icons": [],
         "locations": [
             {
@@ -26648,7 +26648,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Eldin_0035": {
-        "name": "Death Mountain Foothill Cave",
+        "name": "Bubbulfrog : Death Mountain Foothill Cave",
         "icons": [],
         "locations": [
             {
@@ -26659,7 +26659,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Eldin_0037": {
-        "name": "Lake Ferona Cave",
+        "name": "Bubbulfrog : Lake Ferona Cave",
         "icons": [],
         "locations": [
             {
@@ -26670,7 +26670,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Eldin_0038": {
-        "name": "Cephla Lake Cave",
+        "name": "Bubbulfrog : Cephla Lake Cave",
         "icons": [],
         "locations": [
             {
@@ -26681,7 +26681,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Eldin_0039": {
-        "name": "Foothill Monster Den",
+        "name": "Bubbulfrog : Foothill Monster Den",
         "icons": [],
         "locations": [
             {
@@ -26692,7 +26692,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Firone_0024": {
-        "name": "Popla Foothills Excavation Site",
+        "name": "Bubbulfrog : Popla Foothills Excavation Site",
         "icons": [],
         "locations": [
             {
@@ -26703,7 +26703,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Firone_0029": {
-        "name": "Puffer Beach Overhead Cave",
+        "name": "Bubbulfrog : Puffer Beach Overhead Cave",
         "icons": [],
         "locations": [
             {
@@ -26714,7 +26714,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_GerudoDesert_0022": {
-        "name": "Mount Nabooru Cave",
+        "name": "Bubbulfrog : Mount Nabooru Cave",
         "icons": [],
         "locations": [
             {
@@ -26725,7 +26725,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_GerudoDesert_0030": {
-        "name": "Stalry Plateau Cave",
+        "name": "Bubbulfrog : Stalry Plateau Cave",
         "icons": [],
         "locations": [
             {
@@ -26736,7 +26736,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_GerudoDesert_0035": {
-        "name": "Mount Nabooru South Cave",
+        "name": "Bubbulfrog : Mount Nabooru South Cave",
         "icons": [],
         "locations": [
             {
@@ -26747,7 +26747,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_GerudoDesert_0036": {
-        "name": "Lower Spectacle Rock Cave",
+        "name": "Bubbulfrog : Lower Spectacle Rock Cave",
         "icons": [],
         "locations": [
             {
@@ -26758,7 +26758,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_GerudoDesert_0037": {
-        "name": "Spectacle Rock Cave",
+        "name": "Bubbulfrog : Spectacle Rock Cave",
         "icons": [],
         "locations": [
             {
@@ -26769,7 +26769,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_GerudoDesert_0041": {
-        "name": "Koukot Plateau Cave",
+        "name": "Bubbulfrog : Koukot Plateau Cave",
         "icons": [],
         "locations": [
             {
@@ -26780,7 +26780,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_GerudoDesert_0051": {
-        "name": "Gerudo Canyon Mine",
+        "name": "Bubbulfrog : Gerudo Canyon Mine",
         "icons": [],
         "locations": [
             {
@@ -26791,7 +26791,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_HateruWest_0002": {
-        "name": "Byroad to Lanayru Wetlands",
+        "name": "Bubbulfrog : Byroad to Lanayru Wetlands",
         "icons": [],
         "locations": [
             {
@@ -26802,7 +26802,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_HateruWest_0005": {
-        "name": "Kakariko Village Cave",
+        "name": "Bubbulfrog : Kakariko Village Cave",
         "icons": [],
         "locations": [
             {
@@ -26813,7 +26813,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_HateruWest_0012": {
-        "name": "Dueling Peaks South Cave",
+        "name": "Bubbulfrog : Dueling Peaks South Cave",
         "icons": [],
         "locations": [
             {
@@ -26824,7 +26824,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Hebra_0013": {
-        "name": "Icefall Foothills Cave",
+        "name": "Bubbulfrog : Icefall Foothills Cave",
         "icons": [],
         "locations": [
             {
@@ -26835,7 +26835,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Hebra_0019": {
-        "name": "Pikida Stonegrove Northwest Cave",
+        "name": "Bubbulfrog : Pikida Stonegrove Northwest Cave",
         "icons": [],
         "locations": [
             {
@@ -26846,7 +26846,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_HyruleForest_0006": {
-        "name": "Pico Pond Cave",
+        "name": "Bubbulfrog : Pico Pond Cave",
         "icons": [],
         "locations": [
             {
@@ -26857,7 +26857,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_HyruleForest_0008": {
-        "name": "Deplian Badlands Cave",
+        "name": "Bubbulfrog : Deplian Badlands Cave",
         "icons": [],
         "locations": [
             {
@@ -26868,7 +26868,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_LanayruMountain_0006": {
-        "name": "Mapla Point Cave",
+        "name": "Bubbulfrog : Mapla Point Cave",
         "icons": [],
         "locations": [
             {
@@ -26879,7 +26879,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_LanayruMountain_0008": {
-        "name": "Oakle's Navel Cave",
+        "name": "Bubbulfrog : Oakle's Navel Cave",
         "icons": [],
         "locations": [
             {
@@ -26890,7 +26890,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_LanayruMountain_0010": {
-        "name": "Lanayru Road East Cave",
+        "name": "Bubbulfrog : Lanayru Road East Cave",
         "icons": [],
         "locations": [
             {
@@ -26901,7 +26901,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_LanayruMountain_0016": {
-        "name": "Walnot Mountain Cave",
+        "name": "Bubbulfrog : Walnot Mountain Cave",
         "icons": [],
         "locations": [
             {
@@ -26912,7 +26912,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_LanayruMountain_0022": {
-        "name": "Deepback Bay Cave",
+        "name": "Bubbulfrog : Deepback Bay Cave",
         "icons": [],
         "locations": [
             {
@@ -26923,7 +26923,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_LanayruMountain_0025": {
-        "name": "Retsam Forest Cave",
+        "name": "Bubbulfrog : Retsam Forest Cave",
         "icons": [],
         "locations": [
             {
@@ -26934,7 +26934,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_LanayruMountain_0026": {
-        "name": "Fort Hateno Cave",
+        "name": "Bubbulfrog : Fort Hateno Cave",
         "icons": [],
         "locations": [
             {
@@ -26945,7 +26945,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Lanayru_0006": {
-        "name": "Crenel Peak Cave",
+        "name": "Bubbulfrog : Crenel Peak Cave",
         "icons": [],
         "locations": [
             {
@@ -26956,7 +26956,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Lanayru_0035": {
-        "name": "Horon Lagoon Cave",
+        "name": "Bubbulfrog : Horon Lagoon Cave",
         "icons": [],
         "locations": [
             {
@@ -26967,7 +26967,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Lanayru_0052": {
-        "name": "Crenel Hills Cave",
+        "name": "Bubbulfrog : Crenel Hills Cave",
         "icons": [],
         "locations": [
             {
@@ -26978,7 +26978,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Lanayru_0053": {
-        "name": "Rebonae Bridge Cave",
+        "name": "Bubbulfrog : Rebonae Bridge Cave",
         "icons": [],
         "locations": [
             {
@@ -26989,7 +26989,7 @@
         ]
     },
     "Enemy_CaveMaster_Middle : Cave_Tabantha_0001": {
-        "name": "Gisa Crater Cave",
+        "name": "Bubbulfrog : Gisa Crater Cave",
         "icons": [],
         "locations": [
             {
@@ -27000,7 +27000,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_Akkala_0005": {
-        "name": "Tarrey Town Tunnel",
+        "name": "Bubbulfrog : Tarrey Town Tunnel",
         "icons": [],
         "locations": [
             {
@@ -27011,7 +27011,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_Akkala_0007": {
-        "name": "Construction Site Cave",
+        "name": "Bubbulfrog : Construction Site Cave",
         "icons": [],
         "locations": [
             {
@@ -27022,7 +27022,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_Akkala_0011": {
-        "name": "Skull Lake Cave",
+        "name": "Bubbulfrog : Skull Lake Cave",
         "icons": [],
         "locations": [
             {
@@ -27033,7 +27033,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_CentralHyrule_0009": {
-        "name": "Great Plateau Foothill Cave",
+        "name": "Bubbulfrog : Great Plateau Foothill Cave",
         "icons": [],
         "locations": [
             {
@@ -27044,7 +27044,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_FirstPlateau_0001": {
-        "name": "River of the Dead Waterfall Cave",
+        "name": "Bubbulfrog : River of the Dead Waterfall Cave",
         "icons": [],
         "locations": [
             {
@@ -27055,7 +27055,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_FirstPlateau_0002": {
-        "name": "Shrine of Resurrection",
+        "name": "Bubbulfrog : Shrine of Resurrection",
         "icons": [],
         "locations": [
             {
@@ -27066,7 +27066,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_GerudoDesert_0007": {
-        "name": "Gerudo Sanctuary",
+        "name": "Bubbulfrog : Gerudo Sanctuary",
         "icons": [],
         "locations": [
             {
@@ -27077,7 +27077,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_GerudoDesert_0008": {
-        "name": "Valley of Silent Statues",
+        "name": "Bubbulfrog : Valley of Silent Statues",
         "icons": [],
         "locations": [
             {
@@ -27088,7 +27088,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_GerudoDesert_0015": {
-        "name": "Quicksand Lake Cave",
+        "name": "Bubbulfrog : Quicksand Lake Cave",
         "icons": [],
         "locations": [
             {
@@ -27099,7 +27099,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_GerudoDesert_0031": {
-        "name": "East Gerudo Ruins Cave",
+        "name": "Bubbulfrog : East Gerudo Ruins Cave",
         "icons": [],
         "locations": [
             {
@@ -27110,7 +27110,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_GerudoDesert_0032": {
-        "name": "Central Gerudo Cave",
+        "name": "Bubbulfrog : Central Gerudo Cave",
         "icons": [],
         "locations": [
             {
@@ -27121,7 +27121,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_GerudoDesert_0040": {
-        "name": "South Gerudo Cave",
+        "name": "Bubbulfrog : South Gerudo Cave",
         "icons": [],
         "locations": [
             {
@@ -27132,7 +27132,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_GerudoDesert_0044": {
-        "name": "Ancient Altar Ruins",
+        "name": "Bubbulfrog : Ancient Altar Ruins",
         "icons": [],
         "locations": [
             {
@@ -27143,7 +27143,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_GerudoDesert_0045": {
-        "name": "Oasis Source",
+        "name": "Bubbulfrog : Oasis Source",
         "icons": [],
         "locations": [
             {
@@ -27154,7 +27154,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_GerudoDesert_0046": {
-        "name": "Gerudo Great Skeleton",
+        "name": "Bubbulfrog : Gerudo Great Skeleton",
         "icons": [],
         "locations": [
             {
@@ -27165,7 +27165,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_GerudoDesert_0049": {
-        "name": "West Gerudo Underground Ruins",
+        "name": "Bubbulfrog : West Gerudo Underground Ruins",
         "icons": [],
         "locations": [
             {
@@ -27176,7 +27176,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_GerudoDesert_0050": {
-        "name": "Yiga Blademaster Station",
+        "name": "Bubbulfrog : Yiga Blademaster Station",
         "icons": [],
         "locations": [
             {
@@ -27187,7 +27187,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_GerudoHighlands_0002": {
-        "name": "Taafei Hill Cave",
+        "name": "Bubbulfrog : Taafei Hill Cave",
         "icons": [],
         "locations": [
             {
@@ -27198,7 +27198,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_GerudoHighlands_0008": {
-        "name": "Statue of the Eighth Heroine Cave",
+        "name": "Bubbulfrog : Statue of the Eighth Heroine Cave",
         "icons": [],
         "locations": [
             {
@@ -27209,7 +27209,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_GerudoHighlands_0014": {
-        "name": "Meadela's Mantle Cave",
+        "name": "Bubbulfrog : Meadela's Mantle Cave",
         "icons": [],
         "locations": [
             {
@@ -27220,7 +27220,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_GerudoHighlands_0017": {
-        "name": "Mystathi's Shelf Cave",
+        "name": "Bubbulfrog : Mystathi's Shelf Cave",
         "icons": [],
         "locations": [
             {
@@ -27231,7 +27231,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_HateruEast_0000": {
-        "name": "Mount Dunsel Cave",
+        "name": "Bubbulfrog : Mount Dunsel Cave",
         "icons": [],
         "locations": [
             {
@@ -27242,7 +27242,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_HateruEast_0002": {
-        "name": "Mount Floria Cave",
+        "name": "Bubbulfrog : Mount Floria Cave",
         "icons": [],
         "locations": [
             {
@@ -27253,7 +27253,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_HateruEast_0006": {
-        "name": "Corta Lake Cave",
+        "name": "Bubbulfrog : Corta Lake Cave",
         "icons": [],
         "locations": [
             {
@@ -27264,7 +27264,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_HateruEast_0007": {
-        "name": "Rodai Lakefront Tunnel",
+        "name": "Bubbulfrog : Rodai Lakefront Tunnel",
         "icons": [],
         "locations": [
             {
@@ -27275,7 +27275,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_HateruEast_0008": {
-        "name": "Calora Lake Cave",
+        "name": "Bubbulfrog : Calora Lake Cave",
         "icons": [],
         "locations": [
             {
@@ -27286,7 +27286,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_HateruEast_0014": {
-        "name": "Ubota Point Cave",
+        "name": "Bubbulfrog : Ubota Point Cave",
         "icons": [],
         "locations": [
             {
@@ -27297,7 +27297,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_HateruEast_0016": {
-        "name": "Atun Valley Cave",
+        "name": "Bubbulfrog : Atun Valley Cave",
         "icons": [],
         "locations": [
             {
@@ -27308,7 +27308,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_Hebra_0021": {
-        "name": "Hebra Great Skeleton",
+        "name": "Bubbulfrog : Hebra Great Skeleton",
         "icons": [],
         "locations": [
             {
@@ -27319,7 +27319,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_HyruleRidge_0002": {
-        "name": "Tamio River Downstream Cave",
+        "name": "Bubbulfrog : Tamio River Downstream Cave",
         "icons": [],
         "locations": [
             {
@@ -27330,7 +27330,7 @@
         ]
     },
     "Enemy_CaveMaster_Senior : Cave_LanayruMountain_0024": {
-        "name": "Cape Cales Cliffbase Cave",
+        "name": "Bubbulfrog : Cape Cales Cliffbase Cave",
         "icons": [],
         "locations": [
             {
@@ -31863,7 +31863,7 @@
         ]
     },
     "FldObj_Assassin_Map_A_01": {
-        "name": "Yiga Clan Hideout",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -33487,7 +33487,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_A_05": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -33858,7 +33858,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_A_10": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -33884,7 +33884,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_A_12": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34205,7 +34205,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_A_15": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34216,7 +34216,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_A_16": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34227,7 +34227,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_A_16_Far": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34238,7 +34238,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_A_17": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34249,7 +34249,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_A_17_Far": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34260,7 +34260,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_A_18": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34271,7 +34271,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_A_20": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34282,7 +34282,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_A_20_Far": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34293,7 +34293,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_A_23": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34304,7 +34304,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_A_24": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34315,7 +34315,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_A_25": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34326,7 +34326,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_B_15": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34337,7 +34337,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_B_16": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34348,7 +34348,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_B_16_Far": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34359,7 +34359,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_B_17": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34370,7 +34370,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_B_17_Far": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34381,7 +34381,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_B_24": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34392,7 +34392,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_C_16": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34403,7 +34403,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_C_16_Far": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34414,7 +34414,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_C_17": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34425,7 +34425,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_C_17_Far": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34436,7 +34436,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_D_16": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34447,7 +34447,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_D_17": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34458,7 +34458,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_D_17_Far": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34469,7 +34469,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_E_16": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34480,7 +34480,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_E_16_Far": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34491,7 +34491,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_E_17": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34502,7 +34502,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_E_17_Far": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34513,7 +34513,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_F_16": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34524,7 +34524,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_F_17": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34535,7 +34535,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_F_17_Far": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34546,7 +34546,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_G_17": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -34557,7 +34557,7 @@
         ]
     },
     "FldObj_DeathMtArtifactGoronTruck_G_17_Far": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -51112,7 +51112,7 @@
         ]
     },
     "FldObj_EnemyBaseWoodParts_BarrierFence_02": {
-        "name": "Canteen",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -52808,7 +52808,7 @@
         ]
     },
     "FldObj_GerudoDesertRock_A_08": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -52829,7 +52829,7 @@
         ]
     },
     "FldObj_GerudoDesertRock_A_13": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -52845,7 +52845,7 @@
         ]
     },
     "FldObj_GerudoDesertRock_A_30": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -52876,7 +52876,7 @@
         ]
     },
     "FldObj_GerudoDesertRock_A_31": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53067,7 +53067,7 @@
         ]
     },
     "FldObj_GerudoDesertRock_A_32": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53108,7 +53108,7 @@
         ]
     },
     "FldObj_GerudoStonepit_A_01": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53144,7 +53144,7 @@
         ]
     },
     "FldObj_GerudoStonepit_A_01_Far": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53180,7 +53180,7 @@
         ]
     },
     "FldObj_GerudoStonepit_A_02": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53241,7 +53241,7 @@
         ]
     },
     "FldObj_GerudoStonepit_A_02_Far": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53302,7 +53302,7 @@
         ]
     },
     "FldObj_GerudoStonepit_A_03": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53423,7 +53423,7 @@
         ]
     },
     "FldObj_GerudoStonepit_A_04": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53439,7 +53439,7 @@
         ]
     },
     "FldObj_GerudoStonepit_A_05": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53530,7 +53530,7 @@
         ]
     },
     "FldObj_GerudoStonepit_A_06": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53541,7 +53541,7 @@
         ]
     },
     "FldObj_GerudoStonepit_A_06_Far": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53552,7 +53552,7 @@
         ]
     },
     "FldObj_GerudoUnderGroundStoneStatue_A_01": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53563,7 +53563,7 @@
         ]
     },
     "FldObj_GerudoUnderGroundStoneStatue_A_02": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53659,7 +53659,7 @@
         ]
     },
     "FldObj_GerudoUnderGroundStoneStatue_A_03": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53675,7 +53675,7 @@
         ]
     },
     "FldObj_GerudoWaterFlow_A_01": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53686,7 +53686,7 @@
         ]
     },
     "FldObj_Gerudo_ZombieNestParts_A_01": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53717,7 +53717,7 @@
         ]
     },
     "FldObj_Gerudo_ZombieNestParts_A_01_Far": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53748,7 +53748,7 @@
         ]
     },
     "FldObj_Gerudo_ZombieNestParts_A_05": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53764,7 +53764,7 @@
         ]
     },
     "FldObj_Gerudo_ZombieNestParts_A_06": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53780,7 +53780,7 @@
         ]
     },
     "FldObj_Gerudo_ZombieNestParts_A_07": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53796,7 +53796,7 @@
         ]
     },
     "FldObj_Gerudo_ZombieNestParts_A_07_Far": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -53812,7 +53812,7 @@
         ]
     },
     "FldObj_Gerudo_ZombieNest_A_01": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -56376,7 +56376,7 @@
         ]
     },
     "FldObj_Rito_Baggage_A_01": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -56402,7 +56402,7 @@
         ]
     },
     "FldObj_Rito_CampBonfire_A_02": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -56413,7 +56413,7 @@
         ]
     },
     "FldObj_Rito_IceBase_A_01": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -56444,7 +56444,7 @@
         ]
     },
     "FldObj_Rito_IceBase_A_02": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -56485,7 +56485,7 @@
         ]
     },
     "FldObj_Rito_IceBase_A_03": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -56511,7 +56511,7 @@
         ]
     },
     "FldObj_Rito_IceBase_A_04": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -56557,7 +56557,7 @@
         ]
     },
     "FldObj_Rito_IceBase_A_05": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -56683,7 +56683,7 @@
         ]
     },
     "FldObj_Rito_IceBase_A_06": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -56829,7 +56829,7 @@
         ]
     },
     "FldObj_Rito_IceWall_A_01": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -56955,7 +56955,7 @@
         ]
     },
     "FldObj_Rito_IceWall_A_03": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -57026,7 +57026,7 @@
         ]
     },
     "FldObj_Rito_IceWall_A_03_Far": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -69270,7 +69270,7 @@
         ]
     },
     "GoronReturntoNature_PhotographTarget": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -75262,7 +75262,7 @@
         ]
     },
     "KibakoGerudo_Contain_01": {
-        "name": "Gerudo Town",
+        "name": "Wooden Box",
         "icons": [],
         "locations": [
             {
@@ -75303,7 +75303,7 @@
         ]
     },
     "KibakoJungle_Contain_01": {
-        "name": "",
+        "name": "Wooden Box",
         "icons": [],
         "locations": [
             {
@@ -75324,7 +75324,7 @@
         ]
     },
     "KibakoSeaside_Contain_01": {
-        "name": "",
+        "name": "Wooden Box",
         "icons": [],
         "locations": [
             {
@@ -75340,7 +75340,7 @@
         ]
     },
     "KibakoSnowMountain_Contain_01": {
-        "name": "",
+        "name": "Wooden Box",
         "icons": [],
         "locations": [
             {
@@ -75356,7 +75356,7 @@
         ]
     },
     "KibakoVolcano_Contain_01": {
-        "name": "",
+        "name": "Wooden Box",
         "icons": [],
         "locations": [
             {
@@ -75382,7 +75382,7 @@
         ]
     },
     "Kibako_Contain_01": {
-        "name": "",
+        "name": "Wooden Box",
         "icons": [],
         "locations": [
             {
@@ -97388,7 +97388,7 @@
         ]
     },
     "Npc_Goron_Yunbo_Sage_Puppet": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -97741,7 +97741,7 @@
         ]
     },
     "Obj_BarrelOld_A_01": {
-        "name": "Canteen",
+        "name": "Wooden Barrel",
         "icons": [],
         "locations": [
             {
@@ -98142,7 +98142,7 @@
         ]
     },
     "Obj_BreakBoxIron": {
-        "name": "",
+        "name": "Metal Box",
         "icons": [],
         "locations": [
             {
@@ -98295,7 +98295,7 @@
         ]
     },
     "Obj_DiaryAssassin_A_03": {
-        "name": "Yiga Clan Hideout",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -98306,7 +98306,7 @@
         ]
     },
     "Obj_DiaryAssassin_A_05": {
-        "name": "Yiga Clan Hideout",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -98424,7 +98424,7 @@
         ]
     },
     "Obj_GoronTruckStopBar_A_01": {
-        "name": "Canteen",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -98435,7 +98435,7 @@
         ]
     },
     "Obj_GoronTruckStopBar_A_02": {
-        "name": "Canteen",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -98700,7 +98700,7 @@
         ]
     },
     "Obj_LiftRockGerudo_A_01": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -107677,7 +107677,7 @@
         ]
     },
     "Obj_MineralBury_A_01": {
-        "name": "YunoboCo HQ",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -108383,7 +108383,7 @@
         ]
     },
     "Obj_MineralGrain_A_03": {
-        "name": "YunoboCo HQ",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -112679,7 +112679,7 @@
         ]
     },
     "Obj_MineralGrain_A_04": {
-        "name": "YunoboCo HQ",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -112700,7 +112700,7 @@
         ]
     },
     "Obj_MineralGrain_A_05": {
-        "name": "YunoboCo HQ",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -122869,7 +122869,7 @@
         ]
     },
     "PyramidObj_GerudoUndergroundStatue_A_02_LightSwitch": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -123106,7 +123106,7 @@
         ]
     },
     "SkyObj_Rito_ThinFilmBoard_A_02": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -123117,7 +123117,7 @@
         ]
     },
     "SkyObj_Rito_ThinFilmBoard_A_03": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -123133,7 +123133,7 @@
         ]
     },
     "SkyObj_Rito_ThinFilmBoard_A_06": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -123149,7 +123149,7 @@
         ]
     },
     "SkyObj_Rito_ThinFilmBoard_A_07": {
-        "name": "Rito Village",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -126589,7 +126589,7 @@
         ]
     },
     "TBox_Field_Wood : BombFruit": {
-        "name": "WoodenTreasure Chest : Bomb Flower",
+        "name": "Wooden Treasure Chest : Bomb Flower",
         "icons": [
             "TBox_Field_Iron_Icon",
             "BombFruit"
@@ -126603,7 +126603,7 @@
         ]
     },
     "TBox_Field_Wood : Item_Ore_B": {
-        "name": "WoodenTreasure Chest : Ruby",
+        "name": "Wooden Treasure Chest : Ruby",
         "icons": [
             "TBox_Field_Iron_Icon",
             "Item_Ore_B"
@@ -126617,7 +126617,7 @@
         ]
     },
     "TBox_Field_Wood : Item_Ore_C": {
-        "name": "WoodenTreasure Chest : Sapphire",
+        "name": "Wooden Treasure Chest : Sapphire",
         "icons": [
             "TBox_Field_Iron_Icon",
             "Item_Ore_C"
@@ -126636,7 +126636,7 @@
         ]
     },
     "TBox_Field_Wood : Item_Ore_D": {
-        "name": "WoodenTreasure Chest : Topaz",
+        "name": "Wooden Treasure Chest : Topaz",
         "icons": [
             "TBox_Field_Iron_Icon",
             "Item_Ore_D"
@@ -126660,7 +126660,7 @@
         ]
     },
     "TBox_Field_Wood : Obj_ArrowBundle_A_01": {
-        "name": "WoodenTreasure Chest : Arrow x 5",
+        "name": "Wooden Treasure Chest : Arrow x 5",
         "icons": [
             "TBox_Field_Iron_Icon",
             "Obj_ArrowBundle_A_01"
@@ -126699,7 +126699,7 @@
         ]
     },
     "TBox_Field_Wood : Obj_ArrowBundle_A_02": {
-        "name": "WoodenTreasure Chest : Arrow x 10",
+        "name": "Wooden Treasure Chest : Arrow x 10",
         "icons": [
             "TBox_Field_Iron_Icon",
             "Obj_ArrowBundle_A_02"
@@ -126713,7 +126713,7 @@
         ]
     },
     "TBox_Field_Wood : PutRupee_Purple": {
-        "name": "WoodenTreasure Chest : Purple Rupee",
+        "name": "Wooden Treasure Chest : Purple Rupee",
         "icons": [
             "TBox_Field_Iron_Icon",
             "PutRupee_Purple"
@@ -126732,7 +126732,7 @@
         ]
     },
     "TBox_Field_Wood : Weapon_Bow_015": {
-        "name": "WoodenTreasure Chest : Gerudo Bow",
+        "name": "Wooden Treasure Chest : Gerudo Bow",
         "icons": [
             "TBox_Field_Iron_Icon",
             "Weapon_Bow_015"
@@ -126746,7 +126746,7 @@
         ]
     },
     "TBox_Field_Wood : Weapon_Bow_036": {
-        "name": "WoodenTreasure Chest : Royal Bow",
+        "name": "Wooden Treasure Chest : Royal Bow",
         "icons": [
             "TBox_Field_Iron_Icon",
             "Weapon_Bow_036"
@@ -126760,7 +126760,7 @@
         ]
     },
     "TBox_Field_Wood : Weapon_Lsword_113": {
-        "name": "WoodenTreasure Chest : Knight's Claymore",
+        "name": "Wooden Treasure Chest : Knight's Claymore",
         "icons": [
             "TBox_Field_Iron_Icon",
             "Weapon_Lsword_113"
@@ -126774,7 +126774,7 @@
         ]
     },
     "TBox_Field_Wood : Weapon_Lsword_127": {
-        "name": "WoodenTreasure Chest : Zora Longsword",
+        "name": "Wooden Treasure Chest : Zora Longsword",
         "icons": [
             "TBox_Field_Iron_Icon",
             "Weapon_Lsword_127"
@@ -126788,7 +126788,7 @@
         ]
     },
     "TBox_Field_Wood : Weapon_Shield_002": {
-        "name": "WoodenTreasure Chest : Soldiers Shield",
+        "name": "Wooden Treasure Chest : Soldiers Shield",
         "icons": [
             "TBox_Field_Iron_Icon",
             "Weapon_Shield_002"
@@ -126802,7 +126802,7 @@
         ]
     },
     "TBox_Field_Wood : Weapon_Shield_022": {
-        "name": "WoodenTreasure Chest : Royal Shield",
+        "name": "Wooden Treasure Chest : Royal Shield",
         "icons": [
             "TBox_Field_Iron_Icon",
             "Weapon_Shield_022"
@@ -126816,7 +126816,7 @@
         ]
     },
     "TBox_Field_Wood : Weapon_Shield_025": {
-        "name": "WoodenTreasure Chest : Zora Shield",
+        "name": "Wooden Treasure Chest : Zora Shield",
         "icons": [
             "TBox_Field_Iron_Icon",
             "Weapon_Shield_025"
@@ -126830,7 +126830,7 @@
         ]
     },
     "TBox_Field_Wood : Weapon_Shield_041": {
-        "name": "WoodenTreasure Chest : Shield of the Mind's Eye",
+        "name": "Wooden Treasure Chest : Shield of the Mind's Eye",
         "icons": [
             "TBox_Field_Iron_Icon",
             "Weapon_Shield_041"
@@ -126844,7 +126844,7 @@
         ]
     },
     "TBox_Field_Wood : Weapon_Sword_113": {
-        "name": "WoodenTreasure Chest : Knight's Broadsword",
+        "name": "Wooden Treasure Chest : Knight's Broadsword",
         "icons": [
             "TBox_Field_Iron_Icon",
             "Weapon_Sword_113"
@@ -126868,7 +126868,7 @@
         ]
     },
     "TBox_Field_Wood : Weapon_Sword_124": {
-        "name": "WoodenTreasure Chest : Royal Broadsword",
+        "name": "Wooden Treasure Chest : Royal Broadsword",
         "icons": [
             "TBox_Field_Iron_Icon",
             "Weapon_Sword_124"
@@ -126882,7 +126882,7 @@
         ]
     },
     "TBox_Field_Wood : Weapon_Sword_127": {
-        "name": "WoodenTreasure Chest : Zora Sword",
+        "name": "Wooden Treasure Chest : Zora Sword",
         "icons": [
             "TBox_Field_Iron_Icon",
             "Weapon_Sword_127"
@@ -126896,7 +126896,7 @@
         ]
     },
     "TBox_Field_Wood : Weapon_Sword_129": {
-        "name": "WoodenTreasure Chest : Gerudo Scimitar",
+        "name": "Wooden Treasure Chest : Gerudo Scimitar",
         "icons": [
             "TBox_Field_Iron_Icon",
             "Weapon_Sword_129"
@@ -126910,7 +126910,7 @@
         ]
     },
     "TBox_Field_Wood_Zonau : Item_Ore_E": {
-        "name": "WoodenTreasure Chest : Opal",
+        "name": "Wooden Treasure Chest : Opal",
         "icons": [
             "TBox_Field_Iron_Icon",
             "Item_Ore_E"
@@ -127157,7 +127157,7 @@
         ]
     },
     "TwnObj_AssassinAkkare_Door_A_01": {
-        "name": "Yiga Clan Hideout",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127189,7 +127189,7 @@
         ]
     },
     "TwnObj_City_GoronBox_B_01": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127210,7 +127210,7 @@
         ]
     },
     "TwnObj_City_GoronBox_B_02": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127221,7 +127221,7 @@
         ]
     },
     "TwnObj_City_GoronBox_B_03": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127232,7 +127232,7 @@
         ]
     },
     "TwnObj_City_GoronHelmet_A_02": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127243,7 +127243,7 @@
         ]
     },
     "TwnObj_City_GoronLight_B_01": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127299,7 +127299,7 @@
         ]
     },
     "TwnObj_City_GoronPickaxe_A_01": {
-        "name": "Goron City",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127315,7 +127315,7 @@
         ]
     },
     "TwnObj_GerudoEntranceStairs_A_01": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127326,7 +127326,7 @@
         ]
     },
     "TwnObj_GerudoEntranceStairs_A_01_Far": {
-        "name": "Gerudo Town",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127337,7 +127337,7 @@
         ]
     },
     "TwnObj_HyruleCastleInside_EscapePassageArmorRoomPedestal_A_01": {
-        "name": "Hyrule Castle",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127348,7 +127348,7 @@
         ]
     },
     "TwnObj_HyruleCastleInside_EscapePassageArmorRoom_A_01": {
-        "name": "Hyrule Castle",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127364,7 +127364,7 @@
         ]
     },
     "TwnObj_HyruleCastleInside_EscapePassageArmorRoom_A_01_Far": {
-        "name": "Hyrule Castle",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127380,7 +127380,7 @@
         ]
     },
     "TwnObj_HyruleCastleInside_EscapePassageArmorRoom_A_02": {
-        "name": "Hyrule Castle",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127396,7 +127396,7 @@
         ]
     },
     "TwnObj_HyruleCastleInside_EscapePassageArmorRoom_A_02_Far": {
-        "name": "Hyrule Castle",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127412,7 +127412,7 @@
         ]
     },
     "TwnObj_HyruleCastleInside_EscapePassageArmorRoom_A_03": {
-        "name": "Hyrule Castle",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127428,7 +127428,7 @@
         ]
     },
     "TwnObj_HyruleCastleInside_EscapePassageArmorRoom_A_04": {
-        "name": "Hyrule Castle",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127439,7 +127439,7 @@
         ]
     },
     "TwnObj_HyruleCastleInside_EscapePassageArmorRoom_A_04_Far": {
-        "name": "Hyrule Castle",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127450,7 +127450,7 @@
         ]
     },
     "TwnObj_HyruleCastleObject_CitadelShatter_A_02": {
-        "name": "Hyrule Castle",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127461,7 +127461,7 @@
         ]
     },
     "TwnObj_HyruleCastleObject_StoneStatue_A_01": {
-        "name": "Hyrule Castle",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127507,7 +127507,7 @@
         ]
     },
     "TwnObj_HyruleCastleObject_StoneStatue_B_01": {
-        "name": "Hyrule Castle",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127518,7 +127518,7 @@
         ]
     },
     "TwnObj_HyruleCastleObject_TableSet_B_01": {
-        "name": "Hyrule Castle",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127529,7 +127529,7 @@
         ]
     },
     "TwnObj_HyruleCastleObject_Wallcrack_After_A_01": {
-        "name": "Hyrule Castle",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127540,7 +127540,7 @@
         ]
     },
     "TwnObj_HyruleCastleObject_Wallcrack_Before_A_01": {
-        "name": "Hyrule Castle",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127551,7 +127551,7 @@
         ]
     },
     "TwnObj_HyruleCastleObject_WeaponStand_B_01": {
-        "name": "Hyrule Castle",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -127614,7 +127614,7 @@
         ]
     },
     "TwnObj_SmallOasisChair_A_01": {
-        "name": "Kara Kara Bazaar",
+        "name": "",
         "icons": [],
         "locations": [
             {
