@@ -412,7 +412,7 @@
         "count": 312
     },
     "Animal_Insect_EP": {
-        "name": "Sunset Firefly",
+        "name": "",
         "count": 96
     },
     "Animal_Insect_F": {
@@ -9288,15 +9288,15 @@
         "count": 137
     },
     "Enemy_Chuchu_Electric_Middle": {
-        "name": "",
+        "name": "Electric Chuchu",
         "count": 26
     },
     "Enemy_Chuchu_Electric_Middle_Army": {
-        "name": "",
+        "name": "Electric Chuchu Army",
         "count": 1
     },
     "Enemy_Chuchu_Electric_Senior": {
-        "name": "",
+        "name": "Electric Chuchu",
         "count": 2
     },
     "Enemy_Chuchu_Fire_Junior": {
@@ -9304,15 +9304,15 @@
         "count": 33
     },
     "Enemy_Chuchu_Fire_Middle": {
-        "name": "",
+        "name": "Fire Chuchu",
         "count": 33
     },
     "Enemy_Chuchu_Fire_Middle_Army": {
-        "name": "",
+        "name": "Fire Chuchu Army",
         "count": 1
     },
     "Enemy_Chuchu_Fire_Senior": {
-        "name": "",
+        "name": "Fire Chuchu",
         "count": 3
     },
     "Enemy_Chuchu_Ice_Junior": {
@@ -9320,15 +9320,15 @@
         "count": 98
     },
     "Enemy_Chuchu_Ice_Middle": {
-        "name": "",
+        "name": "Ice Chuchu",
         "count": 14
     },
     "Enemy_Chuchu_Ice_Middle_Army": {
-        "name": "",
+        "name": "Ice Chuchu Army",
         "count": 1
     },
     "Enemy_Chuchu_Ice_Senior": {
-        "name": "",
+        "name": "Ice Chuchu",
         "count": 1
     },
     "Enemy_Chuchu_Junior": {
@@ -9336,11 +9336,11 @@
         "count": 80
     },
     "Enemy_Chuchu_Middle": {
-        "name": "",
+        "name": "Chuchu",
         "count": 36
     },
     "Enemy_Chuchu_Senior": {
-        "name": "",
+        "name": "Chuchu",
         "count": 3
     },
     "Enemy_Drake_Electric": {
@@ -18812,27 +18812,27 @@
         "count": 115
     },
     "FldObj_MockUp_Item_Enemy_117": {
-        "name": "Fire Keese Eyeball",
+        "name": "Koltin - Fire Keese Eyeball",
         "count": 56
     },
     "FldObj_MockUp_Item_Enemy_155": {
-        "name": "Red Chuchu Jelly",
+        "name": "Koltin - Gleeok Thunder Horn",
         "count": 21
     },
     "FldObj_MockUp_Item_Enemy_156": {
-        "name": "Red Chuchu Jelly",
+        "name": "Koltin - Gleeok Wing",
         "count": 14
     },
     "FldObj_MockUp_Item_Enemy_215": {
-        "name": "Octorok Eyeball",
+        "name": "Koltin - Lynel Mace Horn",
         "count": 7
     },
     "FldObj_MockUp_Item_Enemy_32": {
-        "name": "Hinox Toenail",
+        "name": "Koltin - Hinox Toenail",
         "count": 21
     },
     "FldObj_MockUp_Item_Enemy_42": {
-        "name": "Ice-Breath Lizalfos Tail",
+        "name": "Koltin - Ice-Breath Lizalfos Tail",
         "count": 35
     },
     "FldObj_MountainFutagoLumpRock_A_01": {
@@ -24564,7 +24564,7 @@
         "count": 1
     },
     "GameRomHorse21": {
-        "name": "Horse",
+        "name": "Carriage Horse",
         "count": 5
     },
     "GameRomHorseBone": {
@@ -24576,11 +24576,11 @@
         "count": 1
     },
     "GameRomHorseNushi": {
-        "name": "Horse",
+        "name": "Satori - Lord of the Mountain - Cherry Blossom - Cave Offering",
         "count": 8
     },
     "GameRomHorseSpPattern": {
-        "name": "Horse",
+        "name": "Spotted Horse - Spotting Spot",
         "count": 1
     },
     "GameRomHorseZelda": {
@@ -25984,7 +25984,7 @@
         "count": 100
     },
     "KorokCarry_Destination_Backpack": {
-        "name": "Korok",
+        "name": "Korok Seed 2x",
         "count": 100
     },
     "KorokRayShaft": {
@@ -32791,84 +32791,84 @@
         "name": "",
         "count": 2
     },
-    "Mannequin_001_Head": {
-        "name": "",
+    "Mannequin_001_Head : Armor_001_Head": {
+        "name": "Hylian Hood",
         "count": 2
     },
-    "Mannequin_001_Lower": {
-        "name": "",
+    "Mannequin_001_Lower : Armor_001_Lower": {
+        "name": "Hylian Trousers",
         "count": 2
     },
-    "Mannequin_001_Upper": {
-        "name": "",
+    "Mannequin_001_Upper : Armor_001_Upper": {
+        "name": "Hylian Tunic",
         "count": 2
     },
-    "Mannequin_003_Head": {
-        "name": "",
+    "Mannequin_003_Head : Armor_012_Head": {
+        "name": "Stealth Mask",
         "count": 1
     },
-    "Mannequin_003_Lower": {
-        "name": "",
+    "Mannequin_003_Lower : Armor_012_Lower": {
+        "name": "Stealth Tights",
         "count": 1
     },
-    "Mannequin_003_Upper": {
-        "name": "",
+    "Mannequin_003_Upper : Armor_012_Upper": {
+        "name": "Stealth Chest Guard",
         "count": 2
     },
-    "Mannequin_004_Head": {
-        "name": "",
+    "Mannequin_004_Head : Armor_009_Head": {
+        "name": "Snowquill Headdress",
         "count": 1
     },
-    "Mannequin_004_Lower": {
-        "name": "",
+    "Mannequin_004_Lower : Armor_009_Lower": {
+        "name": "Snowquill Trousers",
         "count": 1
     },
-    "Mannequin_004_Upper": {
-        "name": "",
+    "Mannequin_004_Upper : Armor_009_Upper": {
+        "name": "Snowquill Tunic",
         "count": 2
     },
-    "Mannequin_005_Head": {
-        "name": "",
+    "Mannequin_005_Head : Armor_011_Head": {
+        "name": "Flamebreaker Helm",
         "count": 1
     },
-    "Mannequin_005_Lower": {
-        "name": "",
+    "Mannequin_005_Lower : Armor_011_Lower": {
+        "name": "Flamebreaker Boots",
         "count": 1
     },
-    "Mannequin_005_Upper": {
-        "name": "",
+    "Mannequin_005_Upper : Armor_011_Upper": {
+        "name": "Flamebreaker Armor",
         "count": 3
     },
-    "Mannequin_006_Head": {
-        "name": "",
+    "Mannequin_006_Head : Armor_008_Head": {
+        "name": "Desert Voe Headband",
         "count": 1
     },
-    "Mannequin_006_Lower": {
-        "name": "",
+    "Mannequin_006_Lower : Armor_008_Lower": {
+        "name": "Desert Voe Trousers",
         "count": 1
     },
-    "Mannequin_006_Upper": {
-        "name": "",
+    "Mannequin_006_Upper : Armor_008_Upper": {
+        "name": "Desert Voe Spaulder",
         "count": 1
     },
-    "Mannequin_008_Head": {
-        "name": "",
+    "Mannequin_008_Head : Armor_017_Head": {
+        "name": "Radiant Mask",
         "count": 1
     },
-    "Mannequin_008_Lower": {
-        "name": "",
+    "Mannequin_008_Lower : Armor_017_Lower": {
+        "name": "Radiant Tights",
         "count": 1
     },
-    "Mannequin_008_Upper": {
-        "name": "",
+    "Mannequin_008_Upper : Armor_017_Upper": {
+        "name": "Radiant Shirt",
         "count": 2
     },
-    "Mannequin_012_Upper": {
-        "name": "",
+    "Mannequin_012_Upper : Armor_179_Upper": {
+        "name": "Royal Guard Uniform",
         "count": 1
     },
-    "Mannequin_014_Head": {
-        "name": "",
+    "Mannequin_014_Head : Armor_1076_Head": {
+        "name": "Cece Hat",
         "count": 1
     },
     "Mannequin_014_Head_OnDisplay": {
@@ -32899,12 +32899,12 @@
         "name": "",
         "count": 14
     },
-    "Mannequin_025_Lower": {
-        "name": "",
+    "Mannequin_025_Lower : Armor_049_Lower": {
+        "name": "Sand Boots",
         "count": 1
     },
-    "Mannequin_026_Lower": {
-        "name": "",
+    "Mannequin_026_Lower : Armor_141_Lower": {
+        "name": "Snow Boots",
         "count": 1
     },
     "Mannequin_029_Head": {
@@ -35740,11 +35740,11 @@
         "count": 1
     },
     "Npc_HiddenKorokFly": {
-        "name": "",
+        "name": "Korok Seed",
         "count": 463
     },
     "Npc_HiddenKorokGround": {
-        "name": "Korok",
+        "name": "Korok Seed",
         "count": 337
     },
     "Npc_HighMountain003": {
@@ -38431,28 +38431,28 @@
         "name": "Ralera's Letter",
         "count": 1
     },
-    "Obj_Head_024": {
-        "name": "",
+    "Obj_Head_024 : Armor_024_Head": {
+        "name": "Diamond Circlet",
         "count": 1
     },
-    "Obj_Head_025": {
-        "name": "",
+    "Obj_Head_025 : Armor_025_Head": {
+        "name": "Ruby Circlet",
         "count": 2
     },
-    "Obj_Head_026": {
-        "name": "",
+    "Obj_Head_026 : Armor_026_Head": {
+        "name": "Sapphire Circlet",
         "count": 2
     },
-    "Obj_Head_027": {
-        "name": "",
+    "Obj_Head_027 : Armor_027_Head": {
+        "name": "Topaz Earrings",
         "count": 1
     },
-    "Obj_Head_028": {
-        "name": "",
+    "Obj_Head_028 : Armor_028_Head": {
+        "name": "Opal Earrings",
         "count": 1
     },
-    "Obj_Head_029": {
-        "name": "",
+    "Obj_Head_029 : Armor_029_Head": {
+        "name": "Amber Earrings",
         "count": 2
     },
     "Obj_HeartUtuwa_A_01": {
@@ -38656,7 +38656,7 @@
         "count": 2
     },
     "Obj_Mineral_B_02 : Drop__DropTable_Ichigeki": {
-        "name": "",
+        "name": "Rare Ore Deposit : One-Hit",
         "count": 1
     },
     "Obj_Mineral_C_01": {
@@ -44912,55 +44912,55 @@
         "count": 1
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_01": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - Tunic of the Hero",
         "count": 1
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_02": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - Trousers of the Hero",
         "count": 1
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_04": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - Tunic of Time",
         "count": 1
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_05": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - Trousers of Time",
         "count": 1
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_13": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - Tunic of the Sky",
         "count": 1
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_15": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - Cap of the Wild",
         "count": 1
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_16": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - Tunic of the Wild",
         "count": 1
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_19": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - ???",
         "count": 1
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_21": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - Midna's Helmet",
         "count": 1
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_22": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - Ravio's Hood",
         "count": 1
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_23": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - ???",
         "count": 1
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_25": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - ???",
         "count": 1
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_27": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - Sea-Breeze Shield",
         "count": 1
     },
     "TBox_Field_Iron_Zonau : SpObj_Beamos_Capsule_A_01_Bundle_A": {
@@ -45100,31 +45100,31 @@
         "count": 1
     },
     "TBox_Field_Iron_Zonau_Zonau_BlockMaster : Obj_SageWill": {
-        "name": "Treasure Chest : Sage's Will",
+        "name": "Flux Construct Treasure Chest : Sage's Will",
         "count": 5
     },
     "TBox_Field_Iron_Zonau_Zonau_BlockMaster : Obj_TreasureMap_00": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Flux Construct Treasure Chest : Old Map - Cap of the Hero",
         "count": 1
     },
     "TBox_Field_Iron_Zonau_Zonau_BlockMaster : Obj_TreasureMap_09": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Flux Construct Treasure Chest : Old Map - Cap of Twilight",
         "count": 1
     },
     "TBox_Field_Iron_Zonau_Zonau_BlockMaster : Obj_TreasureMap_10": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Flux Construct Treasure Chest : Old Map - Tunic of Twilight",
         "count": 1
     },
     "TBox_Field_Iron_Zonau_Zonau_BlockMaster : Obj_TreasureMap_12": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Flux Construct Treasure Chest : Old Map - Cap of the Sky",
         "count": 1
     },
     "TBox_Field_Iron_Zonau_Zonau_BlockMaster : Obj_TreasureMap_28": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Flux Construct Treasure Chest : Old Map - Miner's Mask",
         "count": 1
     },
     "TBox_Field_Iron_Zonau_Zonau_BlockMaster : Obj_TreasureMap_30": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Flux Construct Treasure Chest : Old Map - Miner's Trousers",
         "count": 1
     },
     "TBox_Field_Stone : Armor_006_Head": {
@@ -45736,51 +45736,51 @@
         "count": 11
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_03": {
-        "name": "Stone Treasure Chest : Old Map",
+        "name": "Stone Treasure Chest : Old Map - Cap of Time",
         "count": 1
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_06": {
-        "name": "Stone Treasure Chest : Old Map",
+        "name": "Stone Treasure Chest : Old Map - Cap of the Wind",
         "count": 1
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_07": {
-        "name": "Stone Treasure Chest : Old Map",
+        "name": "Stone Treasure Chest : Old Map - Tunic of the Wind",
         "count": 1
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_08": {
-        "name": "Stone Treasure Chest : Old Map",
+        "name": "Stone Treasure Chest : Old Map - Trousers of the Wind",
         "count": 1
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_11": {
-        "name": "Stone Treasure Chest : Old Map",
+        "name": "Stone Treasure Chest : Old Map - Trousers of Twilight",
         "count": 1
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_14": {
-        "name": "Stone Treasure Chest : Old Map",
+        "name": "Stone Treasure Chest : Old Map - Trousers of the Sky",
         "count": 1
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_17": {
-        "name": "Stone Treasure Chest : Old Map",
+        "name": "Stone Treasure Chest : Old Map - Trousers of the Wild",
         "count": 1
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_18": {
-        "name": "Stone Treasure Chest : Old Map",
+        "name": "Stone Treasure Chest : Old Map - ???",
         "count": 1
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_20": {
-        "name": "Stone Treasure Chest : Old Map",
+        "name": "Stone Treasure Chest : Old Map - ???",
         "count": 1
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_24": {
-        "name": "Stone Treasure Chest : Old Map",
+        "name": "Stone Treasure Chest : Old Map - Sword of the Hero",
         "count": 1
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_26": {
-        "name": "Stone Treasure Chest : Old Map",
+        "name": "Stone Treasure Chest : Old Map - Sea-Breeze Boomerang",
         "count": 1
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_29": {
-        "name": "Stone Treasure Chest : Old Map",
+        "name": "Stone Treasure Chest : Old Map - Miner's Top",
         "count": 1
     },
     "TBox_Field_Stone_Zonau : SpObj_Cannon_Capsule_A_01_Bundle_A": {
@@ -53868,7 +53868,7 @@
         "count": 29
     },
     "Weapon_Sword_071_Broken": {
-        "name": "",
+        "name": "Decayed Master Sword",
         "count": 1
     },
     "Weapon_Sword_101": {
@@ -54128,39 +54128,39 @@
         "count": 1
     },
     "WildHorseCreateTag": {
-        "name": "",
+        "name": "Horse Generator",
         "count": 11
     },
     "WildHorseCreateTag01": {
-        "name": "",
+        "name": "Horse Generator",
         "count": 15
     },
     "WildHorseCreateTag02": {
-        "name": "",
+        "name": "Horse Generator",
         "count": 14
     },
     "WildHorseCreateTag03": {
-        "name": "",
+        "name": "Horse Generator",
         "count": 2
     },
     "WildHorseCreateTag05": {
-        "name": "",
+        "name": "Horse Generator",
         "count": 2
     },
     "WildHorseCreateTag06": {
-        "name": "",
+        "name": "Horse Generator",
         "count": 1
     },
     "WildHorseCreateTag08": {
-        "name": "",
+        "name": "Horse Generator",
         "count": 2
     },
     "WildHorseCreateTag09": {
-        "name": "",
+        "name": "Horse Generator",
         "count": 3
     },
     "WildHorseCreateTagBone": {
-        "name": "",
+        "name": "Stalhorse Generator",
         "count": 27
     },
     "WindGenerator": {

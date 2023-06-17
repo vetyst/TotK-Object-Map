@@ -27482,7 +27482,7 @@
         ]
     },
     "Enemy_Chuchu_Electric_Middle": {
-        "name": "",
+        "name": "Electric Chuchu",
         "icons": [],
         "locations": [
             {
@@ -27521,7 +27521,7 @@
         ]
     },
     "Enemy_Chuchu_Fire_Middle": {
-        "name": "",
+        "name": "Fire Chuchu",
         "icons": [],
         "locations": [
             {
@@ -27545,7 +27545,7 @@
         ]
     },
     "Enemy_Chuchu_Ice_Senior": {
-        "name": "",
+        "name": "Ice Chuchu",
         "icons": [],
         "locations": [
             {
@@ -27619,7 +27619,7 @@
         ]
     },
     "Enemy_Chuchu_Middle": {
-        "name": "",
+        "name": "Chuchu",
         "icons": [],
         "locations": [
             {

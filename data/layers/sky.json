@@ -2322,7 +2322,7 @@
         ]
     },
     "Animal_Insect_EP": {
-        "name": "Sunset Firefly",
+        "name": "",
         "icons": [],
         "locations": [
             {
@@ -17124,7 +17124,7 @@
         ]
     },
     "Enemy_Chuchu_Electric_Middle": {
-        "name": "",
+        "name": "Electric Chuchu",
         "icons": [],
         "locations": [
             {
@@ -17256,7 +17256,7 @@
         ]
     },
     "Enemy_Chuchu_Middle": {
-        "name": "",
+        "name": "Chuchu",
         "icons": [],
         "locations": [
             {
@@ -37973,8 +37973,10 @@
         ]
     },
     "KorokCarry_Destination_Backpack": {
-        "name": "Korok",
-        "icons": [],
+        "name": "Korok Seed 2x",
+        "icons": [
+            "Obj_KorokNuts"
+        ],
         "locations": [
             {
                 "x": -1240.404,
@@ -43438,8 +43440,10 @@
         ]
     },
     "Npc_HiddenKorokFly": {
-        "name": "",
-        "icons": [],
+        "name": "Korok Seed",
+        "icons": [
+            "Obj_KorokNuts"
+        ],
         "locations": [
             {
                 "x": -3404.348,
@@ -43634,8 +43638,10 @@
         ]
     },
     "Npc_HiddenKorokGround": {
-        "name": "Korok",
-        "icons": [],
+        "name": "Korok Seed",
+        "icons": [
+            "Obj_KorokNuts"
+        ],
         "locations": [
             {
                 "x": -3184.776,
@@ -105759,9 +105765,10 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_01": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - Tunic of the Hero",
         "icons": [
-            "TBox_Field_Iron_Icon"
+            "TBox_Field_Iron_Icon",
+            "Obj_TreasureMap_00"
         ],
         "locations": [
             {
@@ -105772,9 +105779,10 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_02": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - Trousers of the Hero",
         "icons": [
-            "TBox_Field_Iron_Icon"
+            "TBox_Field_Iron_Icon",
+            "Obj_TreasureMap_00"
         ],
         "locations": [
             {
@@ -105785,9 +105793,10 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_04": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - Tunic of Time",
         "icons": [
-            "TBox_Field_Iron_Icon"
+            "TBox_Field_Iron_Icon",
+            "Obj_TreasureMap_00"
         ],
         "locations": [
             {
@@ -105798,9 +105807,10 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_05": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - Trousers of Time",
         "icons": [
-            "TBox_Field_Iron_Icon"
+            "TBox_Field_Iron_Icon",
+            "Obj_TreasureMap_00"
         ],
         "locations": [
             {
@@ -105811,9 +105821,10 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_13": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - Tunic of the Sky",
         "icons": [
-            "TBox_Field_Iron_Icon"
+            "TBox_Field_Iron_Icon",
+            "Obj_TreasureMap_00"
         ],
         "locations": [
             {
@@ -105824,9 +105835,10 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_15": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - Cap of the Wild",
         "icons": [
-            "TBox_Field_Iron_Icon"
+            "TBox_Field_Iron_Icon",
+            "Obj_TreasureMap_00"
         ],
         "locations": [
             {
@@ -105837,9 +105849,10 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_16": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - Tunic of the Wild",
         "icons": [
-            "TBox_Field_Iron_Icon"
+            "TBox_Field_Iron_Icon",
+            "Obj_TreasureMap_00"
         ],
         "locations": [
             {
@@ -105850,9 +105863,10 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_19": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - ???",
         "icons": [
-            "TBox_Field_Iron_Icon"
+            "TBox_Field_Iron_Icon",
+            "Obj_TreasureMap_00"
         ],
         "locations": [
             {
@@ -105863,9 +105877,10 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_21": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - Midna's Helmet",
         "icons": [
-            "TBox_Field_Iron_Icon"
+            "TBox_Field_Iron_Icon",
+            "Obj_TreasureMap_00"
         ],
         "locations": [
             {
@@ -105876,9 +105891,10 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_22": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - Ravio's Hood",
         "icons": [
-            "TBox_Field_Iron_Icon"
+            "TBox_Field_Iron_Icon",
+            "Obj_TreasureMap_00"
         ],
         "locations": [
             {
@@ -105889,9 +105905,10 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_23": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - ???",
         "icons": [
-            "TBox_Field_Iron_Icon"
+            "TBox_Field_Iron_Icon",
+            "Obj_TreasureMap_00"
         ],
         "locations": [
             {
@@ -105902,9 +105919,10 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_25": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - ???",
         "icons": [
-            "TBox_Field_Iron_Icon"
+            "TBox_Field_Iron_Icon",
+            "Obj_TreasureMap_00"
         ],
         "locations": [
             {
@@ -105915,9 +105933,10 @@
         ]
     },
     "TBox_Field_Iron_Zonau : Obj_TreasureMap_27": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Treasure Chest : Old Map - Sea-Breeze Shield",
         "icons": [
-            "TBox_Field_Iron_Icon"
+            "TBox_Field_Iron_Icon",
+            "Obj_TreasureMap_00"
         ],
         "locations": [
             {
@@ -105997,7 +106016,7 @@
         ]
     },
     "TBox_Field_Iron_Zonau_Zonau_BlockMaster : Obj_SageWill": {
-        "name": "Treasure Chest : Sage's Will",
+        "name": "Flux Construct Treasure Chest : Sage's Will",
         "icons": [
             "Obj_SageWill"
         ],
@@ -106030,7 +106049,7 @@
         ]
     },
     "TBox_Field_Iron_Zonau_Zonau_BlockMaster : Obj_TreasureMap_00": {
-        "name": "Treasure Chest : Old Map",
+        "name": "Flux Construct Treasure Chest : Old Map - Cap of the Hero",
         "icons": [
             "Obj_TreasureMap_00"
         ],
@@ -106043,8 +106062,10 @@
         ]
     },
     "TBox_Field_Iron_Zonau_Zonau_BlockMaster : Obj_TreasureMap_09": {
-        "name": "Treasure Chest : Old Map",
-        "icons": [],
+        "name": "Flux Construct Treasure Chest : Old Map - Cap of Twilight",
+        "icons": [
+            "Obj_TreasureMap_00"
+        ],
         "locations": [
             {
                 "x": 3434.159,
@@ -106054,8 +106075,10 @@
         ]
     },
     "TBox_Field_Iron_Zonau_Zonau_BlockMaster : Obj_TreasureMap_10": {
-        "name": "Treasure Chest : Old Map",
-        "icons": [],
+        "name": "Flux Construct Treasure Chest : Old Map - Tunic of Twilight",
+        "icons": [
+            "Obj_TreasureMap_00"
+        ],
         "locations": [
             {
                 "x": 1794.999,
@@ -106065,8 +106088,10 @@
         ]
     },
     "TBox_Field_Iron_Zonau_Zonau_BlockMaster : Obj_TreasureMap_12": {
-        "name": "Treasure Chest : Old Map",
-        "icons": [],
+        "name": "Flux Construct Treasure Chest : Old Map - Cap of the Sky",
+        "icons": [
+            "Obj_TreasureMap_00"
+        ],
         "locations": [
             {
                 "x": -3273.629,
@@ -106076,8 +106101,10 @@
         ]
     },
     "TBox_Field_Iron_Zonau_Zonau_BlockMaster : Obj_TreasureMap_28": {
-        "name": "Treasure Chest : Old Map",
-        "icons": [],
+        "name": "Flux Construct Treasure Chest : Old Map - Miner's Mask",
+        "icons": [
+            "Obj_TreasureMap_00"
+        ],
         "locations": [
             {
                 "x": 3513.551,
@@ -106087,8 +106114,10 @@
         ]
     },
     "TBox_Field_Iron_Zonau_Zonau_BlockMaster : Obj_TreasureMap_30": {
-        "name": "Treasure Chest : Old Map",
-        "icons": [],
+        "name": "Flux Construct Treasure Chest : Old Map - Miner's Trousers",
+        "icons": [
+            "Obj_TreasureMap_00"
+        ],
         "locations": [
             {
                 "x": 2715.017,
@@ -106441,8 +106470,10 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_03": {
-        "name": "Stone Treasure Chest : Old Map",
-        "icons": [],
+        "name": "Stone Treasure Chest : Old Map - Cap of Time",
+        "icons": [
+            "Obj_TreasureMap_00"
+        ],
         "locations": [
             {
                 "x": -352.655,
@@ -106452,8 +106483,10 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_06": {
-        "name": "Stone Treasure Chest : Old Map",
-        "icons": [],
+        "name": "Stone Treasure Chest : Old Map - Cap of the Wind",
+        "icons": [
+            "Obj_TreasureMap_00"
+        ],
         "locations": [
             {
                 "x": 598.467,
@@ -106463,8 +106496,10 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_07": {
-        "name": "Stone Treasure Chest : Old Map",
-        "icons": [],
+        "name": "Stone Treasure Chest : Old Map - Tunic of the Wind",
+        "icons": [
+            "Obj_TreasureMap_00"
+        ],
         "locations": [
             {
                 "x": 459.375,
@@ -106474,8 +106509,10 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_08": {
-        "name": "Stone Treasure Chest : Old Map",
-        "icons": [],
+        "name": "Stone Treasure Chest : Old Map - Trousers of the Wind",
+        "icons": [
+            "Obj_TreasureMap_00"
+        ],
         "locations": [
             {
                 "x": 593.246,
@@ -106485,8 +106522,10 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_11": {
-        "name": "Stone Treasure Chest : Old Map",
-        "icons": [],
+        "name": "Stone Treasure Chest : Old Map - Trousers of Twilight",
+        "icons": [
+            "Obj_TreasureMap_00"
+        ],
         "locations": [
             {
                 "x": 3107.88,
@@ -106496,8 +106535,10 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_14": {
-        "name": "Stone Treasure Chest : Old Map",
-        "icons": [],
+        "name": "Stone Treasure Chest : Old Map - Trousers of the Sky",
+        "icons": [
+            "Obj_TreasureMap_00"
+        ],
         "locations": [
             {
                 "x": -3113.042,
@@ -106507,8 +106548,10 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_17": {
-        "name": "Stone Treasure Chest : Old Map",
-        "icons": [],
+        "name": "Stone Treasure Chest : Old Map - Trousers of the Wild",
+        "icons": [
+            "Obj_TreasureMap_00"
+        ],
         "locations": [
             {
                 "x": 608.126,
@@ -106518,8 +106561,10 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_18": {
-        "name": "Stone Treasure Chest : Old Map",
-        "icons": [],
+        "name": "Stone Treasure Chest : Old Map - ???",
+        "icons": [
+            "Obj_TreasureMap_00"
+        ],
         "locations": [
             {
                 "x": 2195.6,
@@ -106529,8 +106574,10 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_20": {
-        "name": "Stone Treasure Chest : Old Map",
-        "icons": [],
+        "name": "Stone Treasure Chest : Old Map - ???",
+        "icons": [
+            "Obj_TreasureMap_00"
+        ],
         "locations": [
             {
                 "x": -20.585,
@@ -106540,8 +106587,10 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_24": {
-        "name": "Stone Treasure Chest : Old Map",
-        "icons": [],
+        "name": "Stone Treasure Chest : Old Map - Sword of the Hero",
+        "icons": [
+            "Obj_TreasureMap_00"
+        ],
         "locations": [
             {
                 "x": -1809.8,
@@ -106551,8 +106600,10 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_26": {
-        "name": "Stone Treasure Chest : Old Map",
-        "icons": [],
+        "name": "Stone Treasure Chest : Old Map - Sea-Breeze Boomerang",
+        "icons": [
+            "Obj_TreasureMap_00"
+        ],
         "locations": [
             {
                 "x": -2592.078,
@@ -106562,8 +106613,10 @@
         ]
     },
     "TBox_Field_Stone_Zonau : Obj_TreasureMap_29": {
-        "name": "Stone Treasure Chest : Old Map",
-        "icons": [],
+        "name": "Stone Treasure Chest : Old Map - Miner's Top",
+        "icons": [
+            "Obj_TreasureMap_00"
+        ],
         "locations": [
             {
                 "x": 2922.978,
@@ -108046,7 +108099,7 @@
         ]
     },
     "Weapon_Sword_071_Broken": {
-        "name": "",
+        "name": "Decayed Master Sword",
         "icons": [],
         "locations": [
             {
