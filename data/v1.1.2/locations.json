@@ -1,6 +1,114 @@
 {
     "sky": [
         {
+            "name": "Water Temple",
+            "locations": [
+                {
+                    "x": 771.629,
+                    "y": 3357.436,
+                    "z": 1632.868
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "LargeDungeonWater",
+            "nearest": false
+        },
+        {
+            "name": "Water Temple",
+            "locations": [
+                {
+                    "x": 771.629,
+                    "y": 3357.436,
+                    "z": 1632.868
+                },
+                {
+                    "x": 685.577,
+                    "y": 3265.384,
+                    "z": 1689.89
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "LargeDungeonWater",
+            "nearest": false
+        },
+        {
+            "name": "Water Temple",
+            "locations": [
+                {
+                    "x": 771.629,
+                    "y": 3357.436,
+                    "z": 1632.868
+                },
+                {
+                    "x": 685.577,
+                    "y": 3265.384,
+                    "z": 1689.89
+                },
+                {
+                    "x": 780.981,
+                    "y": 3479.216,
+                    "z": 1719.824
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "LargeDungeonWater",
+            "nearest": false
+        },
+        {
+            "name": "Wind Temple",
+            "locations": [
+                {
+                    "x": 3005.5,
+                    "y": -2859.5,
+                    "z": 1411.389
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "LargeDungeonWind",
+            "nearest": false
+        },
+        {
+            "name": "Wind Temple",
+            "locations": [
+                {
+                    "x": 3005.5,
+                    "y": -2859.5,
+                    "z": 1411.389
+                },
+                {
+                    "x": 3005.5,
+                    "y": -2859.5,
+                    "z": 1379.934
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "LargeDungeonWind",
+            "nearest": false
+        },
+        {
+            "name": "Wind Temple",
+            "locations": [
+                {
+                    "x": 3005.5,
+                    "y": -2859.5,
+                    "z": 1411.389
+                },
+                {
+                    "x": 3005.5,
+                    "y": -2859.5,
+                    "z": 1379.934
+                },
+                {
+                    "x": 3005.5,
+                    "y": -2859.5,
+                    "z": 1389.934
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "LargeDungeonWind",
+            "nearest": false
+        },
+        {
             "name": "Thunderhead Isles",
             "locations": [
                 {
@@ -15087,6 +15195,394 @@
             "nearest": false
         },
         {
+            "name": "Room of Hopeful Light",
+            "locations": [
+                {
+                    "x": -3685.808,
+                    "y": -4595.628,
+                    "z": 3.165
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "GerudoPyramidDungeon_1",
+            "nearest": false
+        },
+        {
+            "name": "Room of Ascension",
+            "locations": [
+                {
+                    "x": -3602.369,
+                    "y": -4509.361,
+                    "z": 20.165
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "GerudoPyramidDungeon_2",
+            "nearest": false
+        },
+        {
+            "name": "Room of Offered Light",
+            "locations": [
+                {
+                    "x": -3558.529,
+                    "y": -4571.587,
+                    "z": 24.165
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "GerudoPyramidDungeon_3",
+            "nearest": false
+        },
+        {
+            "name": "Room of Light and Flame",
+            "locations": [
+                {
+                    "x": -3656.109,
+                    "y": -4474.006,
+                    "z": 35.165
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "GerudoPyramidDungeon_4",
+            "nearest": false
+        },
+        {
+            "name": "Room of Light and Shade",
+            "locations": [
+                {
+                    "x": -3706.314,
+                    "y": -4553.909,
+                    "z": 41.165
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "GerudoPyramidDungeon_5",
+            "nearest": false
+        },
+        {
+            "name": "Room of Natural Light",
+            "locations": [
+                {
+                    "x": -3648.331,
+                    "y": -4555.323,
+                    "z": 86.165
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "GerudoPyramidDungeon_6",
+            "nearest": false
+        },
+        {
+            "name": "Room of Glorious Light",
+            "locations": [
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 126.165
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "GerudoPyramidDungeon_7",
+            "nearest": false
+        },
+        {
+            "name": "Lightning Temple",
+            "locations": [
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": -53.835
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "LargeDungeonThunder",
+            "nearest": false
+        },
+        {
+            "name": "Lightning Temple",
+            "locations": [
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": -53.835
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 33.165
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "LargeDungeonThunder",
+            "nearest": false
+        },
+        {
+            "name": "Lightning Temple",
+            "locations": [
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": -53.835
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 33.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 60.165
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "LargeDungeonThunder",
+            "nearest": false
+        },
+        {
+            "name": "Lightning Temple",
+            "locations": [
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": -53.835
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 33.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 60.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 95.165
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "LargeDungeonThunder",
+            "nearest": false
+        },
+        {
+            "name": "Lightning Temple",
+            "locations": [
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": -53.835
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 33.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 60.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 95.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 112.165
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "LargeDungeonThunder",
+            "nearest": false
+        },
+        {
+            "name": "Lightning Temple",
+            "locations": [
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": -53.835
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 33.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 60.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 95.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 112.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 129.165
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "LargeDungeonThunder",
+            "nearest": false
+        },
+        {
+            "name": "Lightning Temple",
+            "locations": [
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": -53.835
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 33.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 60.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 95.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 112.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 129.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 146.165
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "LargeDungeonThunder",
+            "nearest": false
+        },
+        {
+            "name": "Lightning Temple",
+            "locations": [
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": -53.835
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 33.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 60.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 95.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 112.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 129.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 146.165
+                },
+                {
+                    "x": -3531.658,
+                    "y": -4598.457,
+                    "z": 60.165
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "LargeDungeonThunder",
+            "nearest": false
+        },
+        {
+            "name": "Lightning Temple",
+            "locations": [
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": -53.835
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 33.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 60.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 95.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 112.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 129.165
+                },
+                {
+                    "x": -3611.562,
+                    "y": -4518.554,
+                    "z": 146.165
+                },
+                {
+                    "x": -3531.658,
+                    "y": -4598.457,
+                    "z": 60.165
+                },
+                {
+                    "x": -3511.152,
+                    "y": -4418.145,
+                    "z": 23.165
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "LargeDungeonThunder",
+            "nearest": false
+        },
+        {
             "name": "Sanctum",
             "locations": [
                 {
@@ -19063,6 +19559,37 @@
             ],
             "type": "LocationArea",
             "raw": "MinusField_Cohorint",
+            "nearest": false
+        },
+        {
+            "name": "Fire Temple",
+            "locations": [
+                {
+                    "x": 2817.5,
+                    "y": 1271.5,
+                    "z": -883.5
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "LargeDungeonFire",
+            "nearest": false
+        },
+        {
+            "name": "Fire Temple",
+            "locations": [
+                {
+                    "x": 2817.5,
+                    "y": 1271.5,
+                    "z": -883.5
+                },
+                {
+                    "x": 2847,
+                    "y": 1457,
+                    "z": -855
+                }
+            ],
+            "type": "LocationArea",
+            "raw": "LargeDungeonFire",
             "nearest": false
         }
     ]

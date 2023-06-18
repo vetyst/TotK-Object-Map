@@ -1,7 +1,7 @@
 {
     "ActorLinkDeleteControlActor": {
         "name": "",
-        "count": 4
+        "count": 5
     },
     "AddAutoPlacementCreator": {
         "name": "",
@@ -17,7 +17,7 @@
     },
     "AirWallCharacterOnly": {
         "name": "",
-        "count": 37
+        "count": 38
     },
     "AirWallCreature": {
         "name": "",
@@ -47,9 +47,17 @@
         "name": "",
         "count": 1
     },
+    "AirWallForGerudoDungeonSpikeArea": {
+        "name": "",
+        "count": 2
+    },
     "AirWallGiant": {
         "name": "",
         "count": 168
+    },
+    "AirWallGiantCapsule": {
+        "name": "",
+        "count": 4
     },
     "AirWallGroundObject": {
         "name": "",
@@ -81,7 +89,7 @@
     },
     "AirWallSage": {
         "name": "",
-        "count": 6
+        "count": 79
     },
     "AirWallStopFlow": {
         "name": "",
@@ -93,7 +101,7 @@
     },
     "AnchorAction1": {
         "name": "",
-        "count": 1719
+        "count": 1737
     },
     "AnchorAction10": {
         "name": "",
@@ -109,7 +117,7 @@
     },
     "AnchorAction2": {
         "name": "",
-        "count": 844
+        "count": 847
     },
     "AnchorAction2_Rain": {
         "name": "",
@@ -117,7 +125,7 @@
     },
     "AnchorAction3": {
         "name": "",
-        "count": 357
+        "count": 359
     },
     "AnchorAction3_Rain": {
         "name": "",
@@ -125,7 +133,7 @@
     },
     "AnchorAction4": {
         "name": "",
-        "count": 207
+        "count": 209
     },
     "AnchorAction4_Rain": {
         "name": "",
@@ -133,7 +141,7 @@
     },
     "AnchorAction5": {
         "name": "",
-        "count": 129
+        "count": 131
     },
     "AnchorAction5_Rain": {
         "name": "",
@@ -141,7 +149,7 @@
     },
     "AnchorAction6": {
         "name": "",
-        "count": 83
+        "count": 85
     },
     "AnchorAction6_Rain": {
         "name": "",
@@ -149,7 +157,7 @@
     },
     "AnchorAction7": {
         "name": "",
-        "count": 43
+        "count": 45
     },
     "AnchorAction7_Rain": {
         "name": "",
@@ -157,7 +165,7 @@
     },
     "AnchorAction8": {
         "name": "",
-        "count": 17
+        "count": 18
     },
     "AnchorAction8_Rain": {
         "name": "",
@@ -165,7 +173,7 @@
     },
     "AnchorAction9": {
         "name": "",
-        "count": 117
+        "count": 118
     },
     "AnchorAction9_Rain": {
         "name": "",
@@ -192,6 +200,14 @@
         "count": 14
     },
     "AnchorWaypoint2": {
+        "name": "",
+        "count": 1
+    },
+    "AncientBall": {
+        "name": "",
+        "count": 1
+    },
+    "AncientBallSwitch": {
         "name": "",
         "count": 1
     },
@@ -649,7 +665,7 @@
     },
     "Area": {
         "name": "",
-        "count": 7619
+        "count": 7849
     },
     "AreaCulling": {
         "name": "",
@@ -677,7 +693,7 @@
     },
     "AreaMergeDynamicTar": {
         "name": "",
-        "count": 5
+        "count": 6
     },
     "AreaMergeFallTar": {
         "name": "",
@@ -685,7 +701,7 @@
     },
     "AreaMergeTar": {
         "name": "",
-        "count": 389
+        "count": 407
     },
     "Area_ModelBindLink": {
         "name": "",
@@ -801,11 +817,11 @@
     },
     "AsbObj_Icicle_A_01": {
         "name": "",
-        "count": 4
+        "count": 6
     },
     "AsbObj_Icicle_A_02": {
         "name": "",
-        "count": 4
+        "count": 6
     },
     "AsbObj_MetalPole_A_LL_01": {
         "name": "",
@@ -825,7 +841,7 @@
     },
     "AsbObj_RockParts_C_L_01": {
         "name": "",
-        "count": 1475
+        "count": 1477
     },
     "AsbObj_RockParts_C_S_01": {
         "name": "",
@@ -853,7 +869,7 @@
     },
     "AsbObj_RockParts_C_S_01 : Drop__DropTable_Normal_NoRupee": {
         "name": "",
-        "count": 4167
+        "count": 4171
     },
     "AsbObj_RockParts_C_S_01 : Item_Ore_F : Drop__DropTable_Normal_NoRupee": {
         "name": "Amber",
@@ -865,7 +881,7 @@
     },
     "AsbObj_RopewayArm_A_03": {
         "name": "",
-        "count": 17
+        "count": 19
     },
     "AsbObj_SharpRock_A_S_01": {
         "name": "",
@@ -885,7 +901,7 @@
     },
     "AsbObj_SharpRock_A_S_01 : Drop__DropTable_Normal_NoRupee": {
         "name": "",
-        "count": 975
+        "count": 976
     },
     "AsbObj_SpikeDynamic_A_01": {
         "name": "",
@@ -893,11 +909,15 @@
     },
     "AsbObj_StoneLightSquare_A_M_01": {
         "name": "",
-        "count": 97
+        "count": 99
+    },
+    "AsbObj_StoneLightSquare_A_M_02": {
+        "name": "",
+        "count": 5
     },
     "AsbObj_StoneRectangle_B_LL_01": {
         "name": "",
-        "count": 895
+        "count": 897
     },
     "AsbObj_StoneRectangle_B_LL_02": {
         "name": "",
@@ -1005,13 +1025,33 @@
     },
     "AscendingCurrent": {
         "name": "",
-        "count": 72
+        "count": 73
+    },
+    "AscendingCurrentControlActor": {
+        "name": "",
+        "count": 1
     },
     "AscendingCurrent_Desert": {
         "name": "",
         "count": 36
     },
     "AscendingCurrent_FlightTraining": {
+        "name": "",
+        "count": 1
+    },
+    "AscendingCurrent_Lanayru_DragonBattle": {
+        "name": "",
+        "count": 2
+    },
+    "AscendingCurrent_LargeDungeonThunder": {
+        "name": "",
+        "count": 1
+    },
+    "AscendingCurrent_LargeDungeonWind": {
+        "name": "",
+        "count": 1
+    },
+    "AscendingCurrent_LargeDungeonWind_Weak": {
         "name": "",
         "count": 1
     },
@@ -2455,9 +2495,21 @@
         "name": "",
         "count": 1
     },
+    "BGM_LargeDungeon_Fire": {
+        "name": "",
+        "count": 2
+    },
     "BGM_LargeDungeon_Soul": {
         "name": "",
         "count": 3
+    },
+    "BGM_LargeDungeon_Thunder": {
+        "name": "",
+        "count": 1
+    },
+    "BGM_LargeDungeon_Water": {
+        "name": "",
+        "count": 1
     },
     "BGM_LargeZonauFacility": {
         "name": "",
@@ -2641,7 +2693,7 @@
     },
     "BarrelBomb2": {
         "name": "Barrel Bomb",
-        "count": 399
+        "count": 401
     },
     "BarrelBomb3": {
         "name": "Barrel Bomb",
@@ -2653,7 +2705,7 @@
     },
     "Barrel_SkyObj : Drop__DropTable_NoFood": {
         "name": "Wooden Barrel",
-        "count": 48
+        "count": 54
     },
     "Barrel_SkyObjOld_A_01": {
         "name": "Wooden Barrel",
@@ -4491,6 +4543,10 @@
         "name": "Tarrey Town Tunnel",
         "count": 1
     },
+    "Cave_Akkala_0006": {
+        "name": "",
+        "count": 1
+    },
     "Cave_Akkala_0007": {
         "name": "Construction Site Cave",
         "count": 1
@@ -4503,11 +4559,23 @@
         "name": "Skull Lake Cave",
         "count": 1
     },
+    "Cave_Akkala_0012": {
+        "name": "",
+        "count": 1
+    },
+    "Cave_Akkala_0013": {
+        "name": "",
+        "count": 1
+    },
     "Cave_Akkala_0014": {
         "name": "North Akkala Beach Cave",
         "count": 1
     },
     "Cave_Akkala_0015": {
+        "name": "",
+        "count": 1
+    },
+    "Cave_Akkala_0016": {
         "name": "",
         "count": 1
     },
@@ -4527,6 +4595,22 @@
         "name": "",
         "count": 1
     },
+    "Cave_CentralHyrule_0003": {
+        "name": "",
+        "count": 1
+    },
+    "Cave_CentralHyrule_0004": {
+        "name": "",
+        "count": 1
+    },
+    "Cave_CentralHyrule_0006": {
+        "name": "",
+        "count": 1
+    },
+    "Cave_CentralHyrule_0007": {
+        "name": "",
+        "count": 1
+    },
     "Cave_CentralHyrule_0008": {
         "name": "Ranch Ruins Cave",
         "count": 1
@@ -4537,6 +4621,10 @@
     },
     "Cave_CentralHyrule_0011": {
         "name": "Bottomless Cave",
+        "count": 1
+    },
+    "Cave_CentralHyrule_0012": {
+        "name": "",
         "count": 1
     },
     "Cave_CentralHyrule_0013": {
@@ -4587,6 +4675,14 @@
         "name": "",
         "count": 1
     },
+    "Cave_CentralHyrule_0028": {
+        "name": "",
+        "count": 1
+    },
+    "Cave_CentralHyrule_0029": {
+        "name": "",
+        "count": 1
+    },
     "Cave_CentralHyrule_0030": {
         "name": "Sage Temple Cave",
         "count": 1
@@ -4600,6 +4696,10 @@
         "count": 1
     },
     "Cave_CentralHyrule_0033": {
+        "name": "",
+        "count": 1
+    },
+    "Cave_Eldin_0019": {
         "name": "",
         "count": 1
     },
@@ -4699,6 +4799,10 @@
         "name": "Cora Lakefront Cave",
         "count": 1
     },
+    "Cave_Firone_0018": {
+        "name": "",
+        "count": 1
+    },
     "Cave_Firone_0019": {
         "name": "",
         "count": 1
@@ -4723,6 +4827,14 @@
         "name": "Puffer Beach Overhead Cave",
         "count": 1
     },
+    "Cave_Firone_0030": {
+        "name": "",
+        "count": 1
+    },
+    "Cave_Firone_0031": {
+        "name": "",
+        "count": 1
+    },
     "Cave_Firone_0032": {
         "name": "",
         "count": 1
@@ -4737,6 +4849,22 @@
     },
     "Cave_FirstPlateau_0001": {
         "name": "River of the Dead Waterfall Cave",
+        "count": 1
+    },
+    "Cave_FirstPlateau_0003": {
+        "name": "",
+        "count": 1
+    },
+    "Cave_FirstPlateau_0004": {
+        "name": "",
+        "count": 1
+    },
+    "Cave_FirstPlateau_0005": {
+        "name": "",
+        "count": 1
+    },
+    "Cave_FirstPlateau_0006": {
+        "name": "",
         "count": 1
     },
     "Cave_FirstPlateau_0007": {
@@ -4760,6 +4888,10 @@
         "count": 1
     },
     "Cave_GanonBattel_Entrance_0003": {
+        "name": "",
+        "count": 1
+    },
+    "Cave_GanonBattel_Entrance_0004": {
         "name": "",
         "count": 1
     },
@@ -4827,6 +4959,14 @@
         "name": "Koukot Plateau Cave",
         "count": 1
     },
+    "Cave_GerudoDesert_0042": {
+        "name": "",
+        "count": 1
+    },
+    "Cave_GerudoDesert_0043": {
+        "name": "East Gerudo Chasm",
+        "count": 1
+    },
     "Cave_GerudoDesert_0044": {
         "name": "Ancient Altar Ruins",
         "count": 1
@@ -4837,6 +4977,10 @@
     },
     "Cave_GerudoDesert_0046": {
         "name": "Gerudo Great Skeleton",
+        "count": 1
+    },
+    "Cave_GerudoDesert_0048": {
+        "name": "",
         "count": 1
     },
     "Cave_GerudoDesert_0049": {
@@ -4859,8 +5003,16 @@
         "name": "Statue of the Eighth Heroine Cave",
         "count": 1
     },
+    "Cave_GerudoHighlands_0013": {
+        "name": "",
+        "count": 1
+    },
     "Cave_GerudoHighlands_0014": {
         "name": "Meadela's Mantle Cave",
+        "count": 1
+    },
+    "Cave_GerudoHighlands_0015": {
+        "name": "",
         "count": 1
     },
     "Cave_GerudoHighlands_0016": {
@@ -4907,8 +5059,16 @@
         "name": "Ubota Point Cave",
         "count": 1
     },
+    "Cave_HateruEast_0015": {
+        "name": "",
+        "count": 1
+    },
     "Cave_HateruEast_0016": {
         "name": "Atun Valley Cave",
+        "count": 1
+    },
+    "Cave_HateruEast_0017": {
+        "name": "",
         "count": 1
     },
     "Cave_HateruWest_0002": {
@@ -4925,6 +5085,14 @@
     },
     "Cave_HateruWest_0008": {
         "name": "Sahasra Slope Cave",
+        "count": 1
+    },
+    "Cave_HateruWest_0009": {
+        "name": "",
+        "count": 1
+    },
+    "Cave_HateruWest_0010": {
+        "name": "",
         "count": 1
     },
     "Cave_HateruWest_0011": {
@@ -5003,12 +5171,36 @@
         "name": "North Biron Snowshelf Cave",
         "count": 1
     },
+    "Cave_Hebra_0041": {
+        "name": "East Biron Snowshelf Cave",
+        "count": 1
+    },
     "Cave_Hebra_0042": {
+        "name": "",
+        "count": 1
+    },
+    "Cave_Hebra_0043": {
         "name": "",
         "count": 1
     },
     "Cave_HyruleForest_0001": {
         "name": "Rauru Hillside Cave",
+        "count": 1
+    },
+    "Cave_HyruleForest_0002": {
+        "name": "",
+        "count": 1
+    },
+    "Cave_HyruleForest_0003": {
+        "name": "",
+        "count": 1
+    },
+    "Cave_HyruleForest_0004": {
+        "name": "",
+        "count": 1
+    },
+    "Cave_HyruleForest_0005": {
+        "name": "",
         "count": 1
     },
     "Cave_HyruleForest_0006": {
@@ -5033,6 +5225,10 @@
     },
     "Cave_HyruleRidge_0003": {
         "name": "Lindor's Brow Cave",
+        "count": 1
+    },
+    "Cave_HyruleRidge_0004": {
+        "name": "Hyrule Ridge Chasm",
         "count": 1
     },
     "Cave_HyruleRidge_0005": {
@@ -5085,6 +5281,10 @@
     },
     "Cave_LanayruMountain_0022": {
         "name": "Deepback Bay Cave",
+        "count": 1
+    },
+    "Cave_LanayruMountain_0023": {
+        "name": "",
         "count": 1
     },
     "Cave_LanayruMountain_0024": {
@@ -5155,6 +5355,10 @@
         "name": "Upland Zorana Summit Cave",
         "count": 1
     },
+    "Cave_Lanayru_0050": {
+        "name": "Lanayru Wetlands Chasm",
+        "count": 1
+    },
     "Cave_Lanayru_0052": {
         "name": "Crenel Hills Cave",
         "count": 1
@@ -5181,6 +5385,14 @@
     },
     "Cave_Lanayru_0061": {
         "name": "Cave Under Zora's Domain",
+        "count": 1
+    },
+    "Cave_Lanayru_0062": {
+        "name": "",
+        "count": 1
+    },
+    "Cave_Lanayru_0063": {
+        "name": "Chasm Under Zora's Domain",
         "count": 1
     },
     "Cave_Minus_0025": {
@@ -5289,7 +5501,7 @@
     },
     "ChallengeFollowerPlayingAreaBox": {
         "name": "",
-        "count": 3
+        "count": 5
     },
     "ChallengeFollowerPlayingAreaSphere": {
         "name": "",
@@ -5321,11 +5533,11 @@
     },
     "CheckReflectedInCameraActor": {
         "name": "",
-        "count": 10
+        "count": 20
     },
     "ChemicalPerceiveAreaActor": {
         "name": "",
-        "count": 35
+        "count": 39
     },
     "ChemicalWindPerceiveAreaActor": {
         "name": "",
@@ -5533,11 +5745,19 @@
     },
     "DesignateMatrixActor": {
         "name": "",
-        "count": 466
+        "count": 490
     },
     "DestinationAnchor": {
         "name": "",
-        "count": 1622
+        "count": 1676
+    },
+    "DgnObj_AncientBallSwitch_A_03": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_AncientBall_03": {
+        "name": "",
+        "count": 2
     },
     "DgnObj_BeamDevice_Static": {
         "name": "",
@@ -5553,7 +5773,7 @@
     },
     "DgnObj_BoxNet_A": {
         "name": "",
-        "count": 8
+        "count": 9
     },
     "DgnObj_BoxShutter_4x4x4_DragonIsland": {
         "name": "",
@@ -5569,7 +5789,7 @@
     },
     "DgnObj_DungeonLava50x50_A_01": {
         "name": "",
-        "count": 91
+        "count": 97
     },
     "DgnObj_DungeonWaterFlow_A_01_Model": {
         "name": "",
@@ -5583,9 +5803,17 @@
         "name": "",
         "count": 1
     },
+    "DgnObj_Electric": {
+        "name": "",
+        "count": 1
+    },
     "DgnObj_ElectricBlockCrack_A_01": {
         "name": "",
         "count": 2
+    },
+    "DgnObj_ElectricBoxStone_A_02": {
+        "name": "",
+        "count": 22
     },
     "DgnObj_ElectricBoxStone_A_03": {
         "name": "",
@@ -5593,11 +5821,11 @@
     },
     "DgnObj_ElectricBoxStone_A_04": {
         "name": "",
-        "count": 5
+        "count": 27
     },
     "DgnObj_ElectricBoxStone_A_05": {
         "name": "",
-        "count": 8
+        "count": 143
     },
     "DgnObj_ElectricBoxStone_A_07": {
         "name": "",
@@ -5607,9 +5835,41 @@
         "name": "",
         "count": 1
     },
+    "DgnObj_ElectricBoxStone_A_08": {
+        "name": "",
+        "count": 10
+    },
     "DgnObj_ElectricCable": {
         "name": "",
-        "count": 4
+        "count": 6
+    },
+    "DgnObj_ElectricCandle_A_01": {
+        "name": "",
+        "count": 14
+    },
+    "DgnObj_ElectricCandle_A_02": {
+        "name": "",
+        "count": 14
+    },
+    "DgnObj_ElectricCeilingDoor_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_ElectricCircularDoor_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_ElectricCylinderWall_A_09": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_ElectricElevatorBase_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_ElectricElevator_A_01": {
+        "name": "",
+        "count": 1
     },
     "DgnObj_ElectricFloor_A_08": {
         "name": "",
@@ -5625,7 +5885,7 @@
     },
     "DgnObj_ElectricFragmentsSand_A_03": {
         "name": "",
-        "count": 59
+        "count": 70
     },
     "DgnObj_ElectricLauncher_A_01": {
         "name": "",
@@ -5643,9 +5903,89 @@
         "name": "",
         "count": 1
     },
+    "DgnObj_ElectricMerge_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_ElectricMerge_A_01_Far": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_ElectricMerge_A_02": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_ElectricMerge_A_02_Far": {
+        "name": "",
+        "count": 1
+    },
     "DgnObj_ElectricPot_A_LL_Act_01": {
         "name": "",
         "count": 44
+    },
+    "DgnObj_ElectricPot_A_LL_Act_01 : Drop__DropTable_GerudoDungeon": {
+        "name": "",
+        "count": 42
+    },
+    "DgnObj_ElectricPot_A_LL_Act_01 : Item_Ore_E": {
+        "name": "Opal",
+        "count": 2
+    },
+    "DgnObj_ElectricPot_A_LL_Act_01 : Item_Ore_F": {
+        "name": "Amber",
+        "count": 3
+    },
+    "DgnObj_ElectricPot_A_LL_Act_01 : Obj_ArrowBundle_A_02": {
+        "name": "Arrow x 10",
+        "count": 1
+    },
+    "DgnObj_ElectricPot_A_LL_Act_01 : Obj_ArrowNormal_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_ElectricPyramidShutterEnergy_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_ElectricPyramidShutterEnergy_A_02": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_ElectricPyramidShutter_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_ElectricPyramidShutter_A_02": {
+        "name": "",
+        "count": 2
+    },
+    "DgnObj_ElectricRotateWall_A_01": {
+        "name": "",
+        "count": 2
+    },
+    "DgnObj_ElectricRotateWall_A_02": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_ElectricShutter_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_ElectricSliderMirror_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_ElectricSliderMirror_A_02": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_ElectricSliderMirror_A_03": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_ElectricSliderMirror_A_04": {
+        "name": "",
+        "count": 1
     },
     "DgnObj_ElectricStairs_A_03": {
         "name": "",
@@ -5669,11 +6009,11 @@
     },
     "DgnObj_ElectricStoneBoard_A_01": {
         "name": "",
-        "count": 4
+        "count": 7
     },
     "DgnObj_ElectricStoneBoard_A_02": {
         "name": "",
-        "count": 3
+        "count": 7
     },
     "DgnObj_ElectricStonePillar_A_02": {
         "name": "",
@@ -5723,6 +6063,14 @@
         "name": "",
         "count": 2
     },
+    "DgnObj_ElectricWire_B_LargeDungeonWater_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_ElectricWire_B_LargeDungeonWater_02": {
+        "name": "",
+        "count": 2
+    },
     "DgnObj_ElectricWire_B_Straight_01": {
         "name": "",
         "count": 2
@@ -5734,6 +6082,14 @@
     "DgnObj_ElectricWire_B_Up_01": {
         "name": "",
         "count": 1
+    },
+    "DgnObj_ElectricZombieCocoon_A_01": {
+        "name": "",
+        "count": 2
+    },
+    "DgnObj_Electric_BossBattleRoomDoor_A_01": {
+        "name": "",
+        "count": 2
     },
     "DgnObj_Electric_MirrorPillar_A_01": {
         "name": "",
@@ -5767,9 +6123,13 @@
         "name": "",
         "count": 1
     },
+    "DgnObj_Electric_ShutterFence_A_01": {
+        "name": "",
+        "count": 2
+    },
     "DgnObj_Electric_ShutterFence_A_02": {
         "name": "",
-        "count": 4
+        "count": 6
     },
     "DgnObj_Electric_SwitchShutterFrame_A_02": {
         "name": "",
@@ -5785,11 +6145,55 @@
     },
     "DgnObj_Electric_SwitchStepOnce_A_01": {
         "name": "",
+        "count": 11
+    },
+    "DgnObj_FireBox_A_01": {
+        "name": "",
+        "count": 10
+    },
+    "DgnObj_FirePillar": {
+        "name": "",
+        "count": 9
+    },
+    "DgnObj_FirePillar_B": {
+        "name": "",
+        "count": 10
+    },
+    "DgnObj_FirePillar_Gerudo": {
+        "name": "",
+        "count": 12
+    },
+    "DgnObj_FireRollPillarSwitchCover_A_01": {
+        "name": "",
+        "count": 9
+    },
+    "DgnObj_FireRollPillarSwitch_A_01": {
+        "name": "",
         "count": 3
+    },
+    "DgnObj_FireRollPillarSwitch_A_02": {
+        "name": "",
+        "count": 4
+    },
+    "DgnObj_FireRollPillar_A_01": {
+        "name": "",
+        "count": 2
     },
     "DgnObj_Fire_Block_A_01": {
         "name": "",
         "count": 4
+    },
+    "DgnObj_Fire_BossBattleRoomCocoon_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_BossBattleRoomCocoon_A_01_Far": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_BossBattleRoomDoor_A_01": {
+        "name": "",
+        "count": 1
     },
     "DgnObj_Fire_BossBattle_A_04": {
         "name": "",
@@ -5798,6 +6202,22 @@
     "DgnObj_Fire_BossBattle_A_04_Far": {
         "name": "",
         "count": 1
+    },
+    "DgnObj_Fire_BossBattle_A_05": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_BossBattle_A_05_Far": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_BridgeBoard_A_01": {
+        "name": "",
+        "count": 11
+    },
+    "DgnObj_Fire_BridgeBoard_A_03": {
+        "name": "",
+        "count": 4
     },
     "DgnObj_Fire_BrokenFloor_A_01": {
         "name": "",
@@ -5808,6 +6228,22 @@
         "count": 8
     },
     "DgnObj_Fire_BrokenFloor_A_03": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_BrokenFloor_A_05": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_BrokenFloor_A_05_Far": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_BrokenFloor_A_10": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_BrokenFloor_A_10_Far": {
         "name": "",
         "count": 1
     },
@@ -5833,11 +6269,27 @@
     },
     "DgnObj_Fire_Floor_A_02": {
         "name": "",
-        "count": 1
+        "count": 26
     },
     "DgnObj_Fire_Floor_A_02_Far": {
         "name": "",
+        "count": 26
+    },
+    "DgnObj_Fire_Floor_A_04": {
+        "name": "",
         "count": 1
+    },
+    "DgnObj_Fire_Floor_A_04_Far": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_Floor_A_10": {
+        "name": "",
+        "count": 7
+    },
+    "DgnObj_Fire_Floor_A_10_Far": {
+        "name": "",
+        "count": 7
     },
     "DgnObj_Fire_LavaFall_A_01": {
         "name": "",
@@ -5907,9 +6359,77 @@
         "name": "",
         "count": 1
     },
+    "DgnObj_Fire_LavaPondFloor_A_03": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_LavaPondFloor_A_03_Far": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_NetWall_A_03": {
+        "name": "",
+        "count": 34
+    },
     "DgnObj_Fire_Piller_A_04": {
         "name": "",
         "count": 7
+    },
+    "DgnObj_Fire_RailLift": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_RisePillarCable_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_RisePillarCable_A_02": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_RisePillarCable_A_03": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_RisePillarCable_A_04": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_RisePillar_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_RisePillar_A_02": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_RisePillar_A_03": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_RiseRollPillar_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_RollPillarCable_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_RollPillarCable_A_02": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_RollPillarCable_A_03": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_RotationFloor_A_01": {
+        "name": "",
+        "count": 9
+    },
+    "DgnObj_Fire_RotationFloor_A_02": {
+        "name": "",
+        "count": 9
     },
     "DgnObj_Fire_Slope_A_01": {
         "name": "",
@@ -5923,9 +6443,37 @@
         "name": "",
         "count": 43
     },
-    "DgnObj_Fire_Train_A_01": {
+    "DgnObj_Fire_Torch_A_01": {
         "name": "",
         "count": 2
+    },
+    "DgnObj_Fire_TrainSwitchTruck_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_TrainSwitchTruck_A_03": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_TrainSwitch_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_TrainSwitch_A_03": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Fire_Train_A_01": {
+        "name": "",
+        "count": 32
+    },
+    "DgnObj_Fire_TreasureRoom_A_01": {
+        "name": "",
+        "count": 2
+    },
+    "DgnObj_Fire_TruckStopBar_A_01": {
+        "name": "",
+        "count": 12
     },
     "DgnObj_Fire_TruckSupportParts_A_01": {
         "name": "",
@@ -5935,37 +6483,57 @@
         "name": "",
         "count": 2
     },
+    "DgnObj_Fire_WallTorch_A_02": {
+        "name": "",
+        "count": 31
+    },
+    "DgnObj_Fire_Wall_A_01": {
+        "name": "",
+        "count": 5
+    },
     "DgnObj_Fire_WeaponStand_A_01": {
         "name": "",
         "count": 1
     },
     "DgnObj_FloatingWaterTap_A_01": {
         "name": "",
-        "count": 8
+        "count": 11
     },
     "DgnObj_FloatingWaterTap_A_02": {
         "name": "",
-        "count": 3
+        "count": 7
     },
     "DgnObj_GerudoFloorCover_A_01": {
         "name": "",
-        "count": 63
+        "count": 75
     },
     "DgnObj_GerudoFloorCover_A_02": {
         "name": "",
-        "count": 33
+        "count": 35
     },
     "DgnObj_GerudoFrame_A_01": {
         "name": "",
         "count": 19
     },
+    "DgnObj_GerudoLineEnergy_A_01": {
+        "name": "",
+        "count": 18
+    },
+    "DgnObj_GerudoLineEnergy_A_02": {
+        "name": "",
+        "count": 1
+    },
     "DgnObj_GerudoSwitchBlock_A_01": {
         "name": "",
-        "count": 4
+        "count": 8
+    },
+    "DgnObj_Gerudo_KaitenHeya_LightSwithOneTime_A_01": {
+        "name": "",
+        "count": 1
     },
     "DgnObj_Gerudo_LightSwithOneTime_A_01": {
         "name": "",
-        "count": 3
+        "count": 6
     },
     "DgnObj_Gerudo_LightSwithOneTime_A_02": {
         "name": "",
@@ -5979,17 +6547,21 @@
         "name": "",
         "count": 3
     },
+    "DgnObj_GoronSwitchBlock_A_01": {
+        "name": "",
+        "count": 5
+    },
     "DgnObj_Hrl_CandlePoleC_02": {
         "name": "",
         "count": 8
     },
     "DgnObj_IRBeamDevice_Static_Base": {
         "name": "",
-        "count": 38
+        "count": 49
     },
     "DgnObj_IRBeamDevice_Static_Beam": {
         "name": "",
-        "count": 38
+        "count": 49
     },
     "DgnObj_IronRail_A_02": {
         "name": "",
@@ -6001,13 +6573,21 @@
     },
     "DgnObj_JumpBoard_A_01": {
         "name": "",
-        "count": 11
+        "count": 25
     },
     "DgnObj_JumpBoard_B_03": {
         "name": "",
         "count": 41
     },
     "DgnObj_LargeDgnZonau_SecretStoneBase_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonGerudo_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonGerudo_A_01_Far": {
         "name": "",
         "count": 1
     },
@@ -6018,6 +6598,46 @@
     "DgnObj_LargeDungeonGerudo_A_02_Far": {
         "name": "",
         "count": 1
+    },
+    "DgnObj_LargeDungeonGerudo_Base_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonGerudo_Base_A_01_Far": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonGerudo_Corridor_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonGerudo_Corridor_A_01_Far": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonGerudo_Gate_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonGerudo_Gate_A_01_Far": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonGerudo_Gate_A_02": {
+        "name": "",
+        "count": 2
+    },
+    "DgnObj_LargeDungeonGerudo_Gate_A_02_Far": {
+        "name": "",
+        "count": 2
+    },
+    "DgnObj_LargeDungeonGerudo_Gate_A_03": {
+        "name": "",
+        "count": 2
+    },
+    "DgnObj_LargeDungeonGerudo_Gate_A_03_Far": {
+        "name": "",
+        "count": 2
     },
     "DgnObj_LargeDungeonWaterParts_A_02": {
         "name": "",
@@ -6045,6 +6665,98 @@
     },
     "DgnObj_LargeDungeonWaterParts_A_09": {
         "name": "",
+        "count": 3
+    },
+    "DgnObj_LargeDungeonWater_A_03": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonWater_A_03_Far": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonWater_A_19": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonWater_A_19_Far": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonWater_A_Box8x8x8Hole_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonWater_Moss_A_06": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonWater_Moss_A_06_Far": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonWater_SecretStoneBase_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonWater_SwitchShutter_A_01": {
+        "name": "",
+        "count": 4
+    },
+    "DgnObj_LargeDungeonWater_WaterFallBottom_A_01": {
+        "name": "",
+        "count": 2
+    },
+    "DgnObj_LargeDungeonWater_WaterFallBottom_A_01_Far": {
+        "name": "",
+        "count": 2
+    },
+    "DgnObj_LargeDungeonWater_WaterFall_A_01": {
+        "name": "",
+        "count": 2
+    },
+    "DgnObj_LargeDungeonWater_WaterFall_A_01_Far": {
+        "name": "",
+        "count": 2
+    },
+    "DgnObj_LargeDungeonWater_WaterGate": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonWater_WaterGateFastener_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonWind_Cannon_A_02": {
+        "name": "",
+        "count": 3
+    },
+    "DgnObj_LargeDungeonWind_Debris_A_01": {
+        "name": "",
+        "count": 7
+    },
+    "DgnObj_LargeDungeonWind_Door_A_01": {
+        "name": "",
+        "count": 4
+    },
+    "DgnObj_LargeDungeonWind_Grate_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonWind_HatchGear_A_01": {
+        "name": "",
+        "count": 6
+    },
+    "DgnObj_LargeDungeonWind_Hatch_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonWind_Hatch_A_02": {
+        "name": "",
+        "count": 6
+    },
+    "DgnObj_LargeDungeonWind_IceSecretStone_A_01": {
+        "name": "",
         "count": 1
     },
     "DgnObj_LargeDungeonWind_Ice_A_02": {
@@ -6055,25 +6767,57 @@
         "name": "",
         "count": 2
     },
-    "DgnObj_LargeDungeon_SecretStoneClaw_A_01": {
+    "DgnObj_LargeDungeonWind_Oar_A_01": {
+        "name": "",
+        "count": 8
+    },
+    "DgnObj_LargeDungeonWind_Propeller": {
         "name": "",
         "count": 1
     },
+    "DgnObj_LargeDungeonWind_SwitchShutter_A_03": {
+        "name": "",
+        "count": 2
+    },
+    "DgnObj_LargeDungeonWind_SwitchShutter_A_04": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeonWind_SwitchShutter_A_05": {
+        "name": "",
+        "count": 2
+    },
+    "DgnObj_LargeDungeonWind_WaitingBoss_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_LargeDungeon_SecretStoneClaw_A_01": {
+        "name": "",
+        "count": 3
+    },
     "DgnObj_LavaFlow_A_01": {
         "name": "",
-        "count": 18
+        "count": 20
     },
     "DgnObj_LeverSwitchBace_A": {
+        "name": "",
+        "count": 6
+    },
+    "DgnObj_LeverSwitchBrokenParts_A": {
         "name": "",
         "count": 1
     },
     "DgnObj_LeverSwitchStick_A": {
         "name": "",
-        "count": 1
+        "count": 5
     },
     "DgnObj_LightSource": {
         "name": "",
-        "count": 6
+        "count": 11
+    },
+    "DgnObj_LightSource_A_02": {
+        "name": "",
+        "count": 4
     },
     "DgnObj_LightSource_QueenGrave": {
         "name": "",
@@ -6135,13 +6879,25 @@
         "name": "",
         "count": 1
     },
+    "DgnObj_RitoSwitchBlock_A_01": {
+        "name": "",
+        "count": 5
+    },
     "DgnObj_RopeWire": {
         "name": "",
         "count": 6
     },
+    "DgnObj_ShutterFence_A_07": {
+        "name": "",
+        "count": 1
+    },
     "DgnObj_SkyShutterFence_A_01": {
         "name": "",
         "count": 1
+    },
+    "DgnObj_Small_BoardStone_A_02": {
+        "name": "",
+        "count": 2
     },
     "DgnObj_Small_BoxShutter_A_02_DragonIsland": {
         "name": "",
@@ -6157,15 +6913,39 @@
     },
     "DgnObj_Small_ShutterFence_A_10": {
         "name": "",
-        "count": 3
+        "count": 6
     },
     "DgnObj_SpikeBall_A": {
         "name": "",
         "count": 8
     },
+    "DgnObj_SpurGear_WithShaft_LargeDungeonWind": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_StoneBall_Fire": {
+        "name": "",
+        "count": 3
+    },
+    "DgnObj_SwitchWheel_LargeDugeonWind": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_TarSecretStone_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_TarSecretStone_A_01_Demo": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_TarSecretStone_A_02": {
+        "name": "",
+        "count": 1
+    },
     "DgnObj_Terminal_A_01": {
         "name": "",
-        "count": 6
+        "count": 10
     },
     "DgnObj_Terminal_A_02": {
         "name": "",
@@ -6173,7 +6953,7 @@
     },
     "DgnObj_Terminal_A_03": {
         "name": "",
-        "count": 11
+        "count": 12
     },
     "DgnObj_Terminal_A_04": {
         "name": "",
@@ -6209,6 +6989,10 @@
     },
     "DgnObj_WarpPoint_Zonau_A_02": {
         "name": "",
+        "count": 4
+    },
+    "DgnObj_WarpPoint_Zonau_A_03": {
+        "name": "",
         "count": 1
     },
     "DgnObj_WarpPoint_Zonau_A_04": {
@@ -6223,9 +7007,33 @@
         "name": "",
         "count": 1
     },
+    "DgnObj_WaterPlane_A_01": {
+        "name": "",
+        "count": 5
+    },
+    "DgnObj_WaterPlane_A_03": {
+        "name": "",
+        "count": 2
+    },
+    "DgnObj_WaterPlane_A_03_Far": {
+        "name": "",
+        "count": 2
+    },
     "DgnObj_WaterPlane_A_04": {
         "name": "",
         "count": 1
+    },
+    "DgnObj_Water_Bucket_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "DgnObj_Water_Pipe_A_01": {
+        "name": "",
+        "count": 5
+    },
+    "DgnObj_Water_TerminalRoom_A_02": {
+        "name": "",
+        "count": 4
     },
     "DgnObj_ZonauShrineEntranceDecal_A_01": {
         "name": "",
@@ -6555,6 +7363,10 @@
         "name": "",
         "count": 1
     },
+    "DgnObj_ZoraSwitchBlock_A_01": {
+        "name": "",
+        "count": 4
+    },
     "Dm_FldObj_GanonCastle_Bese_01": {
         "name": "",
         "count": 1
@@ -6567,9 +7379,21 @@
         "name": "",
         "count": 1
     },
+    "Dm_Obj_RockBroken_Miasma_A_01": {
+        "name": "",
+        "count": 1
+    },
     "Dm_SkyObj_StoneLantern_A_01": {
         "name": "",
-        "count": 6
+        "count": 8
+    },
+    "Dm_Tar_L_03": {
+        "name": "",
+        "count": 1
+    },
+    "Dm_Tar_S_01": {
+        "name": "",
+        "count": 1
     },
     "DongoLocater": {
         "name": "",
@@ -6605,17 +7429,25 @@
     },
     "DungeonPit": {
         "name": "",
-        "count": 1
+        "count": 5
     },
     "DustArea": {
         "name": "",
         "count": 2
+    },
+    "DynamicWallSpike": {
+        "name": "",
+        "count": 3
     },
     "EastAkkalaHatago_PhotographTarget": {
         "name": "",
         "count": 1
     },
     "EavesdroppingAttentionActor": {
+        "name": "",
+        "count": 1
+    },
+    "EditParts_0001": {
         "name": "",
         "count": 1
     },
@@ -6681,7 +7513,7 @@
     },
     "Ef_CloudRestrictedArea_01": {
         "name": "",
-        "count": 65
+        "count": 73
     },
     "Ef_CloudRestrictedArea_02": {
         "name": "",
@@ -6689,11 +7521,11 @@
     },
     "Ef_CloudRestrictedArea_03": {
         "name": "",
-        "count": 20
+        "count": 22
     },
     "Ef_CloudRestrictedArea_04": {
         "name": "",
-        "count": 57
+        "count": 58
     },
     "Ef_Cloud_Single_01": {
         "name": "",
@@ -6795,9 +7627,13 @@
         "name": "",
         "count": 1
     },
+    "EftLoc_MiasmaAppearance_03": {
+        "name": "",
+        "count": 1
+    },
     "EftLoc_MiasmaAppearance_05": {
         "name": "",
-        "count": 19
+        "count": 20
     },
     "EftLoc_MiasmaAppearance_06": {
         "name": "",
@@ -6825,7 +7661,7 @@
     },
     "EftLoc_MiasmaAppearance_12": {
         "name": "",
-        "count": 2
+        "count": 3
     },
     "EftLoc_MiasmaAppearance_13": {
         "name": "",
@@ -6865,7 +7701,7 @@
     },
     "EftLoc_SludgeSplash_01": {
         "name": "",
-        "count": 6
+        "count": 7
     },
     "EftLoc_SludgeSplash_02": {
         "name": "",
@@ -6929,7 +7765,7 @@
     },
     "EnemyNoticeArea": {
         "name": "",
-        "count": 20
+        "count": 24
     },
     "EnemyNoticeTag": {
         "name": "",
@@ -9329,11 +10165,11 @@
     },
     "Enemy_Chuchu_Ice_Junior": {
         "name": "Ice Chuchu",
-        "count": 98
+        "count": 99
     },
     "Enemy_Chuchu_Ice_Middle": {
         "name": "Ice Chuchu",
-        "count": 14
+        "count": 16
     },
     "Enemy_Chuchu_Ice_Middle_Army": {
         "name": "Ice Chuchu Army",
@@ -9345,15 +10181,31 @@
     },
     "Enemy_Chuchu_Junior": {
         "name": "Chuchu",
-        "count": 80
+        "count": 81
     },
     "Enemy_Chuchu_Middle": {
         "name": "Chuchu",
-        "count": 36
+        "count": 40
     },
     "Enemy_Chuchu_Senior": {
         "name": "Chuchu",
-        "count": 3
+        "count": 5
+    },
+    "Enemy_Dragon_Electric": {
+        "name": "Farosh",
+        "count": 1
+    },
+    "Enemy_Dragon_Fire": {
+        "name": "Dinraal",
+        "count": 1
+    },
+    "Enemy_Dragon_Ice": {
+        "name": "Naydra",
+        "count": 1
+    },
+    "Enemy_Dragon_Light_001": {
+        "name": "Light Dragon",
+        "count": 1
     },
     "Enemy_Drake_Electric": {
         "name": "Thunder Gleeok",
@@ -9371,6 +10223,10 @@
         "name": "King Gleeok",
         "count": 4
     },
+    "Enemy_DungeonBoss_Gerudo": {
+        "name": "Queen Gibdo",
+        "count": 2
+    },
     "Enemy_DungeonBoss_Gerudo_Uncleared": {
         "name": "Queen Gibdo",
         "count": 1
@@ -9379,6 +10235,10 @@
         "name": "Queen Gibdo",
         "count": 3
     },
+    "Enemy_DungeonBoss_Goron": {
+        "name": "Marbled Gohma",
+        "count": 1
+    },
     "Enemy_DungeonBoss_Goron_Uncleared": {
         "name": "Marbled Gohma",
         "count": 1
@@ -9386,6 +10246,10 @@
     "Enemy_DungeonBoss_Goron_Underground": {
         "name": "Marbled Gohma",
         "count": 3
+    },
+    "Enemy_DungeonBoss_Rito": {
+        "name": "Colgera",
+        "count": 1
     },
     "Enemy_DungeonBoss_Rito_Uncleared": {
         "name": "Colgera",
@@ -9401,6 +10265,10 @@
     },
     "Enemy_DungeonBoss_Zonau_Uncleared": {
         "name": "Seized Construct",
+        "count": 1
+    },
+    "Enemy_DungeonBoss_Zora": {
+        "name": "Mucktorok",
         "count": 1
     },
     "Enemy_DungeonBoss_Zora_Uncleared": {
@@ -9505,7 +10373,7 @@
     },
     "Enemy_Golem_Little_Fire": {
         "name": "Igneo Pebblit",
-        "count": 50
+        "count": 52
     },
     "Enemy_Golem_Little_Ice": {
         "name": "Frost Pebblit",
@@ -9769,7 +10637,7 @@
     },
     "Enemy_Keese_AllDay": {
         "name": "Keese",
-        "count": 110
+        "count": 114
     },
     "Enemy_Keese_Electric": {
         "name": "Electric Keese",
@@ -9777,7 +10645,7 @@
     },
     "Enemy_Keese_Electric_AllDay": {
         "name": "Electric Keese",
-        "count": 97
+        "count": 98
     },
     "Enemy_Keese_Fire": {
         "name": "Fire Keese",
@@ -9829,11 +10697,11 @@
     },
     "Enemy_LikeLike_Fire": {
         "name": "Fire Like",
-        "count": 7
+        "count": 8
     },
     "Enemy_LikeLike_Fire_RagdollShort": {
         "name": "Fire Like",
-        "count": 16
+        "count": 17
     },
     "Enemy_LikeLike_Ice": {
         "name": "Ice Like",
@@ -11085,7 +11953,7 @@
     },
     "Enemy_Toby_Junior": {
         "name": "Aerocuda",
-        "count": 245
+        "count": 249
     },
     "Enemy_Toby_Junior_Sky": {
         "name": "Aerocuda",
@@ -11145,7 +12013,7 @@
     },
     "Enemy_Zombie_Junior": {
         "name": "Gibdo",
-        "count": 197
+        "count": 202
     },
     "Enemy_Zombie_Junior_Defense": {
         "name": "Gibdo",
@@ -11169,11 +12037,11 @@
     },
     "Enemy_Zonau_Golem_Junior": {
         "name": "Captain Construct I",
-        "count": 18
+        "count": 19
     },
     "Enemy_Zonau_Golem_Middle": {
         "name": "Captain Construct II",
-        "count": 7
+        "count": 9
     },
     "Enemy_Zonau_Golem_Middle : SpObj_FlameThrower_A_01": {
         "name": "Captain Construct II",
@@ -11190,6 +12058,10 @@
     "Enemy_Zonau_Golem_Senior": {
         "name": "Captain Construct III",
         "count": 9
+    },
+    "Enemy_Zonau_Golem_Senior : Weapon_Sword_163": {
+        "name": "Captain Construct III : Strong Zonaite Sword",
+        "count": 1
     },
     "Enemy_Zonau_Robot_Junior": {
         "name": "Soldier Construct I",
@@ -11269,7 +12141,15 @@
     },
     "Enemy_Zonau_Robot_Middle : Weapon_Bow_105": {
         "name": "Soldier Construct II : Strong Construct Bow",
-        "count": 5
+        "count": 12
+    },
+    "Enemy_Zonau_Robot_Middle : Weapon_Bow_105 : FireFruit": {
+        "name": "Soldier Construct II : Strong Construct Bow : Fire Fruit",
+        "count": 3
+    },
+    "Enemy_Zonau_Robot_Middle : Weapon_Bow_105 : IceFruit": {
+        "name": "Soldier Construct II : Strong Construct Bow : Ice Fruit",
+        "count": 1
     },
     "Enemy_Zonau_Robot_Middle : Weapon_Lsword_020": {
         "name": "Soldier Construct II : Rusty Claymore",
@@ -11277,7 +12157,7 @@
     },
     "Enemy_Zonau_Robot_Middle : Weapon_Lsword_101": {
         "name": "Soldier Construct II : Zonaite Longsword",
-        "count": 2
+        "count": 3
     },
     "Enemy_Zonau_Robot_Middle : Weapon_Lsword_101 : SpObj_FlameThrower_A_01": {
         "name": "Soldier Construct II : Zonaite Longsword",
@@ -11297,11 +12177,15 @@
     },
     "Enemy_Zonau_Robot_Middle : Weapon_Spear_021": {
         "name": "Soldier Construct II : Rusty Halberd",
+        "count": 2
+    },
+    "Enemy_Zonau_Robot_Middle : Weapon_Spear_101 : SpObj_FlameThrower_A_01": {
+        "name": "Soldier Construct II : Zonaite Spear",
         "count": 1
     },
     "Enemy_Zonau_Robot_Middle : Weapon_Spear_108": {
         "name": "Soldier Construct II : Sturdy Long Stick",
-        "count": 2
+        "count": 3
     },
     "Enemy_Zonau_Robot_Middle : Weapon_Spear_108 : SpObj_ElectricBoxGenerator": {
         "name": "Soldier Construct II : Sturdy Long Stick",
@@ -11325,7 +12209,7 @@
     },
     "Enemy_Zonau_Robot_Middle : Weapon_Sword_021 : Weapon_Shield_101": {
         "name": "Soldier Construct II : Rusty Broadsword : Zonaite Shield",
-        "count": 2
+        "count": 4
     },
     "Enemy_Zonau_Robot_Middle : Weapon_Sword_101": {
         "name": "Soldier Construct II : Zonaite Sword",
@@ -11337,7 +12221,7 @@
     },
     "Enemy_Zonau_Robot_Middle : Weapon_Sword_101 : Weapon_Shield_101": {
         "name": "Soldier Construct II : Zonaite Sword : Zonaite Shield",
-        "count": 4
+        "count": 5
     },
     "Enemy_Zonau_Robot_Middle : Weapon_Sword_108": {
         "name": "Soldier Construct II : Sturdy Wooden Stick",
@@ -11345,7 +12229,7 @@
     },
     "Enemy_Zonau_Robot_Middle : Weapon_Sword_108 : Weapon_Shield_107": {
         "name": "Soldier Construct II : Sturdy Wooden Stick : Old Wooden Shield",
-        "count": 5
+        "count": 6
     },
     "Enemy_Zonau_Robot_Middle : Weapon_Sword_168": {
         "name": "Soldier Construct II : Wooden Stick",
@@ -11365,7 +12249,7 @@
     },
     "Enemy_Zonau_Robot_Middle_Lookout : Weapon_Bow_105": {
         "name": "Soldier Construct II : Strong Construct Bow",
-        "count": 16
+        "count": 19
     },
     "Enemy_Zonau_Robot_Middle_Lookout : Weapon_Bow_105 : ElectricalFruit": {
         "name": "Soldier Construct II : Strong Construct Bow : Shock Fruit",
@@ -11419,9 +12303,25 @@
         "name": "Soldier Construct II : Wooden Stick : Old Wooden Shield",
         "count": 2
     },
+    "Enemy_Zonau_Robot_Senior : Weapon_Bow_015": {
+        "name": "Soldier Construct III : Gerudo Bow",
+        "count": 1
+    },
     "Enemy_Zonau_Robot_Senior : Weapon_Bow_106": {
         "name": "Soldier Construct III : Mighty Construct Bow",
-        "count": 4
+        "count": 5
+    },
+    "Enemy_Zonau_Robot_Senior : Weapon_Bow_106 : ElectricalFruit": {
+        "name": "Soldier Construct III : Mighty Construct Bow : Shock Fruit",
+        "count": 1
+    },
+    "Enemy_Zonau_Robot_Senior : Weapon_Bow_106 : FireFruit": {
+        "name": "Soldier Construct III : Mighty Construct Bow : Fire Fruit",
+        "count": 1
+    },
+    "Enemy_Zonau_Robot_Senior : Weapon_Bow_106 : IceFruit": {
+        "name": "Soldier Construct III : Mighty Construct Bow : Ice Fruit",
+        "count": 1
     },
     "Enemy_Zonau_Robot_Senior : Weapon_Bow_106 : SpObj_Beamos_A_01": {
         "name": "Soldier Construct III : Mighty Construct Bow",
@@ -11429,6 +12329,10 @@
     },
     "Enemy_Zonau_Robot_Senior : Weapon_Lsword_101": {
         "name": "Soldier Construct III : Zonaite Longsword",
+        "count": 1
+    },
+    "Enemy_Zonau_Robot_Senior : Weapon_Lsword_101 : Item_Enemy_166": {
+        "name": "Soldier Construct III : Zonaite Longsword : Soldier Construct Horn",
         "count": 1
     },
     "Enemy_Zonau_Robot_Senior : Weapon_Lsword_108": {
@@ -11447,6 +12351,14 @@
         "name": "Soldier Construct III : Strong Zonaite Longsword",
         "count": 2
     },
+    "Enemy_Zonau_Robot_Senior : Weapon_Lsword_163 : Item_Enemy_166": {
+        "name": "Soldier Construct III : Strong Zonaite Longsword : Soldier Construct Horn",
+        "count": 1
+    },
+    "Enemy_Zonau_Robot_Senior : Weapon_Spear_101 : Item_Enemy_166": {
+        "name": "Soldier Construct III : Zonaite Spear : Soldier Construct Horn",
+        "count": 1
+    },
     "Enemy_Zonau_Robot_Senior : Weapon_Spear_108": {
         "name": "Soldier Construct III : Sturdy Long Stick",
         "count": 9
@@ -11454,6 +12366,10 @@
     "Enemy_Zonau_Robot_Senior : Weapon_Spear_108 : SpObj_ElectricBoxGenerator": {
         "name": "Soldier Construct III : Sturdy Long Stick",
         "count": 2
+    },
+    "Enemy_Zonau_Robot_Senior : Weapon_Spear_108 : SpObj_FlameThrower_A_01": {
+        "name": "Soldier Construct III : Sturdy Long Stick",
+        "count": 1
     },
     "Enemy_Zonau_Robot_Senior : Weapon_Spear_108 : SpObj_SnowMachine_A_01": {
         "name": "Soldier Construct III : Sturdy Long Stick",
@@ -11481,7 +12397,11 @@
     },
     "Enemy_Zonau_Robot_Senior : Weapon_Sword_108 : Weapon_Shield_107": {
         "name": "Soldier Construct III : Sturdy Wooden Stick : Old Wooden Shield",
-        "count": 7
+        "count": 12
+    },
+    "Enemy_Zonau_Robot_Senior : Weapon_Sword_163 : Item_Enemy_166 : Weapon_Shield_102": {
+        "name": "Soldier Construct III : Strong Zonaite Sword : Soldier Construct Horn : Strong Zonaite Shield",
+        "count": 1
     },
     "Enemy_Zonau_Robot_Senior : Weapon_Sword_163 : Weapon_Shield_102": {
         "name": "Soldier Construct III : Strong Zonaite Sword : Strong Zonaite Shield",
@@ -12347,6 +13267,10 @@
         "name": "",
         "count": 1
     },
+    "EventRequestActor : Dm_GE_0040": {
+        "name": "",
+        "count": 1
+    },
     "EventRequestActor : Dm_GO_0006": {
         "name": "",
         "count": 1
@@ -12356,6 +13280,14 @@
         "count": 1
     },
     "EventRequestActor : Dm_GO_0009": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_GO_0018": {
+        "name": "",
+        "count": 5
+    },
+    "EventRequestActor : Dm_GO_0028": {
         "name": "",
         "count": 1
     },
@@ -12376,6 +13308,14 @@
         "count": 1
     },
     "EventRequestActor : Dm_OT_0018": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_RT_0015": {
+        "name": "",
+        "count": 5
+    },
+    "EventRequestActor : Dm_RT_0041": {
         "name": "",
         "count": 1
     },
@@ -12436,6 +13376,26 @@
         "count": 1
     },
     "EventRequestActor : Dm_ZO_0018": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_ZO_0024": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_ZO_0025": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_ZO_0026": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_ZO_0027": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_ZO_0046": {
         "name": "",
         "count": 1
     },
@@ -12561,7 +13521,7 @@
     },
     "EventRequestActor : FocusOnGimmick_Basic": {
         "name": "",
-        "count": 4
+        "count": 11
     },
     "EventRequestActor : FocusOnGimmick_BasicCameraFront": {
         "name": "",
@@ -12572,6 +13532,22 @@
         "count": 1
     },
     "EventRequestActor : FocusOnGimmick_BasicNoPlayer_GerudoCave": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : FocusOnGimmick_BasicNoSE": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : FocusOnGimmick_FireRollPillarSwitch": {
+        "name": "",
+        "count": 2
+    },
+    "EventRequestActor : FocusOnGimmick_NoSENoPlayer": {
+        "name": "",
+        "count": 3
+    },
+    "EventRequestActor : FocusOnGimmick_Wait120": {
         "name": "",
         "count": 1
     },
@@ -12963,6 +13939,26 @@
         "name": "",
         "count": 1
     },
+    "EventRequestActor : LargeDungeonFire_TalkAboutSageSwitch": {
+        "name": "",
+        "count": 7
+    },
+    "EventRequestActor : LargeDungeonWater_TalkAboutSageSwitch": {
+        "name": "",
+        "count": 4
+    },
+    "EventRequestActor : LargeDungeonWind_BosssDoor_Alone": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : LargeDungeonWind_OpenBosss": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : LargeDungeonWind_TalkAboutSageSwitch": {
+        "name": "",
+        "count": 5
+    },
     "EventRequestActor : Lodge_Chemical001_DoorEvent": {
         "name": "",
         "count": 1
@@ -13252,6 +14248,14 @@
         "count": 13
     },
     "EventRequestActor : NoticeChangeFollowModeYunbo": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : NoticeChangeFollowModeYunbo_BossDoor": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : NoticeChangeFollowModeYunbo_Dungeon": {
         "name": "",
         "count": 1
     },
@@ -13783,6 +14787,10 @@
         "name": "",
         "count": 1
     },
+    "EventRequestActor : SageOfFire_AppearBoss": {
+        "name": "",
+        "count": 1
+    },
     "EventRequestActor : SageOfFire_DefeatBossMiddle": {
         "name": "",
         "count": 1
@@ -13815,7 +14823,23 @@
         "name": "",
         "count": 1
     },
+    "EventRequestActor : SageOfFire_EnterLargeDungeon": {
+        "name": "",
+        "count": 1
+    },
     "EventRequestActor : SageOfFire_MiddleBoss_OutOfRange": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfFire_OpenBossDoor": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfFire_OpenBossDoor_Alone": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfFire_TouchSecretStone": {
         "name": "",
         "count": 1
     },
@@ -13887,13 +14911,125 @@
         "name": "",
         "count": 1
     },
+    "EventRequestActor : SageOfGerudo_PyramidAriJikokuOpen": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidAscendingCurrent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidBossAppear": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidBossAppearAgain": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidBossEscape": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidCircularDoor": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidDungeon_FirstIn": {
+        "name": "",
+        "count": 1
+    },
     "EventRequestActor : SageOfGerudo_PyramidFind": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidFirstLightSwitchON": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidLiftConsole": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidLiftConsoleQuery": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidLiftRecovery": {
         "name": "",
         "count": 1
     },
     "EventRequestActor : SageOfGerudo_PyramidLightStatue": {
         "name": "",
-        "count": 3
+        "count": 6
+    },
+    "EventRequestActor : SageOfGerudo_PyramidLightStatueFence": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidMirrorRoomTrap": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidNorthRoomClear": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidRougeInfo1": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidRougeInfo2": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidRougeInfo3": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidRougeInfo4": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidRougeInfo5": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidRougeInfo7": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidRougeInfo8": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidSwitchON1": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidSwitchON2": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidSwitchON3": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidSwitchON4": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidTrapFireBall": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidTrapUnlock1": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidTrapUnlock2": {
+        "name": "",
+        "count": 1
     },
     "EventRequestActor : SageOfGerudo_RougeTraining1OK": {
         "name": "",
@@ -13991,6 +15127,14 @@
         "name": "",
         "count": 1
     },
+    "EventRequestActor : SageOfWind_GoDungeon": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfWind_GoDungeonAir": {
+        "name": "",
+        "count": 1
+    },
     "EventRequestActor : SageOfWind_GoToCave": {
         "name": "",
         "count": 1
@@ -14019,11 +15163,23 @@
         "name": "",
         "count": 1
     },
+    "EventRequestActor : SageOfZora_Central_Console": {
+        "name": "",
+        "count": 1
+    },
     "EventRequestActor : SageOfZora_ClearZoraTemple": {
         "name": "",
         "count": 4
     },
+    "EventRequestActor : SageOfZora_DefetBoss": {
+        "name": "",
+        "count": 1
+    },
     "EventRequestActor : SageOfZora_DefetMiddleBoss": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfZora_IgnoreCenterShido": {
         "name": "",
         "count": 1
     },
@@ -14462,6 +15618,10 @@
     "FireWood_Uotori": {
         "name": "",
         "count": 2
+    },
+    "Firone_0018_DemoCover_A_02": {
+        "name": "",
+        "count": 1
     },
     "FldObj_AkkareCannon_A_01": {
         "name": "",
@@ -15605,7 +16765,7 @@
     },
     "FldObj_CliffDeathMt_B_15": {
         "name": "",
-        "count": 27
+        "count": 29
     },
     "FldObj_CliffDeathMt_B_16": {
         "name": "",
@@ -16053,19 +17213,19 @@
     },
     "FldObj_CliffGrayParts_A_01": {
         "name": "",
-        "count": 60
+        "count": 62
     },
     "FldObj_CliffGrayParts_A_01_Far": {
         "name": "",
-        "count": 60
+        "count": 62
     },
     "FldObj_CliffGrayParts_A_04": {
         "name": "",
-        "count": 159
+        "count": 161
     },
     "FldObj_CliffGrayParts_A_04_Far": {
         "name": "",
-        "count": 159
+        "count": 161
     },
     "FldObj_CliffGrayParts_A_05": {
         "name": "",
@@ -16093,11 +17253,11 @@
     },
     "FldObj_CliffGrayParts_A_08": {
         "name": "",
-        "count": 172
+        "count": 173
     },
     "FldObj_CliffGrayParts_A_08_Far": {
         "name": "",
-        "count": 172
+        "count": 173
     },
     "FldObj_CliffGrayParts_A_10": {
         "name": "",
@@ -18591,6 +19751,26 @@
         "name": "",
         "count": 5
     },
+    "FldObj_DeathMtLavaFall_A_09": {
+        "name": "",
+        "count": 4
+    },
+    "FldObj_DeathMtLavaFall_A_10": {
+        "name": "",
+        "count": 1
+    },
+    "FldObj_DeathMtLavaFall_A_10_Far": {
+        "name": "",
+        "count": 1
+    },
+    "FldObj_DeathMtLavaFall_A_11": {
+        "name": "",
+        "count": 2
+    },
+    "FldObj_DeathMtLavaFall_A_11_Far": {
+        "name": "",
+        "count": 2
+    },
     "FldObj_DeathMtLavaFall_A_12": {
         "name": "",
         "count": 1
@@ -18614,6 +19794,10 @@
     "FldObj_DeathMtLavaFall_B_06_Far": {
         "name": "",
         "count": 5
+    },
+    "FldObj_DeathMtLavaFall_B_09": {
+        "name": "",
+        "count": 7
     },
     "FldObj_DeathMtRockFloor_A_01": {
         "name": "",
@@ -20495,6 +21679,10 @@
         "name": "",
         "count": 1
     },
+    "FldObj_Gerudo_ZombieNestCap_A_01": {
+        "name": "",
+        "count": 1
+    },
     "FldObj_Gerudo_ZombieNestParts_A_01": {
         "name": "",
         "count": 10
@@ -20545,11 +21733,23 @@
     },
     "FldObj_Gerudo_ZombieNest_A_02": {
         "name": "",
-        "count": 4
+        "count": 8
     },
     "FldObj_Gerudo_ZombieNest_A_02_ForDungeonBossGerudoBattle": {
         "name": "",
-        "count": 16
+        "count": 20
+    },
+    "FldObj_Gerudo_ZombieNest_A_04": {
+        "name": "",
+        "count": 1
+    },
+    "FldObj_Gerudo_ZombieNest_A_05": {
+        "name": "",
+        "count": 1
+    },
+    "FldObj_Gerudo_ZombieNest_A_05_Far": {
+        "name": "",
+        "count": 1
     },
     "FldObj_Giant_Bone": {
         "name": "",
@@ -20777,11 +21977,11 @@
     },
     "FldObj_HugeMazeElevator_A_01": {
         "name": "",
-        "count": 4
+        "count": 32
     },
     "FldObj_HugeMazeElevator_A_01_Far": {
         "name": "",
-        "count": 4
+        "count": 32
     },
     "FldObj_HugeMazeElevator_A_02": {
         "name": "",
@@ -21073,19 +22273,19 @@
     },
     "FldObj_HugeMazeRoof_A_02": {
         "name": "",
-        "count": 12
+        "count": 43
     },
     "FldObj_HugeMazeRoof_A_02_Far": {
         "name": "",
-        "count": 12
+        "count": 43
     },
     "FldObj_HugeMazeRoof_A_04": {
         "name": "",
-        "count": 10
+        "count": 19
     },
     "FldObj_HugeMazeRoof_A_04_Far": {
         "name": "",
-        "count": 10
+        "count": 19
     },
     "FldObj_HugeMazeRoof_B_02": {
         "name": "",
@@ -25345,13 +26545,17 @@
     },
     "FldObj_Tar_L_02": {
         "name": "",
-        "count": 13
+        "count": 14
     },
     "FldObj_Tar_S_03": {
         "name": "",
-        "count": 2
+        "count": 4
     },
     "FldObj_Tar_S_04": {
+        "name": "",
+        "count": 1
+    },
+    "FldObj_Tar_S_05": {
         "name": "",
         "count": 1
     },
@@ -25360,6 +26564,10 @@
         "count": 1
     },
     "FldObj_Tar_S_07": {
+        "name": "",
+        "count": 1
+    },
+    "FldObj_Tar_S_08": {
         "name": "",
         "count": 1
     },
@@ -25845,11 +27053,11 @@
     },
     "FldObj_WaterFallBottom_A_02": {
         "name": "",
-        "count": 144
+        "count": 148
     },
     "FldObj_WaterFallBottom_A_02_Far": {
         "name": "",
-        "count": 144
+        "count": 148
     },
     "FldObj_WaterFallBottom_A_03": {
         "name": "",
@@ -26301,7 +27509,7 @@
     },
     "FldObj_WaterPlaneCircle_A_01": {
         "name": "",
-        "count": 30
+        "count": 31
     },
     "FldObj_WaterPlaneCircle_A_02": {
         "name": "",
@@ -26329,7 +27537,7 @@
     },
     "FldObj_WaterPlane_A_01": {
         "name": "",
-        "count": 452
+        "count": 458
     },
     "FldObj_WaterPlane_A_01_Dynamic": {
         "name": "",
@@ -26521,7 +27729,7 @@
     },
     "FldObj_ZonauAlarm_A_01": {
         "name": "",
-        "count": 18
+        "count": 19
     },
     "FldObj_ZonauCircle_B_L_01": {
         "name": "",
@@ -27213,7 +28421,7 @@
     },
     "FldObj_ZonauRuinDebris_A_02": {
         "name": "",
-        "count": 133
+        "count": 134
     },
     "FldObj_ZonauRuinDebris_A_03": {
         "name": "",
@@ -27264,6 +28472,14 @@
         "count": 1
     },
     "FldObj_Zonau_RuinPicture_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "FldObj_Zonau_RuinStairs_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "FldObj_Zonau_RuinStairs_A_01_Far": {
         "name": "",
         "count": 1
     },
@@ -27445,7 +28661,7 @@
     },
     "ForbidAutoPlacementAreaBox": {
         "name": "",
-        "count": 166
+        "count": 168
     },
     "ForbidAutoPlacementAreaCylinder": {
         "name": "",
@@ -27453,7 +28669,7 @@
     },
     "ForbidAutoPlacementAreaOnlyBox": {
         "name": "",
-        "count": 669
+        "count": 670
     },
     "ForbidAutoPlacementAreaOnlyCylinder": {
         "name": "",
@@ -27461,7 +28677,7 @@
     },
     "ForbidAutoPlacementAreaOnlySphere": {
         "name": "",
-        "count": 3715
+        "count": 3716
     },
     "ForbidAutoPlacementAreaSphere": {
         "name": "",
@@ -27482,6 +28698,10 @@
     "FossilExcavationArea": {
         "name": "",
         "count": 41
+    },
+    "GameDataForLoadLargeDungeon": {
+        "name": "",
+        "count": 4
     },
     "GameRomHorse00L": {
         "name": "Giant Horse",
@@ -27551,13 +28771,17 @@
         "name": "",
         "count": 1
     },
+    "GroundControlActor_MoveTo": {
+        "name": "",
+        "count": 1
+    },
     "GroundControlActor_ResidentMoveTo": {
         "name": "",
-        "count": 30
+        "count": 33
     },
     "GroundControlActor_Rotate": {
         "name": "",
-        "count": 23
+        "count": 24
     },
     "GroundControlActor_SimpleMoveAndStop": {
         "name": "",
@@ -27565,7 +28789,7 @@
     },
     "GroundControlActor_SimpleMoveTo": {
         "name": "",
-        "count": 24
+        "count": 35
     },
     "GroundControlActor_WaveLoop": {
         "name": "",
@@ -28125,7 +29349,7 @@
     },
     "IceWall": {
         "name": "",
-        "count": 163
+        "count": 168
     },
     "IceWallRuins": {
         "name": "",
@@ -28133,7 +29357,7 @@
     },
     "InsectSoundLocator": {
         "name": "",
-        "count": 14470
+        "count": 14478
     },
     "InvisibleSpeakerNPC": {
         "name": "",
@@ -28235,6 +29459,10 @@
         "name": "White Chuchu Jelly",
         "count": 9
     },
+    "Item_Enemy_18": {
+        "name": "Keese Wing",
+        "count": 2
+    },
     "Item_Enemy_21": {
         "name": "Octorok Eyeball",
         "count": 1
@@ -28253,7 +29481,7 @@
     },
     "Item_Enemy_69": {
         "name": "Gibdo Bone",
-        "count": 5
+        "count": 8
     },
     "Item_FishGet_A": {
         "name": "Hyrule Bass",
@@ -28433,11 +29661,11 @@
     },
     "Item_Mushroom_A": {
         "name": "Stamella Shroom",
-        "count": 550
+        "count": 551
     },
     "Item_Mushroom_B": {
         "name": "Chillshroom",
-        "count": 467
+        "count": 468
     },
     "Item_Mushroom_C": {
         "name": "Sunshroom",
@@ -28461,7 +29689,7 @@
     },
     "Item_Mushroom_J": {
         "name": "Silent Shroom",
-        "count": 677
+        "count": 678
     },
     "Item_Mushroom_K": {
         "name": "Brightcap",
@@ -28493,7 +29721,7 @@
     },
     "Item_Ore_B": {
         "name": "Ruby",
-        "count": 6
+        "count": 7
     },
     "Item_Ore_B_GoronDisplay": {
         "name": "Ruby",
@@ -28589,7 +29817,7 @@
     },
     "Item_Plant_I": {
         "name": "Blue Nightshade",
-        "count": 243
+        "count": 244
     },
     "Item_Plant_I_OwnedByNpc": {
         "name": "Blue Nightshade",
@@ -28745,11 +29973,15 @@
     },
     "KibakoSky_Contain_01": {
         "name": "Wooden Box",
-        "count": 86
+        "count": 88
     },
     "KibakoSky_Contain_01 : Drop__DropTable_Arrow": {
         "name": "Wooden Box",
         "count": 8
+    },
+    "KibakoSky_Contain_01 : Drop__DropTable_Castle_Arrow": {
+        "name": "Wooden Box",
+        "count": 9
     },
     "KibakoSky_Contain_01 : Drop__DropTable_Minus": {
         "name": "Wooden Box",
@@ -28937,7 +30169,27 @@
     },
     "LargeDungeonCheckPoint": {
         "name": "",
-        "count": 7
+        "count": 29
+    },
+    "LargeDungeonFloorArea : LargeDungeonFire_1F": {
+        "name": "Fire Temple 1F",
+        "count": 13
+    },
+    "LargeDungeonFloorArea : LargeDungeonFire_2F": {
+        "name": "Fire Temple 2F",
+        "count": 16
+    },
+    "LargeDungeonFloorArea : LargeDungeonFire_3F": {
+        "name": "Fire Temple 3F",
+        "count": 8
+    },
+    "LargeDungeonFloorArea : LargeDungeonFire_4F": {
+        "name": "Fire Temple 4F",
+        "count": 8
+    },
+    "LargeDungeonFloorArea : LargeDungeonFire_5F": {
+        "name": "Fire Temple 5F",
+        "count": 5
     },
     "LargeDungeonFloorArea : LargeDungeonHyruleCastle_1F": {
         "name": "Hyrule Castle 1F",
@@ -28954,6 +30206,58 @@
     "LargeDungeonFloorArea : LargeDungeonHyruleCastle_B3": {
         "name": "Hyrule Castle B3",
         "count": 13
+    },
+    "LargeDungeonFloorArea : LargeDungeonThunder_1F": {
+        "name": "Lightning Temple 1F",
+        "count": 6
+    },
+    "LargeDungeonFloorArea : LargeDungeonThunder_2F": {
+        "name": "Lightning Temple 2F",
+        "count": 2
+    },
+    "LargeDungeonFloorArea : LargeDungeonThunder_3F": {
+        "name": "Lightning Temple 3F",
+        "count": 3
+    },
+    "LargeDungeonFloorArea : LargeDungeonThunder_4F": {
+        "name": "Lightning Temple 4F",
+        "count": 5
+    },
+    "LargeDungeonFloorArea : LargeDungeonThunder_5F": {
+        "name": "Lightning Temple 5F",
+        "count": 1
+    },
+    "LargeDungeonFloorArea : LargeDungeonThunder_6F": {
+        "name": "Lightning Temple 6F",
+        "count": 1
+    },
+    "LargeDungeonFloorArea : LargeDungeonThunder_7F": {
+        "name": "Lightning Temple 7F",
+        "count": 2
+    },
+    "LargeDungeonFloorArea : LargeDungeonThunder_B1": {
+        "name": "Lightning Temple B1",
+        "count": 5
+    },
+    "LargeDungeonFloorArea : LargeDungeonWater": {
+        "name": "Water Temple",
+        "count": 4
+    },
+    "LargeDungeonFloorArea : LargeDungeonWater_B1": {
+        "name": "Water Temple B1",
+        "count": 1
+    },
+    "LargeDungeonFloorArea : LargeDungeonWind_1F": {
+        "name": "Wind Temple 1F",
+        "count": 2
+    },
+    "LargeDungeonFloorArea : LargeDungeonWind_B1": {
+        "name": "Wind Temple B1",
+        "count": 2
+    },
+    "LargeDungeonFloorArea : LargeDungeonWind_B2": {
+        "name": "Wind Temple B2",
+        "count": 3
     },
     "LavaHaze_01": {
         "name": "",
@@ -30227,6 +31531,10 @@
         "name": "Meda Mountain Chasm",
         "count": 1
     },
+    "LocationArea : DeepHole_HyruleCastle": {
+        "name": "Hyrule Castle Chasm",
+        "count": 1
+    },
     "LocationArea : DeepHole_HyruleCastleEast": {
         "name": "Hyrule Castle Moat East Chasm",
         "count": 1
@@ -31015,6 +32323,34 @@
         "name": "Gerudo Canyon Stable",
         "count": 1
     },
+    "LocationArea : GerudoPyramidDungeon_1": {
+        "name": "Room of Hopeful Light",
+        "count": 1
+    },
+    "LocationArea : GerudoPyramidDungeon_2": {
+        "name": "Room of Ascension",
+        "count": 1
+    },
+    "LocationArea : GerudoPyramidDungeon_3": {
+        "name": "Room of Offered Light",
+        "count": 1
+    },
+    "LocationArea : GerudoPyramidDungeon_4": {
+        "name": "Room of Light and Flame",
+        "count": 1
+    },
+    "LocationArea : GerudoPyramidDungeon_5": {
+        "name": "Room of Light and Shade",
+        "count": 1
+    },
+    "LocationArea : GerudoPyramidDungeon_6": {
+        "name": "Room of Natural Light",
+        "count": 1
+    },
+    "LocationArea : GerudoPyramidDungeon_7": {
+        "name": "Room of Glorious Light",
+        "count": 1
+    },
     "LocationArea : Goron": {
         "name": "Goron City",
         "count": 2
@@ -31207,6 +32543,10 @@
         "name": "Lanayru Road - West Gate",
         "count": 1
     },
+    "LocationArea : LargeDungeonFire": {
+        "name": "Fire Temple",
+        "count": 2
+    },
     "LocationArea : LargeDungeonHyruleCastle": {
         "name": "Hyrule Castle",
         "count": 1
@@ -31214,6 +32554,18 @@
     "LocationArea : LargeDungeonSoul": {
         "name": "Spirit Temple",
         "count": 5
+    },
+    "LocationArea : LargeDungeonThunder": {
+        "name": "Lightning Temple",
+        "count": 9
+    },
+    "LocationArea : LargeDungeonWater": {
+        "name": "Water Temple",
+        "count": 3
+    },
+    "LocationArea : LargeDungeonWind": {
+        "name": "Wind Temple",
+        "count": 3
     },
     "LocationArea : LeMarbeBridge": {
         "name": "Jeddo Bridge",
@@ -35717,7 +37069,7 @@
     },
     "LotusLeaf": {
         "name": "",
-        "count": 298
+        "count": 301
     },
     "LowGravityAreaBox": {
         "name": "",
@@ -35889,7 +37241,7 @@
     },
     "MergedActorUncond": {
         "name": "",
-        "count": 50
+        "count": 58
     },
     "MergedActorUnifiedPrefab": {
         "name": "",
@@ -35901,15 +37253,15 @@
     },
     "MiasmaCancel_Sphere_150_ForManualPlace": {
         "name": "",
-        "count": 1
+        "count": 2
     },
     "MiasmaCancel_Sphere_5_ForManualPlace": {
         "name": "",
-        "count": 1626
+        "count": 1684
     },
     "MiasmaCancel_Sphere_5_ForManualPlace_Danse": {
         "name": "",
-        "count": 177
+        "count": 202
     },
     "MiasmaLv1_Sphere_5": {
         "name": "",
@@ -35935,9 +37287,21 @@
         "name": "",
         "count": 7
     },
+    "Miasma_DeepHole_Dense": {
+        "name": "",
+        "count": 2
+    },
+    "Miasma_DeepHole_HyruleCastle": {
+        "name": "",
+        "count": 2
+    },
+    "Miasma_DeepHole_Normal": {
+        "name": "",
+        "count": 23
+    },
     "Miasma_DeepHole_Sparse": {
         "name": "",
-        "count": 3
+        "count": 17
     },
     "Miasma_Sphere_150": {
         "name": "",
@@ -35945,7 +37309,7 @@
     },
     "Miasma_Sphere_5": {
         "name": "",
-        "count": 849
+        "count": 850
     },
     "Miasma_Sphere_5_ForDemo": {
         "name": "",
@@ -37073,7 +38437,7 @@
     },
     "MinusObj_RaumiFacility_Lamp_A_07": {
         "name": "",
-        "count": 84
+        "count": 86
     },
     "MinusObj_RaumiFacility_Lamp_A_08": {
         "name": "",
@@ -37157,11 +38521,11 @@
     },
     "MinusObj_Rock_A_02": {
         "name": "",
-        "count": 2
+        "count": 10
     },
     "MinusObj_Rock_A_02_Far": {
         "name": "",
-        "count": 2
+        "count": 10
     },
     "MinusObj_Rock_A_03": {
         "name": "",
@@ -37461,7 +38825,7 @@
     },
     "NavMeshBox": {
         "name": "",
-        "count": 159
+        "count": 161
     },
     "NavMeshCutAabb": {
         "name": "",
@@ -37469,11 +38833,11 @@
     },
     "NavMeshCutBoxArea": {
         "name": "",
-        "count": 539
+        "count": 545
     },
     "NavMeshCutCylinderArea": {
         "name": "",
-        "count": 76
+        "count": 78
     },
     "NavMeshEnemyOnlyAabb": {
         "name": "",
@@ -37553,7 +38917,7 @@
     },
     "NoEscapeRangeAreaBox": {
         "name": "",
-        "count": 41
+        "count": 42
     },
     "NoRespawnTag": {
         "name": "",
@@ -39969,7 +41333,7 @@
     },
     "Npc_Tulin_Sage": {
         "name": "",
-        "count": 4
+        "count": 5
     },
     "Npc_Tulin_Sage : Weapon_Bow_128": {
         "name": "",
@@ -40125,7 +41489,7 @@
     },
     "Npc_Zelda_Black_Event": {
         "name": "",
-        "count": 2
+        "count": 4
     },
     "Npc_Zonau_Golem_Servant_BaseCamp_01": {
         "name": "Steward Construct",
@@ -40825,7 +42189,7 @@
     },
     "Obj_ArrowBundle_A_01": {
         "name": "Arrow x 5",
-        "count": 56
+        "count": 57
     },
     "Obj_ArrowBundle_A_02": {
         "name": "Arrow x 10",
@@ -41047,6 +42411,10 @@
         "name": "",
         "count": 15
     },
+    "Obj_FallFloor_A_03": {
+        "name": "",
+        "count": 2
+    },
     "Obj_FallFloor_A_04": {
         "name": "",
         "count": 3
@@ -41161,7 +42529,7 @@
     },
     "Obj_FlowerCover_A_01": {
         "name": "",
-        "count": 64
+        "count": 66
     },
     "Obj_FlowerFluff_A_01": {
         "name": "",
@@ -41377,7 +42745,7 @@
     },
     "Obj_HardLavaBlock_A_02": {
         "name": "",
-        "count": 1
+        "count": 2
     },
     "Obj_HatenoLaboBook_A_01": {
         "name": "",
@@ -41413,7 +42781,7 @@
     },
     "Obj_HeartUtuwa_A_01": {
         "name": "Heart Container",
-        "count": 2
+        "count": 6
     },
     "Obj_IcicleMountainCover_A_01": {
         "name": "",
@@ -41591,9 +42959,13 @@
         "name": "",
         "count": 111
     },
+    "Obj_MineralGrain_A_06": {
+        "name": "",
+        "count": 14
+    },
     "Obj_Mineral_A_01": {
         "name": "Ore Deposit",
-        "count": 724
+        "count": 736
     },
     "Obj_Mineral_A_01 : Drop__DropTable_Flint": {
         "name": "Ore Deposit : Flint",
@@ -41605,7 +42977,7 @@
     },
     "Obj_Mineral_B_01": {
         "name": "Rare Ore Deposit",
-        "count": 187
+        "count": 189
     },
     "Obj_Mineral_B_01 : Drop__DropTable_Ruby": {
         "name": "Rare Ore Deposit : Ruby",
@@ -41773,7 +43145,7 @@
     },
     "Obj_Plant_Juniperus_A": {
         "name": "",
-        "count": 168
+        "count": 169
     },
     "Obj_Plant_Juniperus_A_Gray": {
         "name": "",
@@ -41793,7 +43165,7 @@
     },
     "Obj_Plant_Juniperus_B": {
         "name": "",
-        "count": 149
+        "count": 151
     },
     "Obj_Plant_Juniperus_B_Gray": {
         "name": "",
@@ -41813,7 +43185,7 @@
     },
     "Obj_Plant_Juniperus_C": {
         "name": "",
-        "count": 130
+        "count": 132
     },
     "Obj_Plant_Juniperus_C_Gray": {
         "name": "",
@@ -42069,19 +43441,31 @@
     },
     "Obj_RockBroken_Miasma_A_01": {
         "name": "",
-        "count": 29
+        "count": 30
+    },
+    "Obj_RockBroken_Miasma_A_01 : Drop__DropTable_Capsule": {
+        "name": "",
+        "count": 1
     },
     "Obj_RockBroken_Miasma_A_01 : Drop__DropTable_Miasma": {
         "name": "",
         "count": 5
     },
+    "Obj_RockBroken_Miasma_A_02": {
+        "name": "",
+        "count": 1
+    },
     "Obj_RockBroken_Miasma_A_03": {
         "name": "",
-        "count": 30
+        "count": 32
     },
     "Obj_RockBroken_Miasma_A_03 : Drop__DropTable_Miasma": {
         "name": "",
         "count": 10
+    },
+    "Obj_RockBroken_Miasma_A_05": {
+        "name": "",
+        "count": 1
     },
     "Obj_RockBroken_Miasma_A_06": {
         "name": "",
@@ -42089,7 +43473,7 @@
     },
     "Obj_RockBroken_Miasma_A_07": {
         "name": "",
-        "count": 8
+        "count": 10
     },
     "Obj_RockBroken_Miasma_A_07 : Drop__DropTable_Miasma": {
         "name": "",
@@ -42097,7 +43481,7 @@
     },
     "Obj_RockBroken_Miasma_A_08": {
         "name": "",
-        "count": 10
+        "count": 12
     },
     "Obj_RockBroken_Miasma_A_08 : Drop__DropTable_Miasma": {
         "name": "",
@@ -42117,7 +43501,7 @@
     },
     "Obj_RockDeathMtHardLava_C_M_08": {
         "name": "",
-        "count": 258
+        "count": 260
     },
     "Obj_RockDeathMt_A_L_03": {
         "name": "",
@@ -42129,15 +43513,15 @@
     },
     "Obj_RockDeathMt_C_L_03": {
         "name": "",
-        "count": 50
+        "count": 51
     },
     "Obj_RockDeathMt_C_L_06": {
         "name": "",
-        "count": 19
+        "count": 21
     },
     "Obj_RockDeathMt_C_L_07": {
         "name": "",
-        "count": 24
+        "count": 26
     },
     "Obj_RockDeathMt_C_L_08": {
         "name": "",
@@ -42146,6 +43530,18 @@
     "Obj_RockDeathMt_C_L_08_Far": {
         "name": "",
         "count": 130
+    },
+    "Obj_RockDeathMt_C_L_09": {
+        "name": "",
+        "count": 8
+    },
+    "Obj_RockDeathMt_C_L_10": {
+        "name": "",
+        "count": 4
+    },
+    "Obj_RockDeathMt_C_L_11": {
+        "name": "",
+        "count": 1
     },
     "Obj_RockDeathMt_D_L_01": {
         "name": "",
@@ -42157,11 +43553,11 @@
     },
     "Obj_RockDeathMt_D_L_03": {
         "name": "",
-        "count": 177
+        "count": 179
     },
     "Obj_RockDeathMt_D_L_03_Far": {
         "name": "",
-        "count": 177
+        "count": 179
     },
     "Obj_RockDeathMt_D_L_06": {
         "name": "",
@@ -42173,19 +43569,19 @@
     },
     "Obj_RockGray_A_L_01": {
         "name": "",
-        "count": 146
+        "count": 149
     },
     "Obj_RockGray_A_L_02": {
         "name": "",
-        "count": 134
+        "count": 137
     },
     "Obj_RockGray_A_L_03": {
         "name": "",
-        "count": 252
+        "count": 258
     },
     "Obj_RockGray_A_M_01": {
         "name": "",
-        "count": 153
+        "count": 154
     },
     "Obj_RockGray_A_M_03": {
         "name": "",
@@ -42193,7 +43589,7 @@
     },
     "Obj_RockGray_A_M_06": {
         "name": "",
-        "count": 204
+        "count": 207
     },
     "Obj_RockHoleKorok_A_01": {
         "name": "",
@@ -42373,23 +43769,23 @@
     },
     "Obj_RockSetDeathMt_F_01": {
         "name": "",
-        "count": 127
+        "count": 128
     },
     "Obj_RockSetDeathMt_F_01_Far": {
         "name": "",
-        "count": 127
+        "count": 128
     },
     "Obj_RockSetGray_A_02": {
         "name": "",
-        "count": 217
+        "count": 218
     },
     "Obj_RockSetGray_A_L_01": {
         "name": "",
-        "count": 186
+        "count": 188
     },
     "Obj_RockSetGray_A_L_02": {
         "name": "",
-        "count": 44
+        "count": 49
     },
     "Obj_RockSetSnow_A_01": {
         "name": "",
@@ -42598,6 +43994,10 @@
     "Obj_SecretBaseRockBroken_A_01": {
         "name": "",
         "count": 2
+    },
+    "Obj_SecretStone_A_01": {
+        "name": "",
+        "count": 5
     },
     "Obj_SecretStone_A_02": {
         "name": "",
@@ -43353,7 +44753,7 @@
     },
     "Obj_Tumbleweed_A_01": {
         "name": "",
-        "count": 1148
+        "count": 1149
     },
     "Obj_Village_IchikaraEnokidaCutout_A_01": {
         "name": "",
@@ -43457,7 +44857,7 @@
     },
     "Obj_Zonau_DeepElevator_A_01": {
         "name": "",
-        "count": 3
+        "count": 4
     },
     "Obj_Zonau_DeepElevator_A_02": {
         "name": "",
@@ -43471,17 +44871,21 @@
         "name": "",
         "count": 2
     },
+    "Obj_Zonau_GolemParts_HeadBeamPoint": {
+        "name": "",
+        "count": 1
+    },
     "Obj_Zonau_GolemParts_HeadLookAtPoint": {
         "name": "",
         "count": 1
     },
     "Obj_Zonau_GolemPrats_HeadBase_A_01": {
         "name": "",
-        "count": 2
+        "count": 3
     },
     "Obj_Zonau_GolemPrats_HeadBase_A_02": {
         "name": "",
-        "count": 2
+        "count": 3
     },
     "Obj_Zonau_RockRelief_A_02": {
         "name": "",
@@ -43685,11 +45089,11 @@
     },
     "PicObj_IcicleBase_A_01": {
         "name": "",
-        "count": 85
+        "count": 107
     },
     "PicObj_IcicleBase_A_02": {
         "name": "",
-        "count": 73
+        "count": 101
     },
     "PicObj_SnowHyliaWoodRuinWallWeak_A_01": {
         "name": "",
@@ -43763,9 +45167,13 @@
         "name": "",
         "count": 15
     },
+    "PyramidObj_GerudoUndergroundStatue_A_01_LightSwitch": {
+        "name": "",
+        "count": 1
+    },
     "PyramidObj_GerudoUndergroundStatue_A_02_LightSwitch": {
         "name": "",
-        "count": 3
+        "count": 6
     },
     "RBox_Field_A : SpObj_FlameThrower_Capsule_A_01 : SpObj_WindGenerator_Capsule_A_01 : SpObj_CookSet_Capsule_A_01": {
         "name": "Recycle Box : Flame Emitter : Fan : Portable Pot",
@@ -43905,7 +45313,7 @@
     },
     "RaumiGolem_Parts_Head": {
         "name": "",
-        "count": 1
+        "count": 2
     },
     "RaumiGolem_Parts_Head_A": {
         "name": "",
@@ -43913,7 +45321,7 @@
     },
     "RaumiGolem_Parts_Head_Anchor": {
         "name": "",
-        "count": 2
+        "count": 3
     },
     "RaumiGolem_Parts_Head_B": {
         "name": "",
@@ -44017,7 +45425,7 @@
     },
     "SS_object_ShutterFenceOnly00": {
         "name": "",
-        "count": 1
+        "count": 3
     },
     "SageLightOrbAreaBox": {
         "name": "",
@@ -44026,6 +45434,14 @@
     "SageLightOrbAreaSphere": {
         "name": "",
         "count": 2
+    },
+    "SageTransOrderAnchor": {
+        "name": "",
+        "count": 22
+    },
+    "SageTransOrderArea": {
+        "name": "",
+        "count": 22
     },
     "SageUnsummonArea": {
         "name": "",
@@ -45403,6 +46819,10 @@
         "name": "",
         "count": 83
     },
+    "SkyObj_Rito_StonePillar_A_01": {
+        "name": "",
+        "count": 1
+    },
     "SkyObj_Rito_TagArea_A_01": {
         "name": "",
         "count": 2
@@ -45417,7 +46837,7 @@
     },
     "SkyObj_Rito_ThinFilmBoard_A_02": {
         "name": "",
-        "count": 5
+        "count": 6
     },
     "SkyObj_Rito_ThinFilmBoard_A_03": {
         "name": "",
@@ -45661,7 +47081,7 @@
     },
     "SkyObj_StoneLantern_A_01": {
         "name": "",
-        "count": 66
+        "count": 84
     },
     "SkyObj_StoneLantern_A_03": {
         "name": "",
@@ -46295,6 +47715,10 @@
         "name": "",
         "count": 1
     },
+    "SkyObj_WaterFallFlowing_A_01": {
+        "name": "",
+        "count": 3
+    },
     "SkyObj_WaterFallStone_A_03": {
         "name": "",
         "count": 19
@@ -46669,7 +48093,7 @@
     },
     "SkyObj_Zora_Faucet_A_01": {
         "name": "",
-        "count": 29
+        "count": 34
     },
     "SkyObj_Zora_TrickArt_Block_A_02": {
         "name": "",
@@ -46697,7 +48121,7 @@
     },
     "SkyOccluder": {
         "name": "",
-        "count": 21
+        "count": 22
     },
     "SkyOccluder_HyruleCastle": {
         "name": "",
@@ -46739,6 +48163,14 @@
         "name": "",
         "count": 1
     },
+    "SoundLocator_LargeDungeonWind_FloorHole_01": {
+        "name": "",
+        "count": 1
+    },
+    "SoundLocator_LargeDungeonWind_FloorHole_02": {
+        "name": "",
+        "count": 1
+    },
     "SoundLocator_SkyBell": {
         "name": "",
         "count": 1
@@ -46753,7 +48185,7 @@
     },
     "SpObj_BalloonEnvelope_A_01": {
         "name": "",
-        "count": 307
+        "count": 312
     },
     "SpObj_BalloonEnvelope_A_01_Static": {
         "name": "",
@@ -46775,9 +48207,17 @@
         "name": "",
         "count": 63
     },
+    "SpObj_Beamos_Capsule_A_01": {
+        "name": "Beam Emitter",
+        "count": 1
+    },
     "SpObj_Cannon_A_01": {
         "name": "",
         "count": 69
+    },
+    "SpObj_Cannon_Capsule_A_01": {
+        "name": "Cannon",
+        "count": 1
     },
     "SpObj_Cart_A_01": {
         "name": "",
@@ -46801,7 +48241,11 @@
     },
     "SpObj_ControlStick_Capsule_A_01": {
         "name": "Steering Stick",
-        "count": 3
+        "count": 4
+    },
+    "SpObj_CookSet_Capsule_A_01": {
+        "name": "Portable Pot",
+        "count": 1
     },
     "SpObj_ElectricBoxGenerator": {
         "name": "",
@@ -46845,11 +48289,11 @@
     },
     "SpObj_FlameThrower_A_01": {
         "name": "",
-        "count": 157
+        "count": 159
     },
     "SpObj_FlameThrower_Capsule_A_01": {
         "name": "Flame Emitter",
-        "count": 2
+        "count": 3
     },
     "SpObj_FlashLight_A_01": {
         "name": "",
@@ -46857,7 +48301,7 @@
     },
     "SpObj_FloatingStone_A_01": {
         "name": "",
-        "count": 205
+        "count": 218
     },
     "SpObj_GolemHead_A_01": {
         "name": "",
@@ -46873,11 +48317,11 @@
     },
     "SpObj_LiftableWaterPump_Capsule_A_01": {
         "name": "Hydrant",
-        "count": 1
+        "count": 6
     },
     "SpObj_LightMirror_A_01": {
         "name": "",
-        "count": 12
+        "count": 22
     },
     "SpObj_LightMirror_Capsule_A_01": {
         "name": "Mirror",
@@ -46885,7 +48329,7 @@
     },
     "SpObj_Pile_A_01": {
         "name": "",
-        "count": 192
+        "count": 196
     },
     "SpObj_Pile_Capsule_A_01": {
         "name": "Stake",
@@ -46893,11 +48337,11 @@
     },
     "SpObj_Rocket_A_01": {
         "name": "",
-        "count": 1138
+        "count": 1141
     },
     "SpObj_Rocket_Capsule_A_01": {
         "name": "Rocket",
-        "count": 1
+        "count": 4
     },
     "SpObj_SlipBoard_A_01": {
         "name": "",
@@ -46905,7 +48349,7 @@
     },
     "SpObj_SnowMachine_A_01": {
         "name": "",
-        "count": 19
+        "count": 20
     },
     "SpObj_SpringPiston_A_01": {
         "name": "",
@@ -46925,15 +48369,15 @@
     },
     "SpObj_TimerBomb_Capsule_A_01": {
         "name": "Time Bomb",
-        "count": 3
+        "count": 4
     },
     "SpObj_WaterPump_A_01": {
         "name": "",
-        "count": 32
+        "count": 46
     },
     "SpObj_WindGenerator_A_01": {
         "name": "",
-        "count": 1779
+        "count": 1805
     },
     "SpObj_WindGenerator_A_03": {
         "name": "",
@@ -46941,7 +48385,7 @@
     },
     "SpObj_WindGenerator_Capsule_A_01": {
         "name": "Fan",
-        "count": 12
+        "count": 13
     },
     "SpotBgmCaveFilterProhibitArea": {
         "name": "",
@@ -46983,13 +48427,17 @@
         "name": "",
         "count": 2
     },
+    "SpurGearSmall": {
+        "name": "",
+        "count": 1
+    },
     "StableHostelPictureInterestEmitActor": {
         "name": "",
         "count": 13
     },
     "StartPos": {
         "name": "",
-        "count": 582
+        "count": 592
     },
     "StaticGameDataAreaBox": {
         "name": "",
@@ -47001,7 +48449,7 @@
     },
     "StaticNavMeshCutArea": {
         "name": "",
-        "count": 15
+        "count": 19
     },
     "Steam_Hotspring_01": {
         "name": "",
@@ -47017,7 +48465,7 @@
     },
     "StopCeilingClipperAreaNoMerge": {
         "name": "",
-        "count": 7
+        "count": 8
     },
     "Strange_Beacon_CookSet": {
         "name": "",
@@ -47029,7 +48477,15 @@
     },
     "SwitchElectric0": {
         "name": "",
-        "count": 8
+        "count": 9
+    },
+    "SwitchGearSmall_LargeDungeonWind_A_01": {
+        "name": "",
+        "count": 1
+    },
+    "SwitchGearSmall_LargeDungeonWind_A_02": {
+        "name": "",
+        "count": 1
     },
     "SwitchGearSmall_ZonauFactory_01": {
         "name": "",
@@ -47037,6 +48493,86 @@
     },
     "SwitchHit": {
         "name": "",
+        "count": 2
+    },
+    "SwitchHitOnce": {
+        "name": "",
+        "count": 3
+    },
+    "SwitchStepOnce": {
+        "name": "",
+        "count": 1
+    },
+    "SwitchWaterWheel_A": {
+        "name": "",
+        "count": 1
+    },
+    "TBox_Dungeon_Iron : Item_Ore_C": {
+        "name": "Sapphire",
+        "count": 2
+    },
+    "TBox_Dungeon_Iron : Item_Ore_E": {
+        "name": "Opal",
+        "count": 1
+    },
+    "TBox_Dungeon_Iron : Item_Ore_M": {
+        "name": "Large Zonaite",
+        "count": 1
+    },
+    "TBox_Dungeon_Iron : Weapon_Sword_101": {
+        "name": "Zonaite Sword",
+        "count": 1
+    },
+    "TBox_Dungeon_Stone : Item_Enemy_131": {
+        "name": "Large Zonai Charge",
+        "count": 2
+    },
+    "TBox_Dungeon_Stone : Item_Ore_A": {
+        "name": "Diamond",
+        "count": 1
+    },
+    "TBox_Dungeon_Stone : Item_Ore_B": {
+        "name": "Ruby",
+        "count": 2
+    },
+    "TBox_Dungeon_Stone : Item_Ore_E": {
+        "name": "Opal",
+        "count": 1
+    },
+    "TBox_Dungeon_Stone : Item_Ore_L_Bundle_A": {
+        "name": "Zonaite",
+        "count": 1
+    },
+    "TBox_Dungeon_Stone : Item_Ore_M": {
+        "name": "Large Zonaite",
+        "count": 1
+    },
+    "TBox_Dungeon_Stone : Obj_ArrowBundle_A_02": {
+        "name": "Arrow x 10",
+        "count": 7
+    },
+    "TBox_Dungeon_Stone : Weapon_Bow_105": {
+        "name": "Strong Construct Bow",
+        "count": 1
+    },
+    "TBox_Dungeon_Stone : Weapon_Lsword_163": {
+        "name": "Strong Zonaite Longsword",
+        "count": 1
+    },
+    "TBox_Dungeon_Stone : Weapon_Shield_101": {
+        "name": "Zonaite Shield",
+        "count": 1
+    },
+    "TBox_Dungeon_Stone : Weapon_Shield_102": {
+        "name": "Strong Zonaite Shield",
+        "count": 1
+    },
+    "TBox_Dungeon_Stone : Weapon_Spear_101": {
+        "name": "Zonaite Spear",
+        "count": 1
+    },
+    "TBox_Dungeon_Stone : Weapon_Sword_163": {
+        "name": "Strong Zonaite Sword",
         "count": 1
     },
     "TBox_Field_Enemy : BombFruit_Bundle_B": {
@@ -47869,7 +49405,7 @@
     },
     "TBox_Field_Iron_Zonau : Obj_ArrowBundle_A_01": {
         "name": "Treasure Chest : Arrow x 5",
-        "count": 1
+        "count": 2
     },
     "TBox_Field_Iron_Zonau : Obj_SageWill": {
         "name": "Treasure Chest : Sage's Will",
@@ -47967,6 +49503,10 @@
         "name": "Treasure Chest : Big Battery",
         "count": 3
     },
+    "TBox_Field_Iron_Zonau : SpObj_FlameThrower_Capsule_A_01": {
+        "name": "Treasure Chest : Flame Emitter",
+        "count": 1
+    },
     "TBox_Field_Iron_Zonau : SpObj_FlameThrower_Capsule_A_01_Bundle_A": {
         "name": "Treasure Chest : Flame Emitter",
         "count": 2
@@ -47993,7 +49533,7 @@
     },
     "TBox_Field_Iron_Zonau : SpObj_LightMirror_Capsule_A_01_Bundle_A": {
         "name": "Treasure Chest : Mirror",
-        "count": 1
+        "count": 2
     },
     "TBox_Field_Iron_Zonau : SpObj_Pile_Capsule_A_01_Bundle_A": {
         "name": "Treasure Chest : Stake",
@@ -48029,7 +49569,7 @@
     },
     "TBox_Field_Iron_Zonau : Weapon_Bow_106": {
         "name": "Treasure Chest : Mighty Construct Bow",
-        "count": 1
+        "count": 2
     },
     "TBox_Field_Iron_Zonau : Weapon_Lsword_163": {
         "name": "Treasure Chest : Strong Zonaite Longsword",
@@ -48209,7 +49749,7 @@
     },
     "TBox_Field_Stone : Item_Ore_D": {
         "name": "Stone Treasure Chest : Topaz",
-        "count": 1
+        "count": 2
     },
     "TBox_Field_Stone : Item_Ore_E": {
         "name": "Stone Treasure Chest : Opal",
@@ -48393,6 +49933,10 @@
     },
     "TBox_Field_Stone : Weapon_Shield_035": {
         "name": "Stone Treasure Chest : Traveler's Shield",
+        "count": 1
+    },
+    "TBox_Field_Stone : Weapon_Shield_036": {
+        "name": "Stone Treasure Chest : Radiant Shield",
         "count": 1
     },
     "TBox_Field_Stone : Weapon_Shield_041": {
@@ -48621,7 +50165,11 @@
     },
     "TBox_Field_Stone_Zonau : Item_Enemy_131": {
         "name": "Stone Treasure Chest : Large Zonai Charge",
-        "count": 18
+        "count": 19
+    },
+    "TBox_Field_Stone_Zonau : Item_Ore_A": {
+        "name": "Stone Treasure Chest : Diamond",
+        "count": 1
     },
     "TBox_Field_Stone_Zonau : Item_Ore_B": {
         "name": "Stone Treasure Chest : Ruby",
@@ -48641,7 +50189,7 @@
     },
     "TBox_Field_Stone_Zonau : Item_Ore_D": {
         "name": "Stone Treasure Chest : Topaz",
-        "count": 2
+        "count": 3
     },
     "TBox_Field_Stone_Zonau : Item_Ore_D_Bundle_A": {
         "name": "Stone Treasure Chest : Topaz",
@@ -48849,7 +50397,7 @@
     },
     "TBox_Field_Stone_Zonau : Weapon_Lsword_101": {
         "name": "Stone Treasure Chest : Zonaite Longsword",
-        "count": 2
+        "count": 3
     },
     "TBox_Field_Stone_Zonau : Weapon_Lsword_164": {
         "name": "Stone Treasure Chest : Mighty Zonaite Longsword",
@@ -48857,6 +50405,10 @@
     },
     "TBox_Field_Stone_Zonau : Weapon_Shield_021": {
         "name": "Stone Treasure Chest : Rusty Shield",
+        "count": 1
+    },
+    "TBox_Field_Stone_Zonau : Weapon_Shield_025": {
+        "name": "Stone Treasure Chest : Zora Shield",
         "count": 1
     },
     "TBox_Field_Stone_Zonau : Weapon_Shield_057": {
@@ -48873,7 +50425,7 @@
     },
     "TBox_Field_Stone_Zonau : Weapon_Shield_103": {
         "name": "Stone Treasure Chest : Mighty Zonaite Shield",
-        "count": 5
+        "count": 6
     },
     "TBox_Field_Stone_Zonau : Weapon_Spear_101": {
         "name": "Stone Treasure Chest : Zonaite Spear",
@@ -49221,7 +50773,7 @@
     },
     "TrolleyRailManagementActor": {
         "name": "",
-        "count": 133
+        "count": 203
     },
     "TwnObjVillage_ZoraSignboard_C_01": {
         "name": "",
@@ -52395,6 +53947,22 @@
         "name": "",
         "count": 6
     },
+    "TwnObj_HyruleCastleZonauRockParts_A_01": {
+        "name": "",
+        "count": 2
+    },
+    "TwnObj_HyruleCastleZonauRockParts_A_01_Far": {
+        "name": "",
+        "count": 2
+    },
+    "TwnObj_HyruleCastleZonauRockParts_A_02": {
+        "name": "",
+        "count": 1
+    },
+    "TwnObj_HyruleCastleZonauRockParts_A_02_Far": {
+        "name": "",
+        "count": 1
+    },
     "TwnObj_HyruleCastleZonauRockParts_A_03": {
         "name": "",
         "count": 1
@@ -54457,11 +56025,11 @@
     },
     "TwnObj_Village_KorokDekuTreeLightBean_A_01": {
         "name": "",
-        "count": 51
+        "count": 56
     },
     "TwnObj_Village_KorokDekuTreeLightBean_A_02": {
         "name": "",
-        "count": 18
+        "count": 27
     },
     "TwnObj_Village_KorokDekuTree_A_Inside_01": {
         "name": "",
@@ -54477,7 +56045,7 @@
     },
     "TwnObj_Village_KorokLightBean_B_01": {
         "name": "",
-        "count": 31
+        "count": 36
     },
     "TwnObj_Village_KorokPot_A_S_Act_01": {
         "name": "",
@@ -54552,6 +56120,14 @@
         "count": 1
     },
     "TwnObj_Village_Korok_DekuTree_A_07_Far": {
+        "name": "",
+        "count": 1
+    },
+    "TwnObj_Village_Korok_DekuTree_A_08": {
+        "name": "",
+        "count": 1
+    },
+    "TwnObj_Village_Korok_DekuTree_A_08_Far": {
         "name": "",
         "count": 1
     },
@@ -56167,6 +57743,10 @@
         "name": "",
         "count": 1
     },
+    "UnitedActor_2dbe45be": {
+        "name": "",
+        "count": 1
+    },
     "UnitedActor_31d6f19a": {
         "name": "",
         "count": 1
@@ -56307,6 +57887,10 @@
         "name": "",
         "count": 1
     },
+    "UnitedActor_b1aaf9b3": {
+        "name": "",
+        "count": 1
+    },
     "UnitedActor_b2ba5801": {
         "name": "",
         "count": 1
@@ -56433,7 +58017,7 @@
     },
     "VelocitySetter": {
         "name": "",
-        "count": 42
+        "count": 46
     },
     "Vine": {
         "name": "",
@@ -56501,7 +58085,7 @@
     },
     "Weapon_Bow_015": {
         "name": "Gerudo Bow",
-        "count": 4
+        "count": 5
     },
     "Weapon_Bow_016": {
         "name": "Swallow Bow",
@@ -56541,7 +58125,7 @@
     },
     "Weapon_Bow_105": {
         "name": "Strong Construct Bow",
-        "count": 4
+        "count": 5
     },
     "Weapon_Bow_106": {
         "name": "Mighty Construct Bow",
@@ -56553,7 +58137,7 @@
     },
     "Weapon_Lsword_020": {
         "name": "Rusty Claymore",
-        "count": 50
+        "count": 51
     },
     "Weapon_Lsword_038": {
         "name": "Boat Oar",
@@ -56605,7 +58189,7 @@
     },
     "Weapon_Lsword_129": {
         "name": "Gerudo Claymore",
-        "count": 3
+        "count": 4
     },
     "Weapon_Lsword_136": {
         "name": "Cobble Crusher",
@@ -56673,7 +58257,7 @@
     },
     "Weapon_Shield_021": {
         "name": "Rusty Shield",
-        "count": 58
+        "count": 59
     },
     "Weapon_Shield_022": {
         "name": "Royal Shield",
@@ -56749,7 +58333,7 @@
     },
     "Weapon_Spear_021": {
         "name": "Rusty Halberd",
-        "count": 94
+        "count": 95
     },
     "Weapon_Spear_022": {
         "name": "Farmer's Pitchfork",
@@ -56797,7 +58381,7 @@
     },
     "Weapon_Spear_129": {
         "name": "Gerudo Spear",
-        "count": 4
+        "count": 5
     },
     "Weapon_Spear_147": {
         "name": "Royal Guard's Spear",
@@ -56805,7 +58389,7 @@
     },
     "Weapon_Spear_163": {
         "name": "Strong Zonaite Spear",
-        "count": 2
+        "count": 4
     },
     "Weapon_Spear_164": {
         "name": "Mighty Zonaite Spear",
@@ -56821,7 +58405,7 @@
     },
     "Weapon_Sword_021": {
         "name": "Rusty Broadsword",
-        "count": 127
+        "count": 128
     },
     "Weapon_Sword_022": {
         "name": "Soup Ladle",
@@ -56829,11 +58413,15 @@
     },
     "Weapon_Sword_043": {
         "name": "Torch",
-        "count": 49
+        "count": 54
     },
     "Weapon_Sword_044": {
         "name": "Tree Branch",
         "count": 29
+    },
+    "Weapon_Sword_070_ForGrabEvent : Grab_MasterSword": {
+        "name": "Master Sword",
+        "count": 1
     },
     "Weapon_Sword_071_Broken": {
         "name": "Decayed Master Sword",
@@ -56845,7 +58433,7 @@
     },
     "Weapon_Sword_103": {
         "name": "Wooden Stick",
-        "count": 76
+        "count": 79
     },
     "Weapon_Sword_105": {
         "name": "Boomerang",
@@ -56853,7 +58441,7 @@
     },
     "Weapon_Sword_106": {
         "name": "Traveler's Sword",
-        "count": 36
+        "count": 37
     },
     "Weapon_Sword_107": {
         "name": "Lizal Boomerang",
@@ -56885,7 +58473,7 @@
     },
     "Weapon_Sword_129": {
         "name": "Gerudo Scimitar",
-        "count": 4
+        "count": 5
     },
     "Weapon_Sword_147": {
         "name": "Royal Guard's Sword",
@@ -56919,6 +58507,10 @@
         "name": "Maritta Exchange Ruins Well",
         "count": 1
     },
+    "Well_0004": {
+        "name": "Rowan Plain Well",
+        "count": 1
+    },
     "Well_0005": {
         "name": "Irch Plain Well",
         "count": 1
@@ -56933,6 +58525,10 @@
     },
     "Well_0008": {
         "name": "Mount Gustaf Well",
+        "count": 1
+    },
+    "Well_0009": {
+        "name": "Mount Daphnes Well",
         "count": 1
     },
     "Well_0010": {
@@ -56969,6 +58565,10 @@
     },
     "Well_0018": {
         "name": "Bottomless Pond Well",
+        "count": 1
+    },
+    "Well_0019": {
+        "name": "South Nabi Lake Well",
         "count": 1
     },
     "Well_0023": {
