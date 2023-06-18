@@ -18703,7 +18703,270 @@
             }
         ]
     },
-    "EventRequestActor": {
+    "EventRequestActor : ActivateSkyIsland02": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 937.004,
+                "y": -2212.533,
+                "z": 1643.682
+            }
+        ]
+    },
+    "EventRequestActor : ActivateSkyIsland03": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 2073.965,
+                "y": 231.567,
+                "z": 1987.422
+            }
+        ]
+    },
+    "EventRequestActor : ActivateSkyIsland04": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -874.857,
+                "y": 4438.644,
+                "z": 2621.816
+            }
+        ]
+    },
+    "EventRequestActor : ActivateSkyIsland06": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 2102.084,
+                "y": 4490.139,
+                "z": 1158.236
+            }
+        ]
+    },
+    "EventRequestActor : ActivateSkyIsland10": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 1061.661,
+                "y": -3689.355,
+                "z": 1799.967
+            }
+        ]
+    },
+    "EventRequestActor : ActivateSkyIsland11": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -1676.543,
+                "y": 2423.091,
+                "z": 1478.347
+            }
+        ]
+    },
+    "EventRequestActor : ActivateSkyIsland13": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 3534.592,
+                "y": -941.133,
+                "z": 1018.498
+            }
+        ]
+    },
+    "EventRequestActor : ActivateSkyIsland14": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -3323.011,
+                "y": -1795.408,
+                "z": 1018.041
+            }
+        ]
+    },
+    "EventRequestActor : ActivateSkyIsland15": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 3529.666,
+                "y": 4655.408,
+                "z": 1017.518
+            }
+        ]
+    },
+    "EventRequestActor : Connect_AkkareMaze1": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 3696.207,
+                "y": 4663.917,
+                "z": 1198.288
+            }
+        ]
+    },
+    "EventRequestActor : Connect_GerudoMaze1": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -3513.481,
+                "y": -1794.795,
+                "z": 1196.378
+            }
+        ]
+    },
+    "EventRequestActor : Connect_TabantaMaze1": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 3535.928,
+                "y": -834.414,
+                "z": 1195.588
+            }
+        ]
+    },
+    "EventRequestActor : DivingSkyIsland_CourseOut01": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 783.502,
+                "y": -2330.506,
+                "z": 613.875
+            }
+        ]
+    },
+    "EventRequestActor : DivingSkyIsland_CourseOut02": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 2017.823,
+                "y": 226.123,
+                "z": 758.427
+            }
+        ]
+    },
+    "EventRequestActor : DivingSkyIsland_CourseOut03": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -813.02,
+                "y": 4474.903,
+                "z": 1120.06
+            }
+        ]
+    },
+    "EventRequestActor : DivingSkyIsland_Dm_SY_0001": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 1970.883,
+                "y": 161.831,
+                "z": 762.525
+            },
+            {
+                "x": 825.483,
+                "y": -2402.811,
+                "z": 618.918
+            },
+            {
+                "x": -846.26,
+                "y": 4546.802,
+                "z": 1124.543
+            }
+        ]
+    },
+    "EventRequestActor : DivingSkyIsland_Goal01": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 783.502,
+                "y": -2330.506,
+                "z": 615.49
+            }
+        ]
+    },
+    "EventRequestActor : DivingSkyIsland_Goal02": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 2017.823,
+                "y": 226.123,
+                "z": 760.191
+            }
+        ]
+    },
+    "EventRequestActor : DivingSkyIsland_Goal03": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -813.02,
+                "y": 4474.903,
+                "z": 1121.919
+            }
+        ]
+    },
+    "EventRequestActor : DivingSkyIsland_RingMissed01": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 783.502,
+                "y": -2330.506,
+                "z": 612.375
+            }
+        ]
+    },
+    "EventRequestActor : DivingSkyIsland_RingMissed02": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 2018.313,
+                "y": 226.218,
+                "z": 756.427
+            }
+        ]
+    },
+    "EventRequestActor : DivingSkyIsland_RingMissed03": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -813.415,
+                "y": 4474.595,
+                "z": 1118.06
+            }
+        ]
+    },
+    "EventRequestActor : DmF_OP_Title": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -1581.615,
+                "y": 380.113,
+                "z": 2263.709
+            }
+        ]
+    },
+    "EventRequestActor : DmF_SY_SmallDungeon1Open": {
         "name": "",
         "icons": [],
         "locations": [
@@ -18718,16 +18981,6 @@
                 "z": 433.614
             },
             {
-                "x": -3257.258,
-                "y": 1363.125,
-                "z": 439
-            },
-            {
-                "x": -3289.179,
-                "y": 1365.357,
-                "z": 434.5
-            },
-            {
                 "x": 3053.951,
                 "y": -2945.625,
                 "z": 901.473
@@ -18738,45 +18991,190 @@
                 "z": 1352.349
             },
             {
-                "x": 3354.879,
-                "y": -3174.554,
-                "z": 1376.416
-            },
-            {
-                "x": 2976.309,
-                "y": -2800.323,
-                "z": 873.97
-            },
-            {
-                "x": 3042.028,
-                "y": -2882.394,
-                "z": 1352.25
-            },
-            {
-                "x": 2979.462,
-                "y": -2850.454,
-                "z": 885.967
-            },
-            {
-                "x": 2941.401,
-                "y": -2786.625,
-                "z": 899.513
-            },
-            {
-                "x": 2951.439,
-                "y": -2800.96,
-                "z": 888.263
-            },
-            {
                 "x": 662.064,
                 "y": 3481.91,
                 "z": 1330.233
             },
             {
-                "x": 563.492,
-                "y": 3438.52,
-                "z": 1552.599
+                "x": 1203.565,
+                "y": 1885.901,
+                "z": 1255.703
             },
+            {
+                "x": -1782.483,
+                "y": 2347.003,
+                "z": 1480.356
+            },
+            {
+                "x": -2116.219,
+                "y": -1718.546,
+                "z": 1154.066
+            },
+            {
+                "x": 1974.741,
+                "y": 165.012,
+                "z": 763.525
+            },
+            {
+                "x": 824.202,
+                "y": -2397.978,
+                "z": 619.918
+            },
+            {
+                "x": -845.434,
+                "y": 4541.871,
+                "z": 1125.543
+            },
+            {
+                "x": 2684.834,
+                "y": -3858.907,
+                "z": 707.357
+            },
+            {
+                "x": 964.739,
+                "y": -3596.767,
+                "z": 1703.569
+            },
+            {
+                "x": 532.093,
+                "y": 2919.199,
+                "z": 955.881
+            },
+            {
+                "x": -320.61,
+                "y": -3542.682,
+                "z": 1969.587
+            },
+            {
+                "x": 3535,
+                "y": -966.181,
+                "z": 1016.346
+            },
+            {
+                "x": -3298.601,
+                "y": -1795,
+                "z": 1015.894
+            },
+            {
+                "x": 3503.544,
+                "y": 4655,
+                "z": 1015.371
+            },
+            {
+                "x": -1659.454,
+                "y": 386.165,
+                "z": 2303.507
+            },
+            {
+                "x": -916.572,
+                "y": 273.871,
+                "z": 1464.882
+            },
+            {
+                "x": -1503.598,
+                "y": 30.067,
+                "z": 1413.35
+            },
+            {
+                "x": -1378.712,
+                "y": 709.583,
+                "z": 1589.25
+            }
+        ]
+    },
+    "EventRequestActor : Dm_OP_0024": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -1765.09,
+                "y": 338.026,
+                "z": 2278.969
+            }
+        ]
+    },
+    "EventRequestActor : Dm_OP_0027": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -1752.536,
+                "y": 369.789,
+                "z": 2289.747
+            }
+        ]
+    },
+    "EventRequestActor : Dm_OP_0036": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -1305.592,
+                "y": 461.405,
+                "z": 1538.516
+            }
+        ]
+    },
+    "EventRequestActor : Dm_SY_0025": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 1485.992,
+                "y": 3673.977,
+                "z": 1162.5
+            },
+            {
+                "x": 2162.552,
+                "y": 4507.997,
+                "z": 1159.621
+            },
+            {
+                "x": -1490.899,
+                "y": -1257.935,
+                "z": 1012.768
+            },
+            {
+                "x": -2166.286,
+                "y": 1465.577,
+                "z": 590.413
+            },
+            {
+                "x": -2860.47,
+                "y": 2856.661,
+                "z": 1216.625
+            },
+            {
+                "x": 3405.441,
+                "y": -1798.257,
+                "z": 953.5
+            },
+            {
+                "x": 2815.012,
+                "y": 344.384,
+                "z": 1825.5
+            },
+            {
+                "x": -1209.833,
+                "y": 1762.217,
+                "z": 928.565
+            },
+            {
+                "x": -950.32,
+                "y": 4615.723,
+                "z": 1794.5
+            },
+            {
+                "x": 465.382,
+                "y": -3373.044,
+                "z": 1700.082
+            }
+        ]
+    },
+    "EventRequestActor : Dm_SY_0037": {
+        "name": "",
+        "icons": [],
+        "locations": [
             {
                 "x": 526.684,
                 "y": 3342.7,
@@ -18786,11 +19184,6 @@
                 "x": 868.662,
                 "y": 3471.435,
                 "z": 1282
-            },
-            {
-                "x": 622.728,
-                "y": 3411.663,
-                "z": 1569
             },
             {
                 "x": 2171.931,
@@ -18808,374 +19201,9 @@
                 "z": 1067.919
             },
             {
-                "x": 1485.992,
-                "y": 3673.977,
-                "z": 1162.5
-            },
-            {
-                "x": 2162.552,
-                "y": 4507.997,
-                "z": 1159.621
-            },
-            {
-                "x": 2102.084,
-                "y": 4490.139,
-                "z": 1158.236
-            },
-            {
-                "x": -1490.899,
-                "y": -1257.935,
-                "z": 1012.768
-            },
-            {
-                "x": 1203.565,
-                "y": 1885.901,
-                "z": 1255.703
-            },
-            {
-                "x": -2166.286,
-                "y": 1465.577,
-                "z": 590.413
-            },
-            {
-                "x": -1676.543,
-                "y": 2423.091,
-                "z": 1478.347
-            },
-            {
-                "x": -1782.483,
-                "y": 2347.003,
-                "z": 1480.356
-            },
-            {
-                "x": -2860.47,
-                "y": 2856.661,
-                "z": 1216.625
-            },
-            {
-                "x": -2116.219,
-                "y": -1718.546,
-                "z": 1154.066
-            },
-            {
-                "x": -1806.03,
-                "y": -1956.23,
-                "z": 1140.104
-            },
-            {
-                "x": 3405.441,
-                "y": -1798.257,
-                "z": 953.5
-            },
-            {
-                "x": 2815.012,
-                "y": 344.384,
-                "z": 1825.5
-            },
-            {
-                "x": 2017.823,
-                "y": 226.123,
-                "z": 760.191
-            },
-            {
-                "x": 1974.741,
-                "y": 165.012,
-                "z": 763.525
-            },
-            {
-                "x": 1970.883,
-                "y": 161.831,
-                "z": 762.525
-            },
-            {
-                "x": 2017.823,
-                "y": 226.123,
-                "z": 758.427
-            },
-            {
-                "x": 2073.965,
-                "y": 231.567,
-                "z": 1987.422
-            },
-            {
-                "x": 2018.313,
-                "y": 226.218,
-                "z": 756.427
-            },
-            {
-                "x": 783.502,
-                "y": -2330.506,
-                "z": 615.49
-            },
-            {
-                "x": 824.202,
-                "y": -2397.978,
-                "z": 619.918
-            },
-            {
-                "x": 825.483,
-                "y": -2402.811,
-                "z": 618.918
-            },
-            {
-                "x": 783.502,
-                "y": -2330.506,
-                "z": 613.875
-            },
-            {
-                "x": 937.004,
-                "y": -2212.533,
-                "z": 1643.682
-            },
-            {
-                "x": 783.502,
-                "y": -2330.506,
-                "z": 612.375
-            },
-            {
-                "x": -1209.833,
-                "y": 1762.217,
-                "z": 928.565
-            },
-            {
-                "x": -813.02,
-                "y": 4474.903,
-                "z": 1121.919
-            },
-            {
-                "x": -846.26,
-                "y": 4546.802,
-                "z": 1124.543
-            },
-            {
-                "x": -813.02,
-                "y": 4474.903,
-                "z": 1120.06
-            },
-            {
-                "x": -874.857,
-                "y": 4438.644,
-                "z": 2621.816
-            },
-            {
-                "x": -813.415,
-                "y": 4474.595,
-                "z": 1118.06
-            },
-            {
-                "x": -845.434,
-                "y": 4541.871,
-                "z": 1125.543
-            },
-            {
-                "x": -950.32,
-                "y": 4615.723,
-                "z": 1794.5
-            },
-            {
-                "x": 2684.834,
-                "y": -3858.907,
-                "z": 707.357
-            },
-            {
-                "x": 465.382,
-                "y": -3373.044,
-                "z": 1700.082
-            },
-            {
-                "x": 964.739,
-                "y": -3596.767,
-                "z": 1703.569
-            },
-            {
-                "x": 1061.661,
-                "y": -3689.355,
-                "z": 1799.967
-            },
-            {
-                "x": 532.093,
-                "y": 2919.199,
-                "z": 955.881
-            },
-            {
-                "x": -270.441,
-                "y": -3460.753,
-                "z": 1937.521
-            },
-            {
-                "x": -320.666,
-                "y": -3547.682,
-                "z": 1968.587
-            },
-            {
-                "x": -320.61,
-                "y": -3542.682,
-                "z": 1969.587
-            },
-            {
-                "x": 3534.592,
-                "y": -941.133,
-                "z": 1018.498
-            },
-            {
-                "x": 3535,
-                "y": -825.581,
-                "z": 1071.96
-            },
-            {
-                "x": 3652.5,
-                "y": -825.057,
-                "z": 1071.985
-            },
-            {
-                "x": 3417.5,
-                "y": -825.125,
-                "z": 1071.938
-            },
-            {
-                "x": 3535,
-                "y": -709.757,
-                "z": 1071.973
-            },
-            {
-                "x": 3535.928,
-                "y": -834.414,
-                "z": 1195.588
-            },
-            {
-                "x": 3535,
-                "y": -966.181,
-                "z": 1016.346
-            },
-            {
-                "x": -3385,
-                "y": -1769,
-                "z": 1069.5
-            },
-            {
-                "x": -3530,
-                "y": -1756,
-                "z": 1069.5
-            },
-            {
-                "x": -3530,
-                "y": -1821,
-                "z": 1069.5
-            },
-            {
-                "x": -3323.011,
-                "y": -1795.408,
-                "z": 1018.041
-            },
-            {
-                "x": -3385,
-                "y": -1834,
-                "z": 1069.5
-            },
-            {
-                "x": -3513.481,
-                "y": -1794.795,
-                "z": 1196.378
-            },
-            {
-                "x": -3298.601,
-                "y": -1795,
-                "z": 1015.894
-            },
-            {
-                "x": 3529.666,
-                "y": 4655.408,
-                "z": 1017.518
-            },
-            {
-                "x": 3739.926,
-                "y": 4527.768,
-                "z": 1069.588
-            },
-            {
-                "x": 3743.504,
-                "y": 4780.02,
-                "z": 1069.591
-            },
-            {
-                "x": 3602.5,
-                "y": 4749,
-                "z": 1069.658
-            },
-            {
-                "x": 3639,
-                "y": 4602.5,
-                "z": 1069.604
-            },
-            {
-                "x": 3503.544,
-                "y": 4655,
-                "z": 1015.371
-            },
-            {
-                "x": 3696.207,
-                "y": 4663.917,
-                "z": 1198.288
-            },
-            {
-                "x": -1581.615,
-                "y": 380.113,
-                "z": 2263.709
-            },
-            {
-                "x": -1765.09,
-                "y": 338.026,
-                "z": 2278.969
-            },
-            {
-                "x": -1659.454,
-                "y": 386.165,
-                "z": 2303.507
-            },
-            {
-                "x": -1752.536,
-                "y": 369.789,
-                "z": 2289.747
-            },
-            {
-                "x": -1305.592,
-                "y": 461.405,
-                "z": 1538.516
-            },
-            {
-                "x": -1284.883,
-                "y": 510.466,
-                "z": 1540.527
-            },
-            {
-                "x": -1026.411,
-                "y": 447.208,
-                "z": 1418.873
-            },
-            {
-                "x": -1026.411,
-                "y": 443.982,
-                "z": 1418.873
-            },
-            {
-                "x": -916.572,
-                "y": 273.871,
-                "z": 1464.882
-            },
-            {
                 "x": -1271.371,
                 "y": 123.774,
                 "z": 1419.098
-            },
-            {
-                "x": -1503.598,
-                "y": 30.067,
-                "z": 1413.35
-            },
-            {
-                "x": -1650.511,
-                "y": 423.516,
-                "z": 1405.747
             },
             {
                 "x": -1602.757,
@@ -19183,64 +19211,438 @@
                 "z": 1413.04
             },
             {
-                "x": -1563.514,
-                "y": 297.948,
-                "z": 1368.006
-            },
-            {
-                "x": -1378.712,
-                "y": 709.583,
-                "z": 1589.25
-            },
-            {
                 "x": -1455.329,
                 "y": 833.2,
                 "z": 1568.453
-            },
+            }
+        ]
+    },
+    "EventRequestActor : Dm_ZN_0008": {
+        "name": "",
+        "icons": [],
+        "locations": [
             {
-                "x": -804.585,
-                "y": 454.509,
-                "z": 1477.531
-            },
+                "x": -3289.179,
+                "y": 1365.357,
+                "z": 434.5
+            }
+        ]
+    },
+    "EventRequestActor : Dm_ZO_0018": {
+        "name": "",
+        "icons": [],
+        "locations": [
             {
-                "x": -658.75,
-                "y": 453.509,
-                "z": 1481.167
-            },
-            {
-                "x": -819.575,
-                "y": 447.402,
-                "z": 1475.474
-            },
-            {
-                "x": -819.457,
-                "y": 458.398,
-                "z": 1475.168
-            },
-            {
-                "x": -764.075,
-                "y": 455.399,
-                "z": 1470.953
-            },
+                "x": 622.728,
+                "y": 3411.663,
+                "z": 1569
+            }
+        ]
+    },
+    "EventRequestActor : FirstSkyIslandReturns_CourseOut": {
+        "name": "",
+        "icons": [],
+        "locations": [
             {
                 "x": -806.736,
                 "y": 463.666,
                 "z": 1544.867
-            },
-            {
-                "x": -806.736,
-                "y": 463.666,
-                "z": 1546.867
-            },
-            {
-                "x": -806.736,
-                "y": 463.666,
-                "z": 1542.867
-            },
+            }
+        ]
+    },
+    "EventRequestActor : FirstSkyIslandReturns_Goal": {
+        "name": "",
+        "icons": [],
+        "locations": [
             {
                 "x": -874.236,
                 "y": 450.166,
                 "z": 1558.367
+            }
+        ]
+    },
+    "EventRequestActor : FirstSkyIslandReturns_Grounded": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -806.736,
+                "y": 463.666,
+                "z": 1542.867
+            }
+        ]
+    },
+    "EventRequestActor : FirstSkyIslandReturns_TimeOvered": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -806.736,
+                "y": 463.666,
+                "z": 1546.867
+            }
+        ]
+    },
+    "EventRequestActor : FocusOnGimmick_Basic": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -270.441,
+                "y": -3460.753,
+                "z": 1937.521
+            }
+        ]
+    },
+    "EventRequestActor : FocusOnGimmick_BasicNoPlayer": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -1806.03,
+                "y": -1956.23,
+                "z": 1140.104
+            }
+        ]
+    },
+    "EventRequestActor : Npc_Zonau_Golem_Servant_FirstIsland_06_OurOfAreaANDReset": {
+        "name": "Maker Construct",
+        "icons": [],
+        "locations": [
+            {
+                "x": -1563.514,
+                "y": 297.948,
+                "z": 1368.006
+            }
+        ]
+    },
+    "EventRequestActor : Npc_Zonau_Golem_Servant_FirstIsland_11_Burn_Mushroom": {
+        "name": "Steward Construct",
+        "icons": [],
+        "locations": [
+            {
+                "x": -1026.411,
+                "y": 443.982,
+                "z": 1418.873
+            }
+        ]
+    },
+    "EventRequestActor : Npc_Zonau_Golem_Servant_FirstIsland_11_Intruct_Mushroom": {
+        "name": "Steward Construct",
+        "icons": [],
+        "locations": [
+            {
+                "x": -1026.411,
+                "y": 447.208,
+                "z": 1418.873
+            }
+        ]
+    },
+    "EventRequestActor : Npc_Zonau_Golem_Servant_FirstIsland_15_Suspend": {
+        "name": "Mining Construct",
+        "icons": [],
+        "locations": [
+            {
+                "x": -1650.511,
+                "y": 423.516,
+                "z": 1405.747
+            }
+        ]
+    },
+    "EventRequestActor : Npc_Zonau_Golem_Servant_FirstIsland_19_GetSword": {
+        "name": "Steward Construct",
+        "icons": [],
+        "locations": [
+            {
+                "x": -1284.883,
+                "y": 510.466,
+                "z": 1540.527
+            }
+        ]
+    },
+    "EventRequestActor : SageOfSky_GoToBackOfTempleOfTime_Complete_AreaIn": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -658.75,
+                "y": 453.509,
+                "z": 1481.167
+            }
+        ]
+    },
+    "EventRequestActor : SageOfSky_GoToBackOfTempleOfTime_Get_ReverseRecorder": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -804.585,
+                "y": 454.509,
+                "z": 1477.531
+            }
+        ]
+    },
+    "EventRequestActor : SageOfSky_GoToTempleOfTime_ShrineCertifyFailed": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -819.457,
+                "y": 458.398,
+                "z": 1475.168
+            }
+        ]
+    },
+    "EventRequestActor : SageOfSky_SuccessAuthentication_ShrineCertifySuccess": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -819.575,
+                "y": 447.402,
+                "z": 1475.474
+            }
+        ]
+    },
+    "EventRequestActor : SageOfSoul_Event_ChallengeStart": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -3257.258,
+                "y": 1363.125,
+                "z": 439
+            }
+        ]
+    },
+    "EventRequestActor : SageOfWind_ColdAreaLv2": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 3354.879,
+                "y": -3174.554,
+                "z": 1376.416
+            }
+        ]
+    },
+    "EventRequestActor : SageOfWind_GoToHebra": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 2976.309,
+                "y": -2800.323,
+                "z": 873.97
+            }
+        ]
+    },
+    "EventRequestActor : SageOfWind_GoToHebra2": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 2951.439,
+                "y": -2800.96,
+                "z": 888.263
+            }
+        ]
+    },
+    "EventRequestActor : SageOfWind_GoToHebra3": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 2941.401,
+                "y": -2786.625,
+                "z": 899.513
+            }
+        ]
+    },
+    "EventRequestActor : SageOfWind_GoToHebra_Area": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 2979.462,
+                "y": -2850.454,
+                "z": 885.967
+            }
+        ]
+    },
+    "EventRequestActor : SageOfWind_TurnBack_Exe": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 3042.028,
+                "y": -2882.394,
+                "z": 1352.25
+            }
+        ]
+    },
+    "EventRequestActor : SageOfZora_ShidoGoToFall": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 563.492,
+                "y": 3438.52,
+                "z": 1552.599
+            }
+        ]
+    },
+    "EventRequestActor : SkyIsland0012_1Terminal": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 3535,
+                "y": -825.581,
+                "z": 1071.96
+            }
+        ]
+    },
+    "EventRequestActor : SkyIsland0012_2Terminal": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 3417.5,
+                "y": -825.125,
+                "z": 1071.938
+            }
+        ]
+    },
+    "EventRequestActor : SkyIsland0012_3Terminal": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 3652.5,
+                "y": -825.057,
+                "z": 1071.985
+            }
+        ]
+    },
+    "EventRequestActor : SkyIsland0012_4Terminal": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 3535,
+                "y": -709.757,
+                "z": 1071.973
+            }
+        ]
+    },
+    "EventRequestActor : SkyIsland0013_1Terminal": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -3385,
+                "y": -1834,
+                "z": 1069.5
+            }
+        ]
+    },
+    "EventRequestActor : SkyIsland0013_2Terminal": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -3385,
+                "y": -1769,
+                "z": 1069.5
+            }
+        ]
+    },
+    "EventRequestActor : SkyIsland0013_3Terminal": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -3530,
+                "y": -1821,
+                "z": 1069.5
+            }
+        ]
+    },
+    "EventRequestActor : SkyIsland0013_4Terminal": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -3530,
+                "y": -1756,
+                "z": 1069.5
+            }
+        ]
+    },
+    "EventRequestActor : SkyIsland0014_1Terminal": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 3739.926,
+                "y": 4527.768,
+                "z": 1069.588
+            }
+        ]
+    },
+    "EventRequestActor : SkyIsland0014_2Terminal": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 3743.504,
+                "y": 4780.02,
+                "z": 1069.591
+            }
+        ]
+    },
+    "EventRequestActor : SkyIsland0014_3Terminal": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 3602.5,
+                "y": 4749,
+                "z": 1069.658
+            }
+        ]
+    },
+    "EventRequestActor : SkyIsland0014_4Terminal": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": 3639,
+                "y": 4602.5,
+                "z": 1069.604
+            }
+        ]
+    },
+    "EventRequestActor : SkyIsland0088_Dm_SY_0001": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -320.666,
+                "y": -3547.682,
+                "z": 1968.587
+            }
+        ]
+    },
+    "EventRequestActor : TempleOfTime_OpenLastDoor": {
+        "name": "",
+        "icons": [],
+        "locations": [
+            {
+                "x": -764.075,
+                "y": 455.399,
+                "z": 1470.953
             }
         ]
     },
@@ -19725,7 +20127,7 @@
             }
         ]
     },
-    "FldObj_EnterAttetionActor": {
+    "FldObj_EnterAttetionActor : DmF_SY_SmallDungeon2Go": {
         "name": "",
         "icons": [],
         "locations": [

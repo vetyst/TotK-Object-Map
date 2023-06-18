@@ -11485,7 +11485,2923 @@
     },
     "EventRequestActor": {
         "name": "",
-        "count": 1469
+        "count": 66
+    },
+    "EventRequestActor : 14255173_398436934_1213784978_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 1478378348_398436934_917479186_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 1517714453_398436934_3489531226_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 1652299546_398436934_1776760383_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 1762421931_3272205725_1385191378_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 18270636_3949112793_1592860999_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 1stSageClear_Npc_AncientDoctor_Stop": {
+        "name": "Purah",
+        "count": 1
+    },
+    "EventRequestActor : 2308466696_398436934_3459534245_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 2471468570_398436934_3281722735_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 2473771585_927303361_1232890401_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 253864366_398436934_559725183_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 2607312374_398436934_3303354560_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 2751243832_3742883158_2133321664_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 2856305550_398436934_2076662682_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 2897632237_398436934_2720313280_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 2903990469_927303361_1697459075_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 3189314326_398436934_2083229438_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 3418365081_927303361_3640778505_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 3620452028_398436934_50730248_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 3684358698_692496252_1770691102_DC0_TT": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 3746016683_398436934_1312645735_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 3835721719_398436934_1234800857_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 4115239192_927303361_2711768683_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 4158510944_398436934_2720313280_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : 78328533_4281662478_2938026479_D_T": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Access_KorokForestColosseum": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Access_KorokForestColosseum_NoWait": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ActivateSkyIsland02": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ActivateSkyIsland03": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ActivateSkyIsland04": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ActivateSkyIsland06": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ActivateSkyIsland10": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ActivateSkyIsland11": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ActivateSkyIsland13": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ActivateSkyIsland14": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ActivateSkyIsland15": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AisyaRescue_Defeat": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Akkare_MercenarySoldier_BattleStart_StepStart": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AllDefeatEnemy_Tribune02": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AllDefeatEnemy_Tribune10": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AnotherAnimals": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AnotherAnimals_B": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AnotherAnimals_BearA": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AnotherAnimals_BearB": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ArriveDestination": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinBranch_Akkare_DoorNG": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinBranch_Akkare_DoorOK": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinBranch_Akkare_Peek": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinBranch_Akkare_RoomNG": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinBranch_Akkare_RoomNGwithNPC": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinBranch_Cave_RoomNG": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinBranch_Cave_RoomNG2": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinBranch_Cave_RoomNG2withNPC": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinBranch_FirstPlateau_DoorNG": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinBranch_FirstPlateau_DoorOK": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinBranch_FirstPlateau_Peek": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinBranch_FirstPlateau_RoomNG": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinBranch_FirstPlateau_RoomNGwithNPC": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinSecretBase_DoorNG": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinSecretBase_DoorNG2": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinSecretBase_DoorOK": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinSecretBase_DoorOK2": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinSecretBase_MiniGameOutField": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinSecretBase_RoomClose": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinSecretBase_RoomClose2": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinSecretBase_RoomNG": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinSecretBase_RoomNG2": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinSecretBase_RoomNG3": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : AssassinText_BurnTrap": {
+        "name": "",
+        "count": 60
+    },
+    "EventRequestActor : AssassinText_BurnTrap01": {
+        "name": "",
+        "count": 3
+    },
+    "EventRequestActor : AssassinText_MagicTrap": {
+        "name": "",
+        "count": 48
+    },
+    "EventRequestActor : AssassinText_MagicTrap01": {
+        "name": "",
+        "count": 3
+    },
+    "EventRequestActor : AssassinText_MagicTrap02": {
+        "name": "",
+        "count": 12
+    },
+    "EventRequestActor : BadEquipment": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BadEquipment1": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BadEquipment2": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BadEquipment3": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BadEquipment4": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BadEquipment4_2": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BallBring_MiniGame_2nd_DistantBall": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BallBring_MiniGame_Craft_VanishBall": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BallBring_MiniGame_DistantBall": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BallBring_MiniGame_DistantPlayer": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BallBring_MiniGame_VanishBall": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Before_Step3_CaveIn": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Behind_Talk": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BlackZelda_Kakariko001_BeFoundNow": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BlackZelda_Kakariko001_BeFoundNow_Opposite": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BlackZelda_Kakariko001_BeFoundNow_Upside": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BlindRuins_CaveOpen": {
+        "name": "",
+        "count": 4
+    },
+    "EventRequestActor : BlindRuins_CaveOpen_WithDelay": {
+        "name": "",
+        "count": 4
+    },
+    "EventRequestActor : BlindRuins_TreasureRoomOpen": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BlindRuins_TreasureRoomOpen_Goron": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BlindRuins_TreasureRoomOpen_TuliParticipates": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BlindRuins_TreasureRoomOpen_Zora": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BluePrint_1stTutorialOK": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BluePrint_2ndTutorialOK": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BluePrint_OutField": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BluePrint_StopBondNG": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BluePrint_UseBluePrint": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BondDoneEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BondDoneEvent_Circuit_Ichikara": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BondDoneEvent_Circuit_Uotori": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BoneHorse": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Broken_CaravanWagon": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : BuildingModeComeBack": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : CageDestruction": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Callange_Complete": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Cannon04_DoorIsDone": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Cannon04_DoorIsDoneInside": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Cannon05_TerminalCarried": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Cannon06_DoorIsDone": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Cannon06_DoorIsDoneInside": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Cannon06_DoorOpened": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Cannon09_BallonInGoalAreaOnFinishTerror": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Cannon12_ActivateTerminalBeforeTalked": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Cannon12_RemoveObstacles": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Cannon13_ShutterOpened": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Canyon_Gaman_Clear": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Canyon_Gaman_Down": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Canyon_Gaman_Ground": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Canyon_Gaman_Leave": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Canyon_Gaman_Wear": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : CarryGoronKid1_Arrived": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : CarryGoronKid1_TrainOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : CarryGoronKid2_Arrived": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : CarryGoronKid2_TrainOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : CarryStone_Irregular": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : CarryStone_PreComp_CarryStone": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : CarryToShrine07_Start": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : CaveMasterShintoShrine_Activate": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : CaveMasterShintoShrine_Activate02": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : CaveMasterShintoShrine_Activate03": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : CaveMasterShintoShrine_Activate04": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : CaveMasterShintoShrine_Activate05": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : CaveMasterShintoShrine_Activate06": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : CaveMasterShintoShrine_Activate07": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : CaveMasterShintoShrine_Activate08": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Cave_Hebra_0040_BreakWall": {
+        "name": "",
+        "count": 3
+    },
+    "EventRequestActor : Cave_LanayruMountain_0022_Water": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Check_HatenoLaboDoor": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Check_HatenoLabo_BackDoor": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Circuit_Desert_CourseOut": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Circuit_Desert_Failure": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Circuit_Desert_PassAllLight": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Circuit_Desert_TimeUp": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Circuit_IchikaraChallenge_CourseOut": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Circuit_IchikaraChallenge_Goal": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Circuit_Uotori_CourseOut": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Circuit_Uotori_Goal": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : CloverCompanyDoor_Lock": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Clover_LeftDoor": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Connect_AkkareMaze1": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Connect_AkkareMaze3": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Connect_AkkareMaze4": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Connect_AkkareMaze5": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Connect_AkkareMaze6": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Connect_GerudoMaze1": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Connect_GerudoMaze3": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Connect_GerudoMaze4": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Connect_GerudoMaze5": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Connect_GerudoMaze6": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Connect_TabantaMaze1": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Connect_TabantaMaze3": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Connect_TabantaMaze4": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Connect_TabantaMaze5": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Connect_TabantaMaze6": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : CourseCheck_Circuit_Ichikara_MiniGame_Quit": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : CourseOut_Circuit_Ichikara_MiniGame": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : CraftShadowPicture_CorrectShadowCast": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DeadLeafBurnBanana": {
+        "name": "",
+        "count": 8
+    },
+    "EventRequestActor : DeadLeafBurnBanana_LV1": {
+        "name": "",
+        "count": 8
+    },
+    "EventRequestActor : DeadLeafBurnBanana_LV2": {
+        "name": "",
+        "count": 8
+    },
+    "EventRequestActor : DeadLeafGetBanana": {
+        "name": "",
+        "count": 8
+    },
+    "EventRequestActor : DeadLeafGetBanana_LV1": {
+        "name": "",
+        "count": 8
+    },
+    "EventRequestActor : DeadLeafGetBanana_LV2": {
+        "name": "",
+        "count": 8
+    },
+    "EventRequestActor : DeepHoleSurvey2_GetBalloonOut": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DeepHoleSurvey2_RepairedBalloonCleanly": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DeepHoleSurvey2_RepairedBalloonProperly": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DekuTreeIntroduction": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DemonVoice1FirstIsland": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DemonVoice2FirstIsland": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DemonVoice3FirstIsland": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DemonVoice4FirstIsland": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DevoteSpring_DungeonAppearWrapper": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DivingSkyIsland_CourseOut01": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DivingSkyIsland_CourseOut02": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DivingSkyIsland_CourseOut03": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DivingSkyIsland_Dm_SY_0001": {
+        "name": "",
+        "count": 3
+    },
+    "EventRequestActor : DivingSkyIsland_Goal01": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DivingSkyIsland_Goal02": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DivingSkyIsland_Goal03": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DivingSkyIsland_RingMissed01": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DivingSkyIsland_RingMissed02": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DivingSkyIsland_RingMissed03": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DmF_OP_Title": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DmF_SY_BaseBreak": {
+        "name": "",
+        "count": 54
+    },
+    "EventRequestActor : DmF_SY_CheckPoint": {
+        "name": "",
+        "count": 120
+    },
+    "EventRequestActor : DmF_SY_LostForestFogEnd": {
+        "name": "",
+        "count": 2
+    },
+    "EventRequestActor : DmF_SY_LostForestFogStart": {
+        "name": "",
+        "count": 4
+    },
+    "EventRequestActor : DmF_SY_SmallDungeon1Open": {
+        "name": "",
+        "count": 127
+    },
+    "EventRequestActor : DmF_SY_UnderLayerSand": {
+        "name": "",
+        "count": 18
+    },
+    "EventRequestActor : DmF_SY_UnderLayerWater": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DmF_SY_WorldReset": {
+        "name": "",
+        "count": 4
+    },
+    "EventRequestActor : Dm_BZ_0006_02": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_BZ_0006_05": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_BZ_0007": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_GA_0028": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_GA_0030": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_GA_0032": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_GE_0008": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_GE_0015": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_GO_0006": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_GO_0008": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_GO_0009": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_OP_0024": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_OP_0027": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_OP_0036": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_OT_0009": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_OT_0018": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_SY_0001": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_SY_0008": {
+        "name": "",
+        "count": 15
+    },
+    "EventRequestActor : Dm_SY_0021": {
+        "name": "",
+        "count": 2
+    },
+    "EventRequestActor : Dm_SY_0025": {
+        "name": "",
+        "count": 25
+    },
+    "EventRequestActor : Dm_SY_0036": {
+        "name": "",
+        "count": 34
+    },
+    "EventRequestActor : Dm_SY_0037": {
+        "name": "",
+        "count": 14
+    },
+    "EventRequestActor : Dm_ZE_0012": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_ZN_0008": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_ZN_0060": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_ZN_0061": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_ZO_0012": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_ZO_0013": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_ZO_0014": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_ZO_0015": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Dm_ZO_0018": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DoMannequinEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DoNotBlocking_UMiiVillage": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DoNotTakeItHandle_Circuit_Ichikara": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DoNotTakeItHandle_Circuit_Uotori": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : DoNotTakeItStoneRectangle_Circuit_Ichikara": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Do_SagonoHat": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Eldin_MercenarySoldier_BattleStart_StepStart": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : EnokidaWareHouse_DoorLook": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Escape": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : EscapeAnnounce": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : EscapeEvent_MiniGame": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ExcavateFossilEldin_FixEye": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ExcavateFossilHebra_FixBackBone": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ExcavateFossilHebra_FixFingerBone": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ExitHatenoLabo": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Fairy2_BrakeWagon": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Fairy2_BurnWagon": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Fairy2_LeaveWagon": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Fairy2_ReachTalk": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Fairy2_RoofBroke": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Fairy3_WagonOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Fairy4_ArrivalTalk": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Fairy4_WagonOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : FindSunaNui_OutUG": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Firone_MercenarySoldier_BattleStart_StepStart": {
+        "name": "",
+        "count": 2
+    },
+    "EventRequestActor : FirstSkyIslandReturns_CourseOut": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : FirstSkyIslandReturns_Goal": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : FirstSkyIslandReturns_Grounded": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : FirstSkyIslandReturns_TimeOvered": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Fit_Statue": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : FocusOnGimmick_Basic": {
+        "name": "",
+        "count": 4
+    },
+    "EventRequestActor : FocusOnGimmick_BasicCameraFront": {
+        "name": "",
+        "count": 3
+    },
+    "EventRequestActor : FocusOnGimmick_BasicNoPlayer": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : FocusOnGimmick_BasicNoPlayer_GerudoCave": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : FocusOnGimmick_Wait120CameraFront": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : FocusOnGimmick_Wait120NoPlayer": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : FocusOnGimmick_Wait120_Vibration": {
+        "name": "",
+        "count": 3
+    },
+    "EventRequestActor : FocusOnGimmick_Wait60": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : FoundEvent_DoorOpen": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GOToTheCastleOfHyrule_RouteClosed": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GerudoCanyon_Adventure_AssasinBattle": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GerudoCanyon_Adventure_BackRoomOK": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GerudoCanyon_Adventure_DoorNG": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GerudoCanyon_Adventure_DoorOK": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GerudoCanyon_Adventure_Frog_Change": {
+        "name": "",
+        "count": 5
+    },
+    "EventRequestActor : Gerudo_ComeOut": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Gerudo_Npc_oasis005_NotOpenDoor": {
+        "name": "Greta",
+        "count": 1
+    },
+    "EventRequestActor : Gerudo_OasisTeacher_LessonNoon": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Gerudo_OasisTeacher_LessonNoon2": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Gerudo_SunazarashiSP": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GetAngry_PlumGarden": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GetDragonTears01": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GetDragonTears02": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GetDragonTears03": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GetDragonTears04": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GetDragonTears05": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GetDragonTears06": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GetDragonTears07": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GetDragonTears08": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GetDragonTears09": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GetDragonTears10": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GetDragonTears11": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GetDragonTears12": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GiveBuildingMaterials_Repair": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GoneSnowQueen_EnterHouse": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Goron_MiniGame_01_PlayerOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Goron_MiniGame_01_StartCheck": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Goron_MiniGame_01_TrainOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Goron_MiniGame_02_PlayerOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Goron_MiniGame_02_StartCheck": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Goron_MiniGame_03_PlayerOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Goron_MiniGame_03_StartCheck": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Goron_MiniGame_03_TrainOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Goron_MiniGame_Tutorial_01_PlayerOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Goron_MiniGame_Tutorial_01_StartCheck": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Goron_MiniGame_Tutorial_02_PlayerOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Goron_MiniGame_Tutorial_02_StartCheck": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Goron_MiniGame_Tutorial_03_PlayerOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Goron_MiniGame_Tutorial_03_StartCheck": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GotoFironeZonauRemains_Event_AppearsSkyIsland": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GroundPaintingAir01_IrregularEvent04": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GroundPaintingAir01_IrregularEvent05": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GroundPaintingAir01_IrregularEvent06": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GroundPaintingAir01_IrregularEvent07": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GroundPaintingAir01_NearEvent01": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GroundPaintingAir01_NearEvent03": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : GroundPaintingAir01_NotNearEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Hateno_DoorEvent01": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Hateno_FastEvent_Area": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Hateno_KusayoshiDoorEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Hateno_KusayoshiDoorKeyBalloon": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Hateno_KusayoshiEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Hateno_KusayoshiEvent_FoundInSide": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Hateno_NewSpecialty_ClearEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Hateno_NewSpecialty_FailedEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Hateno_SagonoDoorEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Hateno_SagonoDoorKeyBalloon": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Hateno_SagonoEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Hateno_SagonoEvent_FoundInSide": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Hateno_SecretLifeOfSagono_FoundEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Hateru_MercenarySoldier_BattleStart_StepStart": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Hebra_MercenarySoldier_BattleStart_StepStart": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Hebra_ShieldSurfing_CourseOut": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Hebra_ShieldSurfing_Goal": {
+        "name": "",
+        "count": 2
+    },
+    "EventRequestActor : Hebra_SkyRingChallenge_CourseOut": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Hebra_SkyRingChallenge_Perfect": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Horserace_Goal": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : HotSpringEgg_Found": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : HyruleCastle_FindTreasure1": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : HyruleCastle_FindTreasure2": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : HyruleCastle_FindTreasure3": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : HyrulePlain_MercenarySoldier_BattleStart_StepStart": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : IceMaking_Fit_IcePlate_Large": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : IceMaking_Fit_IcePlate_Medium": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : IceMaking_Fit_IcePlate_Small": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Ichikara_RopeWayBroken_InJobField": {
+        "name": "",
+        "count": 2
+    },
+    "EventRequestActor : Ichikara_RopeWayBroken_InVillage": {
+        "name": "",
+        "count": 2
+    },
+    "EventRequestActor : JS_Near_Bone": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : JS_Near_Danger": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : JS_Near_Danger0": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : JS_Near_Enemy": {
+        "name": "",
+        "count": 4
+    },
+    "EventRequestActor : JS_Near_FallRuins": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : JS_Near_Heso": {
+        "name": "",
+        "count": 5
+    },
+    "EventRequestActor : JS_Near_Lost": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : JS_Near_SpiralRuins": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : JobSunazarashi_Reset": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Kakariko008_PlumGarden_Water": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Kakariko_Scholar_F_TouchMiasma": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Khan_TouchBowArrow": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Killed_AccidentOfDekutree": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Kokiri007_Appear": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Lodge_Chemical001_DoorEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Lodge_Chemical001_PeekLodge": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : LookingForTheVoiceLord_DemonStatue_Near": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : LookingForTheVoiceLord_DemonStatue_Near2": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : LoveFrog": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MainChallenge_BeforeVSGanon": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MainChallenge_BlackZeldaBattleStart": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MainChallenge_DefeatAllMonster": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MainChallenge_OpenLoboDoor": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MainChallenge_StartBattleDemo": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MakeIce_TakeOfIce": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Map_CherryBlossom": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MeatRock_RockCarried": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MemoryOfTheDragon_TempleEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MercenaryChallenge_Akkare_FinaleEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MercenaryChallenge_Firone_BuildBridge": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MercenaryChallenge_Hateru_FinalEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MercenaryChallenge_Hateru_RemoveBall": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MercenaryChallenge_Hebra_FinalEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Mercenary_Akkare_EquipmentGetEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Mercenary_Eldin_EquipmentGetEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Mercenary_Firone_EquipmentGetEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Mercenary_Hateru_EquipmentGetEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Mercenary_Hebra_EquipmentGetEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Mercenary_HyrulePlain_EquipmentGetEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MineruTutorial_01": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MineruTutorial_02": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MineruTutorial_03": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MineruTutorial_04": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MineruTutorial_05": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_Basketball_PlayerOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_CollectObject_Burn": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_CollectObject_Cliff_Burn": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_CollectObject_Cliff_DollsOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_CollectObject_Cliff_OwningObjectMoved": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_CollectObject_Cliff_PlayerOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_CollectObject_DollsOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_CollectObject_LakeSide_Burn": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_CollectObject_LakeSide_DollsOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_CollectObject_LakeSide_OwningObjectMoved": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_CollectObject_LakeSide_PlayerOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_CollectObject_OwningObjectMoved": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_CollectObject_PlayerOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_HammerGong_HitGong": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_HammerGong_HitGong_OutOfMinigame": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_HammerGong_LookAtGong": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_HammerGong_PlayerOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_HorseRace_BoxSmashed": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_HorseRace_CourseOut": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_HorseRace_DropEverything": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_HorseRace_FallOff": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_HorseRace_HarnessDisconnected": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MiniGame_HorseRace_WagonBroken": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MinusColosseumFocusOnGimmick": {
+        "name": "",
+        "count": 10
+    },
+    "EventRequestActor : MinusColosseumFocusOnGimmick_Save": {
+        "name": "",
+        "count": 20
+    },
+    "EventRequestActor : MinusYiga_KohgaAgain": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MinusYiga_KohgaContinue": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MinusYiga_KohgaFinal": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Momo_TouchArrow": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MonsterFigures_Reset": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : MushroomHeaven_Arrive": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : NPC_Lanaryu001_BurnShield": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : NPC_Lanaryu001_RideShield": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Naked1": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Naked2": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Naked3": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Naked4": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Near_OnTheShelf": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Near_OnTheShelf_SmallOasis009": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Near_OnTheShelf_SouthernVillage014": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : NotOpenTreasureChestTalk": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : NotReady_PhotoSpotChallenge": {
+        "name": "",
+        "count": 13
+    },
+    "EventRequestActor : NoticeChangeFollowModeYunbo": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : NpcOasis027_Reaction": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : NpcOasis027_Reaction1": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : NpcOasis027_Reaction2": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : NpcOasis027_Reaction4": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : NpcOasis027_Reaction6": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : NpcOasis027_ReactionReward": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : NpcOasisStepA_Talk_Door": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Npc_AncientDoctor_Hateno_AwayDemo": {
+        "name": "Purah",
+        "count": 1
+    },
+    "EventRequestActor : Npc_AncientDoctor_Hateno_TakePictureDemo": {
+        "name": "Purah",
+        "count": 1
+    },
+    "EventRequestActor : Npc_BaseCampSoldier_Hylia001_GateOpen": {
+        "name": "Drozer",
+        "count": 1
+    },
+    "EventRequestActor : Npc_BaseCampSoldier_Hylia003_GateOpen": {
+        "name": "Coppora",
+        "count": 1
+    },
+    "EventRequestActor : Npc_BaseCampSoldier_Hylia005_GateOpen": {
+        "name": "Redhran",
+        "count": 1
+    },
+    "EventRequestActor : Npc_CafeHylia004_Water": {
+        "name": "Fico",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Cannon_01_Pants_Water": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Npc_DeathEastHatago_002_Water": {
+        "name": "Kima",
+        "count": 1
+    },
+    "EventRequestActor : Npc_GerudoGate_Soldier001_Behind": {
+        "name": "Naia",
+        "count": 1
+    },
+    "EventRequestActor : Npc_GerudoGate_Soldier001_CloseToHorse": {
+        "name": "Naia",
+        "count": 1
+    },
+    "EventRequestActor : Npc_GerudoGate_Soldier001_GateKeep": {
+        "name": "Naia",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Goron014_Water": {
+        "name": "Bohrin",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Goron032_Water": {
+        "name": "Grapp",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Goron039_Stolen": {
+        "name": "Kalamp",
+        "count": 1
+    },
+    "EventRequestActor : Npc_HatenoVillage004_ReturnHome": {
+        "name": "Reede",
+        "count": 1
+    },
+    "EventRequestActor : Npc_HatenoVillage005_ReturnHome": {
+        "name": "Reede",
+        "count": 1
+    },
+    "EventRequestActor : Npc_HatenoVillage006_ReturnHome": {
+        "name": "Reede",
+        "count": 1
+    },
+    "EventRequestActor : Npc_HatenoVillage007_ReturnHome": {
+        "name": "Reede",
+        "count": 1
+    },
+    "EventRequestActor : Npc_HatenoVillage008_ReturnHome": {
+        "name": "Reede",
+        "count": 1
+    },
+    "EventRequestActor : Npc_HatenoVillage012_AbsenceTalkEvent": {
+        "name": "Reede",
+        "count": 1
+    },
+    "EventRequestActor : Npc_HatenoVillage013_AbsenceTalkEvent": {
+        "name": "Reede",
+        "count": 1
+    },
+    "EventRequestActor : Npc_HatenoVillage016_ReturnHome": {
+        "name": "Reede",
+        "count": 1
+    },
+    "EventRequestActor : Npc_HatenoVillage018_AbsenceTalkEvent": {
+        "name": "Reede",
+        "count": 1
+    },
+    "EventRequestActor : Npc_HatenoVillage023_AbsenceTalkEvent": {
+        "name": "Reede",
+        "count": 1
+    },
+    "EventRequestActor : Npc_HatenoVillage026_AbsenceTalkEvent": {
+        "name": "Reede",
+        "count": 1
+    },
+    "EventRequestActor : Npc_HatenoVillage028_ReturnHome": {
+        "name": "Reede",
+        "count": 1
+    },
+    "EventRequestActor : Npc_HatenoVillage030_BoardMoved_Angry": {
+        "name": "Reede",
+        "count": 1
+    },
+    "EventRequestActor : Npc_HatenoVillage_AbsenceTalkEvent": {
+        "name": "Reede",
+        "count": 1
+    },
+    "EventRequestActor : Npc_IceVillage011_BurnShield": {
+        "name": "Selmie",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Kakariko003_AwayDemo": {
+        "name": "Koko",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Kakariko003_OntheDesk": {
+        "name": "Koko",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Kakariko003_ReturnHome": {
+        "name": "Koko",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Kakariko004_ReturnHome": {
+        "name": "Cottla",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Kakariko004_SecretVegetableGarden_Water": {
+        "name": "Cottla",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Kakariko006_CarrotGarden_Water": {
+        "name": "Olkin",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Kakariko006_PumpkinGarden_Water": {
+        "name": "Olkin",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Kakariko006_ReturnHome": {
+        "name": "Olkin",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Kakariko007_ReturnHome": {
+        "name": "Dorian",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Kakariko008_ReturnHome": {
+        "name": "Mellie",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Kakariko013_CarrotGarden_Water": {
+        "name": "Steen",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Kakariko013_PumpkinGarden_Water": {
+        "name": "Steen",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Kakariko013_ReturnHome": {
+        "name": "Steen",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Kakariko015_ReturnHome": {
+        "name": "Nanna",
+        "count": 1
+    },
+    "EventRequestActor : Npc_NewsPaper002_CheckPicture": {
+        "name": "Brozhan",
+        "count": 1
+    },
+    "EventRequestActor : Npc_SmallOasis014_Attention": {
+        "name": "Boraa",
+        "count": 1
+    },
+    "EventRequestActor : Npc_SouthHateru007_C0_N": {
+        "name": "Hino",
+        "count": 5
+    },
+    "EventRequestActor : Npc_Strange_Beacon_TouchPot": {
+        "name": "Moza",
+        "count": 1
+    },
+    "EventRequestActor : Npc_TabantaBridgeHatago005_Akkare_NearBattlePoint": {
+        "name": "Toren",
+        "count": 1
+    },
+    "EventRequestActor : Npc_TabantaBridgeHatago005_Eldin_NearBattlePoint": {
+        "name": "Toren",
+        "count": 1
+    },
+    "EventRequestActor : Npc_TamourTahago004_Hebra_NearBattlePoint": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Npc_TamourTahago004_NearBattlePoint": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Umii_Kakariko_Scholar_C_DropCapsule": {
+        "name": "Cori",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Umii_Kakariko_Scholar_C_PlumGarden_Water": {
+        "name": "Cori",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Umii_Kakariko_SpecialPartsShopNPC_Angry3": {
+        "name": "Gordi",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Zonau_Golem_Servant_FirstIsland_06_OurOfAreaANDReset": {
+        "name": "Maker Construct",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Zonau_Golem_Servant_FirstIsland_11_Burn_Mushroom": {
+        "name": "Steward Construct",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Zonau_Golem_Servant_FirstIsland_11_Intruct_Mushroom": {
+        "name": "Steward Construct",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Zonau_Golem_Servant_FirstIsland_15_Suspend": {
+        "name": "Mining Construct",
+        "count": 1
+    },
+    "EventRequestActor : Npc_Zonau_Golem_Servant_FirstIsland_19_GetSword": {
+        "name": "Steward Construct",
+        "count": 1
+    },
+    "EventRequestActor : Npc_oasis005_ShopEnter_First": {
+        "name": "Greta",
+        "count": 1
+    },
+    "EventRequestActor : NushiShop_Tutorial_StartInCave": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Obj_Mineral_B_02_Challenge_Failure": {
+        "name": "Rare Ore Deposit",
+        "count": 1
+    },
+    "EventRequestActor : Obj_Mineral_B_02_Challenge_Success": {
+        "name": "Rare Ore Deposit",
+        "count": 1
+    },
+    "EventRequestActor : OldKorokHelp_Helped": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : OnTheDesk": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : OnTheShelf_Oasis002": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : OnTheShelf_Oasis043": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : OnTheShelf_Oasis044": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : OnTheShelf_Oasis045": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : OpenTreasureChestTalk": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Open_EnokidaDoor": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Open_EnokidaDoorWithEnokida": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Orchestra04_Arrival": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Orchestra04_BrakeWagon": {
+        "name": "",
+        "count": 2
+    },
+    "EventRequestActor : Orchestra04_BurnWagon": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Orchestra04_LeaveWagon": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Orchestra04_Sky": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : OutFieldFirstIsland": {
+        "name": "",
+        "count": 4
+    },
+    "EventRequestActor : PeepNumahinoTalkEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Picture_NorthHatelHatago_Talk": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Picture_SnowfieldHatago_Talk": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : RaceCheckTalk_Circuit_Uotori": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Raise_GoddesStatue_CourageAltarage": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Raise_GoddesStatue_EndRaiseEffect": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Raise_GoddesStatue_PowerAltarage": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Raise_GoddesStatue_StartRaiseEffect": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Raise_GoddesStatue_WisdomAltarage": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Reach_Garden": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Ready_MercenaryChallenge_Akkare_BattleStart_Near": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Ready_MercenaryChallenge_Eldin_BattleStart_Near": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Ready_MersenaryChallenge_Hebra_BattleStart_Near": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Ready_Npc_BaseCamp_Assistant_WatchTower_Talk_Interview_Warp": {
+        "name": "Josha",
+        "count": 1
+    },
+    "EventRequestActor : Ready_Npc_GerudoCanyonHatago001_Near": {
+        "name": "Piaffe",
+        "count": 1
+    },
+    "EventRequestActor : Ready_Npc_MercenarySoldier_BattleStart_StepStart_Firone": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Ready_Npc_MercenarySoldier_Firone_BattleStart_Near": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Ready_Npc_MercenarySoldier_Hylia001_HyrulePlain_GotoBattle": {
+        "name": "Gralens",
+        "count": 1
+    },
+    "EventRequestActor : Ready_Npc_MercenarySoldier_Hylia001_HyrulePlain_Near_StartBattle": {
+        "name": "Gralens",
+        "count": 1
+    },
+    "EventRequestActor : Ready_Npc_TabantaBridgeHatago005_BattleStart_StepStart_Akkare": {
+        "name": "Toren",
+        "count": 1
+    },
+    "EventRequestActor : Ready_Npc_TamourHatago004_BattleStart_StepStart": {
+        "name": "Hoz",
+        "count": 1
+    },
+    "EventRequestActor : Ready_Npc_TamourHatago004_BattleStart_StepStart_Hebra": {
+        "name": "Hoz",
+        "count": 1
+    },
+    "EventRequestActor : ReceiveKohgaBeginReward": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ReleaseHandle_Circuit_Ichikara_MiniGame": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ReleaseHandle_Circuit_Uotori_MiniGame": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ReleaseHandle_IchikaraCircuit_Tutorial": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : RepairCarriage_Complete": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : RescueVehicle01_Arrived": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : RescueVehicle01_TrainOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : RescueVehicle_Failed": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : RescueWell_RudderOutOfRange": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ResearchEldin_SolveAProblem_CarriedRock": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ResearchEldin_SolveAProblem_CarriedRock_Scra": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ResearchLanayru_CleanZoraMessenger": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Reset_CaravanWagon": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Result_Fire_Npc_oasis016_StepStart": {
+        "name": "Dalia",
+        "count": 4
+    },
+    "EventRequestActor : ReturnBaseCamp_Npc_BaseCamp_Assistant_WatchTower_Warp": {
+        "name": "Josha",
+        "count": 1
+    },
+    "EventRequestActor : Revive_Inn_SetWood": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Revive_LeaderHouse_SetWood": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Revive_PrivateHouse_SetWood": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Revive_Restaurant_SetWood": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Revive_TreasureShop_SetWood": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : RopeWayCarryOut_Grada": {
+        "name": "",
+        "count": 2
+    },
+    "EventRequestActor : RopeWayCarryOut_Hagi": {
+        "name": "",
+        "count": 2
+    },
+    "EventRequestActor : RopeWayEndLife_Grada": {
+        "name": "",
+        "count": 2
+    },
+    "EventRequestActor : RopeWayEndLife_Hagi": {
+        "name": "",
+        "count": 2
+    },
+    "EventRequestActor : RopeWayNoPay": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfFire_DefeatBossMiddle": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfFire_Dream_ApproachYunbo": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfFire_Dream_BrokeMiasma": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfFire_Dream_DefeatYunbo": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfFire_Dream_DirectEnter": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfFire_Dream_EscapeBattle": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfFire_Dream_EscapeBattleRoof": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfFire_Dream_EscapeRoof": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfFire_MiddleBoss_OutOfRange": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_DefenseEnemyNear": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_DefenseInfo": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_DefenseNG": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_DefenseNestOK": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_DefenseOK": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_LightTriangle1": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_LightTriangle2": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_OutOfGerudoTown": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_OutOfKarakara": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PeekDoor": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PeekDoor2": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PeekDoor3": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PeekDoor4": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PreDefenseNG": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PreDefenseOK": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PreDefenseStart": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidAppear": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidFind": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_PyramidLightStatue": {
+        "name": "",
+        "count": 3
+    },
+    "EventRequestActor : SageOfGerudo_RougeTraining1OK": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_RougeTraining2OK": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_RougeTrainingPre2": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_RougeTrainingStart": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfGerudo_UndergroundFirstIn": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfSky_GoToBackOfTempleOfTime_Complete_AreaIn": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfSky_GoToBackOfTempleOfTime_Get_ReverseRecorder": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfSky_GoToTempleOfTime_ShrineCertifyFailed": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfSky_SuccessAuthentication_ShrineCertifySuccess": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfSoul_Event_CarriedCheckPoint01": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfSoul_Event_ChallengeStart": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfSoul_Event_GotSecretStone": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfSoul_Event_InserLeftArm": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfSoul_Event_InserLeftLeg": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfSoul_Event_InserRightLeg": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfSoul_Event_InsertRightArm0": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfSoul_Event_SatelliteTempleDoor_EventCamera": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfSoul_Event_SatelliteTempleDoor_EventCameraLArm": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfSoul_Event_SatelliteTempleDoor_EventCameraLLeg": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfSoul_Event_SatelliteTempleDoor_EventCameraRLeg": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfSoul_Event_ToTheBossStep": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfWind_ColdAreaLv2": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfWind_DefeatEnemy": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfWind_GetBack": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfWind_GoToCave": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfWind_GoToHebra": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfWind_GoToHebra2": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfWind_GoToHebra3": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfWind_GoToHebra_Area": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfWind_Ready": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfWind_TurnBack_Exe": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfZora_ClearZoraTemple": {
+        "name": "",
+        "count": 4
+    },
+    "EventRequestActor : SageOfZora_DefetMiddleBoss": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfZora_KidsKickOut": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfZora_KidsWiretapEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfZora_MiddleBoss_OutOfRange": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfZora_ShidoGoToFall": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfZora_SlateRepairCompleted": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfZora_TrickArtCompleted": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SageOfZora_VortexWarp01": {
+        "name": "",
+        "count": 2
+    },
+    "EventRequestActor : SageUnsummonAreaFirstIn": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SearchCaravan_RescueNpc": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SecretBase_NoTouch2Reset": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SecretBase_NoTouchReset": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : ShimotsukeSprinkleWaterEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SkyIsland0012_1Terminal": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SkyIsland0012_2Terminal": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SkyIsland0012_3Terminal": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SkyIsland0012_4Terminal": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SkyIsland0013_1Terminal": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SkyIsland0013_2Terminal": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SkyIsland0013_3Terminal": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SkyIsland0013_4Terminal": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SkyIsland0014_1Terminal": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SkyIsland0014_2Terminal": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SkyIsland0014_3Terminal": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SkyIsland0014_4Terminal": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SkyIsland0088_Dm_SY_0001": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SneakingStart": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SnowyMountain_Surfing_Activate": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : SnowyMountain_Surfing_DungeonAppearWrapper": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : StartDesertRace": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Step3_LookEightHeroStatues": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Step3_Npc_Rito_Postman_008_StepStart": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Step4_Step5_ExitErea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Step5_ExitErea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : StepRepeatFirstIsland": {
+        "name": "",
+        "count": 4
+    },
+    "EventRequestActor : StopBoy": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : StopBoy2": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Stun_Npc_Road_001": {
+        "name": "Botrick",
+        "count": 1
+    },
+    "EventRequestActor : Sweep_Npc_GerudoCanyon002_Talk": {
+        "name": "Barles",
+        "count": 1
+    },
+    "EventRequestActor : TakeOut_StoneBall": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : TalkActiveSensor": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : TauraChallenge001_Win": {
+        "name": "",
+        "count": 2
+    },
+    "EventRequestActor : TempleOfTime_OpenLastDoor": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : TouchStoneRectangle_Circuit_Ichikara_Craft": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : TouchStoneRectangle_Circuit_Ichikara_Ready": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : TreasureOfLambda_DreamBattle_Sword": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : TreasureOfLambda_Dream_OpenDoor": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : TreasureOfLambda_OpenBox": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : TreasureOfLambda_StopCaveIn": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : TreasureOfLambda_StopTakeOut": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune02_TryEscapeBattle": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune05_ArrivalTalkFast": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune05_Capsize": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune05_CutRope": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune05_Drifting": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune05_Guide01": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune05_Guide02": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune05_Guide03": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune05_Guide04": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune05_HurtFlower": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune05_OutChallenge": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune05_OutChallengeWarning": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune05_TreadOnFlower": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune05_Water": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune07_ClearEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune07_EscapeEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune10_EscapeEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune13Text_FirstVoice": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune13Text_LastVoice": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune13Text_SecondVoice": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune13Text_ThirdVoice": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune16_ArrivalStep": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Tribune16_WagonOutOfArea": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : UMiiVillage003_Surprise": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : UMiiVillage007_Surprise": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : UMiiVillage008_Panel_Near": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : UMiiVillage008_Surprise": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : UMiiVillage010_Surprise": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : UMiiVillage033_Surprise": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : UmeSprinkleWaterEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Unlock_TBoxMinusEnemy": {
+        "name": "",
+        "count": 8
+    },
+    "EventRequestActor : Uotori_Designer_ClearWater": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Uotori_Designer_ClearWind": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Uotori_RevivePlan_LeaveWood": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : WakeUp_Smell": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : WalkInCircuit_IchikaraCircuit_Tutorial": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : WalkOutsideCautionTalk": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : WashedAwayBusinessTools_ClearEvent": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Watering_Natsuyuki": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Yarakashita2_NpcGerudoDesert": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Zora_MessageBottle_Area_Warning": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Zora_MessageBottle_Clear": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Zora_MessageBottle_Escape": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : Zora_MessageBottle_Steal": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : rouya": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : step2_HyruleDepthHatago001_FarAway": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : step2_HyruleDepthHatago001_Morning": {
+        "name": "",
+        "count": 1
+    },
+    "EventRequestActor : step2_HyruleDepthHatago001_Rain": {
+        "name": "",
+        "count": 1
     },
     "FX_CliffWhiteWaterFall_01": {
         "name": "",
@@ -16383,7 +19299,7 @@
         "name": "",
         "count": 3
     },
-    "FldObj_EnterAttetionActor": {
+    "FldObj_EnterAttetionActor : DmF_SY_SmallDungeon2Go": {
         "name": "",
         "count": 152
     },
@@ -25395,9 +28311,13 @@
         "name": "Fortified Pumpkin",
         "count": 13
     },
-    "Item_Fruit_J_OwnedByNpc": {
+    "Item_Fruit_J_OwnedByNpc : TakePumpkin": {
         "name": "Fortified Pumpkin",
-        "count": 13
+        "count": 7
+    },
+    "Item_Fruit_J_OwnedByNpc : TakePumpkin_Natsuyuki": {
+        "name": "Fortified Pumpkin",
+        "count": 6
     },
     "Item_Fruit_J_TemporaryOwnedByNpc": {
         "name": "Fortified Pumpkin",
@@ -25415,7 +28335,7 @@
         "name": "Hylian Tomato",
         "count": 382
     },
-    "Item_Fruit_M_OwnedByNpc": {
+    "Item_Fruit_M_OwnedByNpc : Shimotsuke_AttentionTalk": {
         "name": "Hylian Tomato",
         "count": 22
     },
@@ -25427,7 +28347,7 @@
         "name": "Sun Pumpkin",
         "count": 2
     },
-    "Item_Fruit_N_OwnedByNpc": {
+    "Item_Fruit_N_OwnedByNpc : TakePumpkin_Natsuyuki": {
         "name": "Sun Pumpkin",
         "count": 11
     },
@@ -25679,9 +28599,13 @@
         "name": "Swift Carrot",
         "count": 8
     },
-    "Item_Plant_M_OwnedByNpc": {
+    "Item_Plant_M_OwnedByNpc : TakCarrot": {
         "name": "Swift Carrot",
-        "count": 22
+        "count": 13
+    },
+    "Item_Plant_M_OwnedByNpc : TakeCarrot": {
+        "name": "Swift Carrot",
+        "count": 9
     },
     "Item_Plant_M_TemporaryOwnedByNpc": {
         "name": "Swift Carrot",
