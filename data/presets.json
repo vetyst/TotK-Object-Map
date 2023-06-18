@@ -303,7 +303,9 @@
       "Kibako_Contain_01",
       "Kibako_Contain_HorseRace",
       "Barrel",
-      "Obj_BreakBoxIron"
+      "Obj_BreakBoxIron",
+      "Pot",
+      "Pot : PutRupee_Blue"
     ]
   },
   "horses": {

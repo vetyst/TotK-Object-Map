@@ -17415,7 +17415,7 @@
         ]
     },
     "Enemy_Keese_Electric_AllDay": {
-        "name": "Keese",
+        "name": "Electric Keese",
         "icons": [],
         "locations": [
             {
@@ -18709,7 +18709,7 @@
         ]
     },
     "Energy_Material_02": {
-        "name": "",
+        "name": "Crystallized Charge",
         "icons": [],
         "locations": [
             {

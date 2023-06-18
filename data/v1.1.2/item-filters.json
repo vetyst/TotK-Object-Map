@@ -7044,7 +7044,7 @@
         "count": 4
     },
     "Enemy_Assassin_Shooter_Junior : Weapon_Bow_040": {
-        "name": "Duplex Bow",
+        "name": "Yiga Footsoldier : Duplex Bow",
         "count": 77
     },
     "Enemy_Bokoblin_Armor_Dark : Weapon_Sword_108 : AsbObj_RockParts_C_S_01": {
@@ -9776,7 +9776,7 @@
         "count": 2
     },
     "Enemy_Keese_Electric_AllDay": {
-        "name": "Keese",
+        "name": "Electric Keese",
         "count": 97
     },
     "Enemy_Keese_Fire": {
@@ -9784,7 +9784,7 @@
         "count": 20
     },
     "Enemy_Keese_Fire_AllDay": {
-        "name": "Keese",
+        "name": "Fire Keese",
         "count": 29
     },
     "Enemy_Keese_Ice": {
@@ -9792,11 +9792,11 @@
         "count": 8
     },
     "Enemy_Keese_Ice_AllDay": {
-        "name": "Keese",
+        "name": "Ice Keese",
         "count": 94
     },
     "Enemy_Keese_Ice_Army": {
-        "name": "Keese",
+        "name": "Ice Keese Army",
         "count": 2
     },
     "Enemy_Keese_Swarm_Cave": {
@@ -11092,11 +11092,11 @@
         "count": 62
     },
     "Enemy_Treant_Bee_Dummy": {
-        "name": "",
+        "name": "Evermean - Courser Bee Honey",
         "count": 13
     },
     "Enemy_Treant_Broadleaf": {
-        "name": "Evermean",
+        "name": "Evermean - Hestu",
         "count": 2
     },
     "Enemy_Treant_Broadleaf_Dummy": {
@@ -11104,11 +11104,11 @@
         "count": 47
     },
     "Enemy_Treant_D_Dummy": {
-        "name": "",
+        "name": "Evermean - Apple",
         "count": 44
     },
     "Enemy_Treant_E_Dummy": {
-        "name": "",
+        "name": "Evermean - Gloom",
         "count": 257
     },
     "Enemy_Wizzrobe_Electric : ElectricalFruit : Weapon_Sword_101": {
@@ -11488,7 +11488,7 @@
         "count": 4
     },
     "Energy_Material_02": {
-        "name": "",
+        "name": "Crystallized Charge",
         "count": 333
     },
     "Energy_Material_03": {
@@ -43799,8 +43799,8 @@
         "name": "Recycle Box : Big Wheel : Hydrant : Battery : Fan",
         "count": 1
     },
-    "RBox_Field_F_02": {
-        "name": "Recycle Box",
+    "RBox_Field_F_02 : SpObj_FastWheel_Capsule_B_01 : SpObj_ControlStick_Capsule_A_01 : SpObj_CookSet_Capsule_A_01 : SpObj_EnergyBank_Capsule_A_01": {
+        "name": "Recycle Box : Big Wheel : Steering Stick : Portable Pot : Battery",
         "count": 1
     },
     "RBox_Field_G : SpObj_SpringPiston_Capsule_A_01 : SpObj_LiftableWaterPump_Capsule_A_01 : SpObj_Beamos_Capsule_A_01 : SpObj_ControlStick_Capsule_A_01": {
@@ -43843,8 +43843,8 @@
         "name": "Recycle Box : Steering Stick : Small Wheel : Cannon : Light",
         "count": 1
     },
-    "RBox_Field_K_03": {
-        "name": "Recycle Box",
+    "RBox_Field_K_03 : SpObj_LiftGeneratorWing_Capsule_A_01 : SpObj_FastWheel_Capsule_A_01 : SpObj_FastWheel_Capsule_B_01 : SpObj_Rocket_Capsule_A_01 : SpObj_ControlStick_Capsule_A_01 : SpObj_GolemHead_Capsule_A_01": {
+        "name": "Recycle Box : Wing : Small Wheel : Big Wheel : Rocket : Steering Stick : Construct Head",
         "count": 1
     },
     "RBox_Field_L : SpObj_Chaser_Capsule_A_01 : SpObj_Pile_Capsule_A_01 : SpObj_Cart_Capsule_A_01 : SpObj_Cannon_Capsule_A_01 : SpObj_GolemHead_Capsule_A_01": {

@@ -24888,7 +24888,7 @@
         ]
     },
     "Enemy_Assassin_Shooter_Junior : Weapon_Bow_040": {
-        "name": "Duplex Bow",
+        "name": "Yiga Footsoldier : Duplex Bow",
         "icons": [
             "Weapon_Bow_040"
         ],
@@ -29299,7 +29299,7 @@
         ]
     },
     "Enemy_Keese_Electric_AllDay": {
-        "name": "Keese",
+        "name": "Electric Keese",
         "icons": [],
         "locations": [
             {
@@ -29403,7 +29403,7 @@
         ]
     },
     "Enemy_Keese_Fire_AllDay": {
-        "name": "Keese",
+        "name": "Fire Keese",
         "icons": [],
         "locations": [
             {
@@ -29439,7 +29439,7 @@
         ]
     },
     "Enemy_Keese_Ice_AllDay": {
-        "name": "Keese",
+        "name": "Ice Keese",
         "icons": [],
         "locations": [
             {

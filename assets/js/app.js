@@ -108,7 +108,9 @@ window.addEventListener('load', () => {
             let selector = '';
             let extra = '';
 
-            if (object === 'TBox_' || object.startsWith('Enemy_')) {
+            if (object === 'TBox_' ||
+                object === 'RBox_' ||
+                object.startsWith('Enemy_')) {
                 selector = '^';
             }
 
