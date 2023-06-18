@@ -9,6 +9,19 @@ window.addEventListener('load', () => {
         crs: L.CRS.Simple,
     });
 
+    let version = localStorage.getItem('data-version');
+    if (version === null || version === undefined) {
+        version = jQuery('#versions').val();
+        localStorage.setItem('data-version', version);
+    } else {
+        jQuery('#versions').val(version);
+    }
+
+    jQuery('#versions').change(function () {
+        localStorage.setItem('data-version', jQuery('#versions').val());
+        location.href = location.href;
+    });
+
     var cursorMarker = L.marker();
 
     function updateLocations() {
@@ -63,7 +76,6 @@ window.addEventListener('load', () => {
 
     let skyLayerBackgroundImage = L.imageOverlay('assets/images/maps/sky.jpg', bounds);
     let surfaceLayerBackgroundImage = L.imageOverlay('assets/images/maps/surface.jpg', bounds);
-    let caveLayerBackgroundImage = L.imageOverlay('assets/images/maps/surface.jpg', bounds);
     let depthsLayerBackgroundImage = L.imageOverlay('assets/images/maps/depths.jpg', bounds);
 
     let zoomLayer1 = L.layerGroup();
@@ -109,7 +121,7 @@ window.addEventListener('load', () => {
         doSearch();
     });
 
-    jQuery.getJSON('data/locations.json', function (data) {
+    jQuery.getJSON('data/' + version + '/locations.json', function (data) {
         jQuery(data.surface).each(function (idx, location) {
             if (location.name.length < 1 || location.locations.length < 1) {
                 return;
@@ -143,7 +155,6 @@ window.addEventListener('load', () => {
 
         skyLayerBackgroundImage.addTo(map);
         map.removeLayer(surfaceLayerBackgroundImage);
-        map.removeLayer(caveLayerBackgroundImage);
         map.removeLayer(depthsLayerBackgroundImage);
 
         activateLayer('sky');
@@ -156,7 +167,6 @@ window.addEventListener('load', () => {
 
         map.removeLayer(skyLayerBackgroundImage);
         surfaceLayerBackgroundImage.addTo(map);
-        map.removeLayer(caveLayerBackgroundImage);
         map.removeLayer(depthsLayerBackgroundImage);
 
         activateLayer('surface');
@@ -168,8 +178,7 @@ window.addEventListener('load', () => {
         }
 
         map.removeLayer(skyLayerBackgroundImage);
-        map.removeLayer(surfaceLayerBackgroundImage);
-        caveLayerBackgroundImage.addTo(map);
+        surfaceLayerBackgroundImage.addTo(map);
         map.removeLayer(depthsLayerBackgroundImage);
 
         activateLayer('cave');
@@ -182,7 +191,6 @@ window.addEventListener('load', () => {
 
         map.removeLayer(skyLayerBackgroundImage);
         map.removeLayer(surfaceLayerBackgroundImage);
-        map.removeLayer(caveLayerBackgroundImage);
         depthsLayerBackgroundImage.addTo(map);
 
         activateLayer('depths');
@@ -203,13 +211,13 @@ window.addEventListener('load', () => {
 
         updateLocations();
 
-        jQuery.getJSON('data/layers/' + activeLayer + '.json', function (data) {
+        jQuery.getJSON('data/' + version + '/layers/' + activeLayer + '.json', function (data) {
             parseLayers(layer, data);
             fakeTriggerActiveFilters(true);
         });
     }
 
-    jQuery.getJSON('data/item-filters.json', function (data) {
+    jQuery.getJSON('data/' + version + '/item-filters.json', function (data) {
         let markerHtml = '';
 
         Object.entries(data).forEach(function (markerGroup, index) {

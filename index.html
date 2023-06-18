@@ -21,12 +21,14 @@
     <div id="totk-map"></div>
 
     <div id="sidebar">
+
         <p class="wip"><span title="Work In Progress">WIP</span> | Please leave any issues, requests or suggestions on at <a href="https://github.com/vetyst/TotK-Object-Map" target="_blank">vetyst/TotK-Object-Map</a></p>
 
-        <div class="preset-selector">
-            <label for="presets"></label>
-            <select id="presets">
-                <option value="">Select a preset</option>
+        <div class="version-selector">
+            <label for="versions">Version: </label>
+            <select id="versions">
+                <option value="v1.1.2">Latest (v1.1.2)</option>
+                <option value="v1.0.0">v1.0.0</option>
             </select>
         </div>
 
@@ -35,6 +37,14 @@
             <button id="show-layer-surface" type="button">Surface</button>
             <button id="show-layer-cave" type="button">Cave</button>
             <button id="show-layer-depths" type="button">Depths</button>
+        </div>
+
+        <div class="preset-selector">
+            <label for="presets">
+                <select id="presets">
+                    <option value="">Select a preset</option>
+                </select>
+            </label>
         </div>
 
         <div id="filter-search">

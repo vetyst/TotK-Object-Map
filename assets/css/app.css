@@ -253,6 +253,21 @@ body {
 }
 
 /*
+ * Version Selector
+ */
+
+.version-selector {
+    padding: .5em 0;
+    text-align: right;
+}
+
+.version-selector select {
+    font-size: 14px;
+    padding: .2em;
+    margin-bottom: .5em;
+}
+
+/*
  * Preset
  */
 
@@ -264,7 +279,7 @@ body.preset-filtering #item-filters label:not(.preset) {
     width: 100%;
     font-size: 18px;
     padding: .2em;
-    margin-bottom: .5em;
+    margin-top: .5em;
 }
 
 /*
