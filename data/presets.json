@@ -12,6 +12,12 @@
       "Item_Plant_C"
     ]
   },
+  "armorNotQuests": {
+    "name": "All Armor (no quests rewards)",
+    "objects": [
+      "Armor_"
+    ]
+  },
   "speedUp": {
     "name": "Speed Up",
     "objects": [

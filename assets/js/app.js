@@ -106,16 +106,22 @@ window.addEventListener('load', () => {
 
         jQuery(presets[selectedPreset].objects).each(function (idx, object) {
             let selector = '';
+            let extra = '';
 
             if (object === 'TBox_' || object.startsWith('Enemy_')) {
                 selector = '^';
             }
 
-            if (object.startsWith('SpObj_')) {
+            if (object.startsWith('SpObj_') || object.startsWith('Armor_')) {
                 selector = '*';
             }
 
-            jQuery('#item-filters input[value' + selector + '="' + object + '"]').parent().addClass('preset');
+            if(object.startsWith('Armor_')) {
+                extra += 'input:not([value^="Enemy_"])';
+                extra += 'input:not([value^="Location"])';
+            }
+
+            jQuery('#item-filters input[value' + selector + '="' + object + '"]' + extra).parent().addClass('preset');
         });
 
         doSearch();
