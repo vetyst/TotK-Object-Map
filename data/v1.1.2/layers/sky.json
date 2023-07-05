@@ -49609,7 +49609,7 @@
         ]
     },
     "Obj_KorokPot_A_01": {
-        "name": "",
+        "name": "Pot",
         "icons": [],
         "locations": [
             {
@@ -78359,7 +78359,7 @@
         ]
     },
     "SkyObj_Pot_A_M_Act_01": {
-        "name": "",
+        "name": "Large Pot",
         "icons": [],
         "locations": [
             {
@@ -78550,7 +78550,7 @@
         ]
     },
     "SkyObj_Pot_A_M_Act_01 : Drop__DropTable_Arrow": {
-        "name": "",
+        "name": "Large Pot",
         "icons": [],
         "locations": [
             {
@@ -78571,7 +78571,7 @@
         ]
     },
     "SkyObj_Pot_A_M_Act_01 : Drop__DropTable_Fruit": {
-        "name": "",
+        "name": "Large Pot",
         "icons": [],
         "locations": [
             {
@@ -78587,7 +78587,7 @@
         ]
     },
     "SkyObj_Pot_A_S_Act_01": {
-        "name": "",
+        "name": "Pot",
         "icons": [],
         "locations": [
             {
@@ -78878,7 +78878,7 @@
         ]
     },
     "SkyObj_Pot_A_S_Act_01 : Drop__DropTable_Fruit": {
-        "name": "",
+        "name": "Pot",
         "icons": [],
         "locations": [
             {
@@ -78919,7 +78919,7 @@
         ]
     },
     "SkyObj_Pot_A_S_Act_01 : Drop__DropTable_None": {
-        "name": "",
+        "name": "Pot",
         "icons": [],
         "locations": [
             {

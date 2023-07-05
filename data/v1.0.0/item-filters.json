@@ -268,15 +268,15 @@
         "count": 8
     },
     "Animal_Donkey_B": {
-        "name": "",
+        "name": "Donkey",
         "count": 1
     },
     "Animal_Donkey_B_MOTD": {
-        "name": "",
+        "name": "Donkey",
         "count": 23
     },
     "Animal_Donkey_C": {
-        "name": "",
+        "name": "Donkey",
         "count": 3
     },
     "Animal_Elk_A": {
@@ -5908,27 +5908,27 @@
         "count": 1
     },
     "DgnObj_ElectricPot_A_LL_Act_01": {
-        "name": "",
+        "name": "Pot",
         "count": 44
     },
     "DgnObj_ElectricPot_A_LL_Act_01 : Drop__DropTable_GerudoDungeon": {
-        "name": "",
+        "name": "Pot",
         "count": 42
     },
     "DgnObj_ElectricPot_A_LL_Act_01 : Item_Ore_E": {
-        "name": "Opal",
+        "name": "Pot : Opal",
         "count": 2
     },
     "DgnObj_ElectricPot_A_LL_Act_01 : Item_Ore_F": {
-        "name": "Amber",
+        "name": "Pot : Amber",
         "count": 3
     },
     "DgnObj_ElectricPot_A_LL_Act_01 : Obj_ArrowBundle_A_02": {
-        "name": "Arrow x 10",
+        "name": "Pot : Arrow x 10",
         "count": 1
     },
     "DgnObj_ElectricPot_A_LL_Act_01 : Obj_ArrowNormal_A_01": {
-        "name": "",
+        "name": "Pot",
         "count": 1
     },
     "DgnObj_ElectricPyramidShutterEnergy_A_01": {
@@ -42796,11 +42796,11 @@
         "count": 42
     },
     "Obj_KorokPotFixedVine_A_01": {
-        "name": "",
+        "name": "Pot",
         "count": 17
     },
     "Obj_KorokPot_A_01": {
-        "name": "",
+        "name": "Pot",
         "count": 54
     },
     "Obj_LadderParts_A_01": {
@@ -45124,11 +45124,11 @@
         "count": 5
     },
     "Pot": {
-        "name": "",
+        "name": "Pot",
         "count": 65
     },
     "Pot : PutRupee_Blue": {
-        "name": "Blue Rupee",
+        "name": "Pot : Blue Rupee",
         "count": 2
     },
     "PreTraversePos": {
@@ -46584,27 +46584,27 @@
         "count": 2
     },
     "SkyObj_Pot_A_M_Act_01": {
-        "name": "",
+        "name": "Large Pot",
         "count": 37
     },
     "SkyObj_Pot_A_M_Act_01 : Drop__DropTable_Arrow": {
-        "name": "",
+        "name": "Large Pot",
         "count": 3
     },
     "SkyObj_Pot_A_M_Act_01 : Drop__DropTable_Fruit": {
-        "name": "",
+        "name": "Large Pot",
         "count": 2
     },
     "SkyObj_Pot_A_S_Act_01": {
-        "name": "",
+        "name": "Pot",
         "count": 57
     },
     "SkyObj_Pot_A_S_Act_01 : Drop__DropTable_Fruit": {
-        "name": "",
+        "name": "Pot",
         "count": 7
     },
     "SkyObj_Pot_A_S_Act_01 : Drop__DropTable_None": {
-        "name": "",
+        "name": "Pot",
         "count": 2
     },
     "SkyObj_RaumiManufacture_A_06": {
@@ -50712,7 +50712,7 @@
         "count": 1
     },
     "TimerBarrelBomb": {
-        "name": "Wooden Barrel",
+        "name": "Barrel Timer Bomb",
         "count": 430
     },
     "TobyPatrolAnchor": {
@@ -51668,35 +51668,35 @@
         "count": 1
     },
     "TwnObj_City_GerudoPot_A_LL_Act_02": {
-        "name": "",
+        "name": "Pot",
         "count": 9
     },
     "TwnObj_City_GerudoPot_A_M_Act_01": {
-        "name": "",
+        "name": "Pot",
         "count": 5
     },
     "TwnObj_City_GerudoPot_A_M_Act_01 : Drop__DropTable_None": {
-        "name": "",
+        "name": "Pot",
         "count": 1
     },
     "TwnObj_City_GerudoPot_A_M_Act_01 : PutRupee_Red": {
-        "name": "Red Rupee",
+        "name": "Pot : Red Rupee",
         "count": 1
     },
     "TwnObj_City_GerudoPot_A_S_Act_01": {
-        "name": "",
+        "name": "Pot",
         "count": 2
     },
     "TwnObj_City_GerudoPot_A_S_Act_01 : Drop__DropTable_None": {
-        "name": "",
+        "name": "Pot",
         "count": 1
     },
     "TwnObj_City_GerudoPot_A_S_Act_01 : PutRupee": {
-        "name": "Green Rupee",
+        "name": "Pot : Green Rupee",
         "count": 1
     },
     "TwnObj_City_GerudoPot_A_S_Act_01 : PutRupee_Blue": {
-        "name": "Blue Rupee",
+        "name": "Pot : Blue Rupee",
         "count": 2
     },
     "TwnObj_City_GerudoRentalCounterInsideMat_A_01": {
@@ -52080,7 +52080,7 @@
         "count": 1
     },
     "TwnObj_City_GoronPot_A_M_Act_01": {
-        "name": "",
+        "name": "Pot",
         "count": 29
     },
     "TwnObj_City_GoronRestaurantsCushionA_01": {
@@ -52708,7 +52708,7 @@
         "count": 1
     },
     "TwnObj_GerudoUndergroundBarPot_A_01": {
-        "name": "",
+        "name": "Pot",
         "count": 7
     },
     "TwnObj_GerudoUndergroundBarTable_A_01": {
@@ -55020,11 +55020,11 @@
         "count": 1
     },
     "TwnObj_Village_FishingPlantPot_A_01": {
-        "name": "",
+        "name": "Pot",
         "count": 7
     },
     "TwnObj_Village_FishingPlantPot_A_02": {
-        "name": "",
+        "name": "Pot",
         "count": 7
     },
     "TwnObj_Village_FishingPole_A_01": {
@@ -55032,7 +55032,7 @@
         "count": 5
     },
     "TwnObj_Village_FishingPot_A_M_Act_01": {
-        "name": "",
+        "name": "Pot",
         "count": 11
     },
     "TwnObj_Village_FishingPrizeCase_A_01": {
@@ -55512,15 +55512,15 @@
         "count": 1
     },
     "TwnObj_Village_HatenoPot_A_L_Act_01": {
-        "name": "",
+        "name": "Pot",
         "count": 13
     },
     "TwnObj_Village_HatenoPot_A_M_Act_01": {
-        "name": "",
+        "name": "Pot",
         "count": 10
     },
     "TwnObj_Village_HatenoPot_A_S_Act_01": {
-        "name": "",
+        "name": "Pot",
         "count": 10
     },
     "TwnObj_Village_HatenoRock_A_01": {
@@ -56004,7 +56004,7 @@
         "count": 36
     },
     "TwnObj_Village_KorokPot_A_S_Act_01": {
-        "name": "",
+        "name": "Pot",
         "count": 24
     },
     "TwnObj_Village_KorokShopLeaf_A_01": {
@@ -56396,35 +56396,35 @@
         "count": 1
     },
     "TwnObj_Village_RitoPot_A_M_Act_01": {
-        "name": "",
+        "name": "Pot",
         "count": 5
     },
     "TwnObj_Village_RitoPot_A_M_Act_01 : Drop__DropTable_NoFood": {
-        "name": "",
+        "name": "Pot",
         "count": 5
     },
     "TwnObj_Village_RitoPot_A_M_Act_02": {
-        "name": "",
+        "name": "Pot",
         "count": 4
     },
     "TwnObj_Village_RitoPot_A_M_Act_02 : Drop__DropTable_NoFood": {
-        "name": "",
+        "name": "Pot",
         "count": 4
     },
     "TwnObj_Village_RitoPot_A_S_Act_01": {
-        "name": "",
+        "name": "Pot",
         "count": 4
     },
     "TwnObj_Village_RitoPot_A_S_Act_01 : Drop__DropTable_NoFood": {
-        "name": "",
+        "name": "Pot",
         "count": 4
     },
     "TwnObj_Village_RitoPot_A_S_Act_02": {
-        "name": "",
+        "name": "Pot",
         "count": 7
     },
     "TwnObj_Village_RitoPot_A_S_Act_02 : Drop__DropTable_NoFood": {
-        "name": "",
+        "name": "Pot",
         "count": 7
     },
     "TwnObj_Village_RitoRock_A_01": {
@@ -57004,19 +57004,19 @@
         "count": 3
     },
     "TwnObj_Village_SheikerPot_A_LL_Act_01": {
-        "name": "",
+        "name": "Pot",
         "count": 4
     },
     "TwnObj_Village_SheikerPot_A_L_Act_01": {
-        "name": "",
+        "name": "Pot",
         "count": 1
     },
     "TwnObj_Village_SheikerPot_A_M_Act_02": {
-        "name": "",
+        "name": "Pot",
         "count": 17
     },
     "TwnObj_Village_SheikerPot_A_S_Act_01": {
-        "name": "",
+        "name": "Pot",
         "count": 9
     },
     "TwnObj_Village_SheikerRockReliefPicture_A_01": {
@@ -57344,7 +57344,7 @@
         "count": 13
     },
     "TwnObj_Village_ZoraPot_A_M_Act_01": {
-        "name": "",
+        "name": "Pot",
         "count": 18
     },
     "TwnObj_Village_ZoraRoyalRoomAirWall_A_01": {
