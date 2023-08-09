@@ -118,7 +118,7 @@ window.addEventListener('load', () => {
                 selector = '*';
             }
 
-            if(object.startsWith('Armor_')) {
+            if (object.startsWith('Armor_')) {
                 extra += 'input:not([value^="Enemy_"])';
                 extra += 'input:not([value^="Location"])';
             }
@@ -321,16 +321,22 @@ window.addEventListener('load', () => {
                     title: point.z + ' - ' + val,
                 });
 
+                let popupName = displayName;
+                if (point.id) {
+                    popupName = point.id + ' - ' + displayName;
+                }
+
                 let popup =
                     "<div class='totk-marker'>" +
-                    "   <h2>" + displayName + "</h2>" +
+                    "   <h2>" + popupName + "</h2>" +
                     "   <div class='content'>" +
+                    "       <p class=\"smaller-name\">" + point.hash + '</p>' +
                     "       <div class='totk-marker-meta'>" +
                     "          <span><strong>X: </strong>" + point.y + "</span>" +
                     "          <span><strong>Y: </strong>" + point.x + "</span>" +
                     "          <span><strong>Z: </strong>" + point.z + "</span>" +
                     "       </div>" +
-                    iconsHtml +
+                            iconsHtml +
                     "   </div>" +
                     "</div>";
 
